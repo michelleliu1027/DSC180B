@@ -1,0 +1,5 @@
+{
+  "battery_query": "select u.MEASUREMENT_TIME, u.Value as Estimated_Remaining_Time from inputs i inner join counters_ull_time_data u on i.id_input=u.id_input WHERE u.SESSION_ID = 1000 AND u.ID_INPUT = 6 group by measurement_time order by measurement_time;",
+  "process_query": "select u.MEASUREMENT_TIME, Count(u.Value) as Number_Of_ExEfiles from inputs i inner join COUNTERS_STRING_TIME_DATA u on i.id_input=u.id_input WHERE u.SESSION_ID = 2 AND u.ID_INPUT = 15 group by measurement_time order by measurement_time;",
+  "cp2_query" : "select INPUT_DESCRIPTION, MEASUREMENT_TIME, VALUE from inputs i  join (SELECT * FROM counters_ull_time_data UNION SELECT * FROM counters_ll_time_data) all_data WHERE i.id_input = all_data.id_input ORDER BY MEASUREMENT_TIME"
+}

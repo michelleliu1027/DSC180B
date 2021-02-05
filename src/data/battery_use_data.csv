@@ -1,0 +1,3025 @@
+,INPUT_DESCRIPTION,MEASUREMENT_TIME,VALUE
+0,Battery Tag,2020-11-20 07:20:53.332,4
+1,Battery Designed Capacity (mWh) ,2020-11-20 07:20:53.332,70000
+2,Battery Full Charged Capacity (mWh),2020-11-20 07:20:53.332,69680
+3,Battery Cycle Count,2020-11-20 07:20:53.332,12
+4,Battery Left (%).,2020-11-20 07:20:53.399,98
+5,Battery Flag,2020-11-20 07:20:53.399,9
+6,Battery Life Time (Seconds).,2020-11-20 07:20:53.399,4294967295
+7,Battery Charging.,2020-11-20 07:20:53.399,1
+8,Battery Discharging.,2020-11-20 07:20:53.399,0
+9,Battery MaxCapacity (mWh).,2020-11-20 07:20:53.399,69680
+10,Battery estimatedTime (Seconds).,2020-11-20 07:20:53.399,4294967295
+11,Battery Current Capacity (mWh),2020-11-20 07:20:53.399,68380
+12,Battery Voltage (mv),2020-11-20 07:20:53.399,17375
+13,Battery Rate (mW),2020-11-20 07:20:53.399,5803
+14,Battery Tag,2020-11-20 07:21:23.331,4
+15,Battery Designed Capacity (mWh) ,2020-11-20 07:21:23.331,70000
+16,Battery Full Charged Capacity (mWh),2020-11-20 07:21:23.331,69680
+17,Battery Cycle Count,2020-11-20 07:21:23.331,12
+18,Battery Left (%).,2020-11-20 07:21:23.396,98
+19,Battery Flag,2020-11-20 07:21:23.396,9
+20,Battery Life Time (Seconds).,2020-11-20 07:21:23.396,4294967295
+21,Battery Charging.,2020-11-20 07:21:23.396,1
+22,Battery Discharging.,2020-11-20 07:21:23.396,0
+23,Battery MaxCapacity (mWh).,2020-11-20 07:21:23.396,69680
+24,Battery estimatedTime (Seconds).,2020-11-20 07:21:23.396,4294967295
+25,Battery Current Capacity (mWh),2020-11-20 07:21:23.396,68420
+26,Battery Voltage (mv),2020-11-20 07:21:23.396,17375
+27,Battery Rate (mW),2020-11-20 07:21:23.396,5699
+28,Battery Tag,2020-11-20 07:21:53.330,4
+29,Battery Designed Capacity (mWh) ,2020-11-20 07:21:53.330,70000
+30,Battery Full Charged Capacity (mWh),2020-11-20 07:21:53.330,69680
+31,Battery Cycle Count,2020-11-20 07:21:53.330,12
+32,Battery Left (%).,2020-11-20 07:21:53.397,98
+33,Battery Flag,2020-11-20 07:21:53.397,9
+34,Battery Life Time (Seconds).,2020-11-20 07:21:53.397,4294967295
+35,Battery Charging.,2020-11-20 07:21:53.397,1
+36,Battery Discharging.,2020-11-20 07:21:53.397,0
+37,Battery MaxCapacity (mWh).,2020-11-20 07:21:53.397,69680
+38,Battery estimatedTime (Seconds).,2020-11-20 07:21:53.397,4294967295
+39,Battery Current Capacity (mWh),2020-11-20 07:21:53.397,68450
+40,Battery Voltage (mv),2020-11-20 07:21:53.397,17375
+41,Battery Rate (mW),2020-11-20 07:21:53.397,5577
+42,Battery Tag,2020-11-20 07:22:23.329,4
+43,Battery Designed Capacity (mWh) ,2020-11-20 07:22:23.329,70000
+44,Battery Full Charged Capacity (mWh),2020-11-20 07:22:23.329,69680
+45,Battery Cycle Count,2020-11-20 07:22:23.329,12
+46,Battery Left (%).,2020-11-20 07:22:23.395,98
+47,Battery Flag,2020-11-20 07:22:23.395,9
+48,Battery Life Time (Seconds).,2020-11-20 07:22:23.395,4294967295
+49,Battery Charging.,2020-11-20 07:22:23.395,1
+50,Battery Discharging.,2020-11-20 07:22:23.395,0
+51,Battery MaxCapacity (mWh).,2020-11-20 07:22:23.395,69680
+52,Battery estimatedTime (Seconds).,2020-11-20 07:22:23.395,4294967295
+53,Battery Current Capacity (mWh),2020-11-20 07:22:23.395,68490
+54,Battery Voltage (mv),2020-11-20 07:22:23.395,17376
+55,Battery Rate (mW),2020-11-20 07:22:23.395,5456
+56,Battery Tag,2020-11-20 07:22:53.329,4
+57,Battery Designed Capacity (mWh) ,2020-11-20 07:22:53.329,70000
+58,Battery Full Charged Capacity (mWh),2020-11-20 07:22:53.329,69680
+59,Battery Cycle Count,2020-11-20 07:22:53.329,12
+60,Battery Left (%).,2020-11-20 07:22:53.396,98
+61,Battery Flag,2020-11-20 07:22:53.396,9
+62,Battery Life Time (Seconds).,2020-11-20 07:22:53.396,4294967295
+63,Battery Charging.,2020-11-20 07:22:53.396,1
+64,Battery Discharging.,2020-11-20 07:22:53.396,0
+65,Battery MaxCapacity (mWh).,2020-11-20 07:22:53.396,69680
+66,Battery estimatedTime (Seconds).,2020-11-20 07:22:53.396,4294967295
+67,Battery Current Capacity (mWh),2020-11-20 07:22:53.396,68530
+68,Battery Voltage (mv),2020-11-20 07:22:53.396,17381
+69,Battery Rate (mW),2020-11-20 07:22:53.396,5353
+70,Battery Tag,2020-11-20 07:23:23.328,4
+71,Battery Designed Capacity (mWh) ,2020-11-20 07:23:23.328,70000
+72,Battery Full Charged Capacity (mWh),2020-11-20 07:23:23.328,69680
+73,Battery Cycle Count,2020-11-20 07:23:23.328,12
+74,Battery Left (%).,2020-11-20 07:23:23.395,98
+75,Battery Flag,2020-11-20 07:23:23.395,9
+76,Battery Life Time (Seconds).,2020-11-20 07:23:23.395,4294967295
+77,Battery Charging.,2020-11-20 07:23:23.395,1
+78,Battery Discharging.,2020-11-20 07:23:23.395,0
+79,Battery MaxCapacity (mWh).,2020-11-20 07:23:23.395,69680
+80,Battery estimatedTime (Seconds).,2020-11-20 07:23:23.395,4294967295
+81,Battery Current Capacity (mWh),2020-11-20 07:23:23.395,68560
+82,Battery Voltage (mv),2020-11-20 07:23:23.395,17377
+83,Battery Rate (mW),2020-11-20 07:23:23.395,5265
+84,Battery Tag,2020-11-20 07:23:53.327,4
+85,Battery Designed Capacity (mWh) ,2020-11-20 07:23:53.327,70000
+86,Battery Full Charged Capacity (mWh),2020-11-20 07:23:53.327,69680
+87,Battery Cycle Count,2020-11-20 07:23:53.327,12
+88,Battery Left (%).,2020-11-20 07:23:53.394,98
+89,Battery Flag,2020-11-20 07:23:53.394,9
+90,Battery Life Time (Seconds).,2020-11-20 07:23:53.394,4294967295
+91,Battery Charging.,2020-11-20 07:23:53.394,1
+92,Battery Discharging.,2020-11-20 07:23:53.394,0
+93,Battery MaxCapacity (mWh).,2020-11-20 07:23:53.394,69680
+94,Battery estimatedTime (Seconds).,2020-11-20 07:23:53.394,4294967295
+95,Battery Current Capacity (mWh),2020-11-20 07:23:53.394,68600
+96,Battery Voltage (mv),2020-11-20 07:23:53.394,17376
+97,Battery Rate (mW),2020-11-20 07:23:53.394,5160
+98,Battery Tag,2020-11-20 07:24:23.327,4
+99,Battery Designed Capacity (mWh) ,2020-11-20 07:24:23.327,70000
+100,Battery Full Charged Capacity (mWh),2020-11-20 07:24:23.327,69680
+101,Battery Cycle Count,2020-11-20 07:24:23.327,12
+102,Battery Left (%).,2020-11-20 07:24:23.394,98
+103,Battery Flag,2020-11-20 07:24:23.394,9
+104,Battery Life Time (Seconds).,2020-11-20 07:24:23.394,4294967295
+105,Battery Charging.,2020-11-20 07:24:23.394,1
+106,Battery Discharging.,2020-11-20 07:24:23.394,0
+107,Battery MaxCapacity (mWh).,2020-11-20 07:24:23.394,69680
+108,Battery estimatedTime (Seconds).,2020-11-20 07:24:23.394,4294967295
+109,Battery Current Capacity (mWh),2020-11-20 07:24:23.394,68630
+110,Battery Voltage (mv),2020-11-20 07:24:23.394,17377
+111,Battery Rate (mW),2020-11-20 07:24:23.394,5039
+112,Battery Tag,2020-11-20 07:24:53.326,4
+113,Battery Designed Capacity (mWh) ,2020-11-20 07:24:53.326,70000
+114,Battery Full Charged Capacity (mWh),2020-11-20 07:24:53.326,69680
+115,Battery Cycle Count,2020-11-20 07:24:53.326,12
+116,Battery Left (%).,2020-11-20 07:24:53.393,99
+117,Battery Flag,2020-11-20 07:24:53.393,9
+118,Battery Life Time (Seconds).,2020-11-20 07:24:53.393,4294967295
+119,Battery Charging.,2020-11-20 07:24:53.393,1
+120,Battery Discharging.,2020-11-20 07:24:53.393,0
+121,Battery MaxCapacity (mWh).,2020-11-20 07:24:53.393,69680
+122,Battery estimatedTime (Seconds).,2020-11-20 07:24:53.393,4294967295
+123,Battery Current Capacity (mWh),2020-11-20 07:24:53.393,68670
+124,Battery Voltage (mv),2020-11-20 07:24:53.393,17377
+125,Battery Rate (mW),2020-11-20 07:24:53.393,4935
+126,Battery Tag,2020-11-20 07:25:23.326,4
+127,Battery Designed Capacity (mWh) ,2020-11-20 07:25:23.326,70000
+128,Battery Full Charged Capacity (mWh),2020-11-20 07:25:23.326,69680
+129,Battery Cycle Count,2020-11-20 07:25:23.326,12
+130,Battery Left (%).,2020-11-20 07:25:23.392,99
+131,Battery Flag,2020-11-20 07:25:23.392,9
+132,Battery Life Time (Seconds).,2020-11-20 07:25:23.392,4294967295
+133,Battery Charging.,2020-11-20 07:25:23.392,1
+134,Battery Discharging.,2020-11-20 07:25:23.392,0
+135,Battery MaxCapacity (mWh).,2020-11-20 07:25:23.392,69680
+136,Battery estimatedTime (Seconds).,2020-11-20 07:25:23.392,4294967295
+137,Battery Current Capacity (mWh),2020-11-20 07:25:23.392,68700
+138,Battery Voltage (mv),2020-11-20 07:25:23.392,17376
+139,Battery Rate (mW),2020-11-20 07:25:23.392,4847
+140,Battery Tag,2020-11-20 07:25:53.326,4
+141,Battery Designed Capacity (mWh) ,2020-11-20 07:25:53.326,70000
+142,Battery Full Charged Capacity (mWh),2020-11-20 07:25:53.326,69680
+143,Battery Cycle Count,2020-11-20 07:25:53.326,12
+144,Battery Left (%).,2020-11-20 07:25:53.392,99
+145,Battery Flag,2020-11-20 07:25:53.392,9
+146,Battery Life Time (Seconds).,2020-11-20 07:25:53.392,4294967295
+147,Battery Charging.,2020-11-20 07:25:53.392,1
+148,Battery Discharging.,2020-11-20 07:25:53.392,0
+149,Battery MaxCapacity (mWh).,2020-11-20 07:25:53.392,69680
+150,Battery estimatedTime (Seconds).,2020-11-20 07:25:53.392,4294967295
+151,Battery Current Capacity (mWh),2020-11-20 07:25:53.392,68730
+152,Battery Voltage (mv),2020-11-20 07:25:53.392,17376
+153,Battery Rate (mW),2020-11-20 07:25:53.392,4743
+154,Battery Tag,2020-11-20 07:26:23.325,4
+155,Battery Designed Capacity (mWh) ,2020-11-20 07:26:23.325,70000
+156,Battery Full Charged Capacity (mWh),2020-11-20 07:26:23.325,69680
+157,Battery Cycle Count,2020-11-20 07:26:23.325,12
+158,Battery Left (%).,2020-11-20 07:26:23.392,99
+159,Battery Flag,2020-11-20 07:26:23.392,9
+160,Battery Life Time (Seconds).,2020-11-20 07:26:23.392,4294967295
+161,Battery Charging.,2020-11-20 07:26:23.392,1
+162,Battery Discharging.,2020-11-20 07:26:23.392,0
+163,Battery MaxCapacity (mWh).,2020-11-20 07:26:23.392,69680
+164,Battery estimatedTime (Seconds).,2020-11-20 07:26:23.392,4294967295
+165,Battery Current Capacity (mWh),2020-11-20 07:26:23.392,68760
+166,Battery Voltage (mv),2020-11-20 07:26:23.392,17382
+167,Battery Rate (mW),2020-11-20 07:26:23.392,4658
+168,Battery Tag,2020-11-20 07:26:53.325,4
+169,Battery Designed Capacity (mWh) ,2020-11-20 07:26:53.325,70000
+170,Battery Full Charged Capacity (mWh),2020-11-20 07:26:53.325,69680
+171,Battery Cycle Count,2020-11-20 07:26:53.325,12
+172,Battery Left (%).,2020-11-20 07:26:53.392,99
+173,Battery Flag,2020-11-20 07:26:53.392,9
+174,Battery Life Time (Seconds).,2020-11-20 07:26:53.392,4294967295
+175,Battery Charging.,2020-11-20 07:26:53.392,1
+176,Battery Discharging.,2020-11-20 07:26:53.392,0
+177,Battery MaxCapacity (mWh).,2020-11-20 07:26:53.392,69680
+178,Battery estimatedTime (Seconds).,2020-11-20 07:26:53.392,4294967295
+179,Battery Current Capacity (mWh),2020-11-20 07:26:53.392,68790
+180,Battery Voltage (mv),2020-11-20 07:26:53.392,17377
+181,Battery Rate (mW),2020-11-20 07:26:53.392,4552
+182,Battery Tag,2020-11-20 07:27:23.325,4
+183,Battery Designed Capacity (mWh) ,2020-11-20 07:27:23.325,70000
+184,Battery Full Charged Capacity (mWh),2020-11-20 07:27:23.325,69680
+185,Battery Cycle Count,2020-11-20 07:27:23.325,12
+186,Battery Left (%).,2020-11-20 07:27:23.392,99
+187,Battery Flag,2020-11-20 07:27:23.392,9
+188,Battery Life Time (Seconds).,2020-11-20 07:27:23.392,4294967295
+189,Battery Charging.,2020-11-20 07:27:23.392,1
+190,Battery Discharging.,2020-11-20 07:27:23.392,0
+191,Battery MaxCapacity (mWh).,2020-11-20 07:27:23.392,69680
+192,Battery estimatedTime (Seconds).,2020-11-20 07:27:23.392,4294967295
+193,Battery Current Capacity (mWh),2020-11-20 07:27:23.392,68820
+194,Battery Voltage (mv),2020-11-20 07:27:23.392,17378
+195,Battery Rate (mW),2020-11-20 07:27:23.392,4466
+196,Battery Tag,2020-11-20 07:27:53.324,4
+197,Battery Designed Capacity (mWh) ,2020-11-20 07:27:53.324,70000
+198,Battery Full Charged Capacity (mWh),2020-11-20 07:27:53.324,69680
+199,Battery Cycle Count,2020-11-20 07:27:53.324,12
+200,Battery Left (%).,2020-11-20 07:27:53.391,99
+201,Battery Flag,2020-11-20 07:27:53.391,9
+202,Battery Life Time (Seconds).,2020-11-20 07:27:53.391,4294967295
+203,Battery Charging.,2020-11-20 07:27:53.391,1
+204,Battery Discharging.,2020-11-20 07:27:53.391,0
+205,Battery MaxCapacity (mWh).,2020-11-20 07:27:53.391,69680
+206,Battery estimatedTime (Seconds).,2020-11-20 07:27:53.391,4294967295
+207,Battery Current Capacity (mWh),2020-11-20 07:27:53.391,68860
+208,Battery Voltage (mv),2020-11-20 07:27:53.391,17377
+209,Battery Rate (mW),2020-11-20 07:27:53.391,4379
+210,Battery Tag,2020-11-20 07:28:23.325,4
+211,Battery Designed Capacity (mWh) ,2020-11-20 07:28:23.325,70000
+212,Battery Full Charged Capacity (mWh),2020-11-20 07:28:23.325,69680
+213,Battery Cycle Count,2020-11-20 07:28:23.325,12
+214,Battery Left (%).,2020-11-20 07:28:23.392,99
+215,Battery Flag,2020-11-20 07:28:23.392,9
+216,Battery Life Time (Seconds).,2020-11-20 07:28:23.392,4294967295
+217,Battery Charging.,2020-11-20 07:28:23.392,1
+218,Battery Discharging.,2020-11-20 07:28:23.392,0
+219,Battery MaxCapacity (mWh).,2020-11-20 07:28:23.392,69680
+220,Battery estimatedTime (Seconds).,2020-11-20 07:28:23.392,4294967295
+221,Battery Current Capacity (mWh),2020-11-20 07:28:23.392,68890
+222,Battery Voltage (mv),2020-11-20 07:28:23.392,17378
+223,Battery Rate (mW),2020-11-20 07:28:23.392,4292
+224,Battery Tag,2020-11-20 07:28:53.324,4
+225,Battery Designed Capacity (mWh) ,2020-11-20 07:28:53.324,70000
+226,Battery Full Charged Capacity (mWh),2020-11-20 07:28:53.324,69680
+227,Battery Cycle Count,2020-11-20 07:28:53.324,12
+228,Battery Left (%).,2020-11-20 07:28:53.392,99
+229,Battery Flag,2020-11-20 07:28:53.392,9
+230,Battery Life Time (Seconds).,2020-11-20 07:28:53.392,4294967295
+231,Battery Charging.,2020-11-20 07:28:53.392,1
+232,Battery Discharging.,2020-11-20 07:28:53.392,0
+233,Battery MaxCapacity (mWh).,2020-11-20 07:28:53.392,69680
+234,Battery estimatedTime (Seconds).,2020-11-20 07:28:53.392,4294967295
+235,Battery Current Capacity (mWh),2020-11-20 07:28:53.392,68910
+236,Battery Voltage (mv),2020-11-20 07:28:53.392,17377
+237,Battery Rate (mW),2020-11-20 07:28:53.392,4205
+238,Battery Tag,2020-11-20 07:29:23.323,4
+239,Battery Designed Capacity (mWh) ,2020-11-20 07:29:23.323,70000
+240,Battery Full Charged Capacity (mWh),2020-11-20 07:29:23.323,69680
+241,Battery Cycle Count,2020-11-20 07:29:23.323,12
+242,Battery Left (%).,2020-11-20 07:29:23.391,99
+243,Battery Flag,2020-11-20 07:29:23.391,9
+244,Battery Life Time (Seconds).,2020-11-20 07:29:23.391,4294967295
+245,Battery Charging.,2020-11-20 07:29:23.391,1
+246,Battery Discharging.,2020-11-20 07:29:23.391,0
+247,Battery MaxCapacity (mWh).,2020-11-20 07:29:23.391,69680
+248,Battery estimatedTime (Seconds).,2020-11-20 07:29:23.391,4294967295
+249,Battery Current Capacity (mWh),2020-11-20 07:29:23.391,68940
+250,Battery Voltage (mv),2020-11-20 07:29:23.391,17382
+251,Battery Rate (mW),2020-11-20 07:29:23.391,4119
+252,Battery Tag,2020-11-20 07:29:53.322,4
+253,Battery Designed Capacity (mWh) ,2020-11-20 07:29:53.322,70000
+254,Battery Full Charged Capacity (mWh),2020-11-20 07:29:53.322,69680
+255,Battery Cycle Count,2020-11-20 07:29:53.322,12
+256,Battery Left (%).,2020-11-20 07:29:53.389,99
+257,Battery Flag,2020-11-20 07:29:53.389,9
+258,Battery Life Time (Seconds).,2020-11-20 07:29:53.389,4294967295
+259,Battery Charging.,2020-11-20 07:29:53.389,1
+260,Battery Discharging.,2020-11-20 07:29:53.389,0
+261,Battery MaxCapacity (mWh).,2020-11-20 07:29:53.389,69680
+262,Battery estimatedTime (Seconds).,2020-11-20 07:29:53.389,4294967295
+263,Battery Current Capacity (mWh),2020-11-20 07:29:53.389,68970
+264,Battery Voltage (mv),2020-11-20 07:29:53.389,17382
+265,Battery Rate (mW),2020-11-20 07:29:53.389,4032
+266,Battery Tag,2020-11-20 07:30:53.321,4
+267,Battery Designed Capacity (mWh) ,2020-11-20 07:30:53.321,70000
+268,Battery Full Charged Capacity (mWh),2020-11-20 07:30:53.321,69680
+269,Battery Cycle Count,2020-11-20 07:30:53.321,12
+270,Battery Left (%).,2020-11-20 07:30:53.388,99
+271,Battery Flag,2020-11-20 07:30:53.388,9
+272,Battery Life Time (Seconds).,2020-11-20 07:30:53.388,4294967295
+273,Battery Charging.,2020-11-20 07:30:53.388,1
+274,Battery Discharging.,2020-11-20 07:30:53.388,0
+275,Battery MaxCapacity (mWh).,2020-11-20 07:30:53.388,69680
+276,Battery estimatedTime (Seconds).,2020-11-20 07:30:53.388,4294967295
+277,Battery Current Capacity (mWh),2020-11-20 07:30:53.388,69020
+278,Battery Voltage (mv),2020-11-20 07:30:53.388,17378
+279,Battery Rate (mW),2020-11-20 07:30:53.388,3875
+280,Battery Tag,2020-11-20 07:31:23.321,4
+281,Battery Designed Capacity (mWh) ,2020-11-20 07:31:23.321,70000
+282,Battery Full Charged Capacity (mWh),2020-11-20 07:31:23.321,69680
+283,Battery Cycle Count,2020-11-20 07:31:23.321,12
+284,Battery Left (%).,2020-11-20 07:31:23.388,100
+285,Battery Flag,2020-11-20 07:31:23.388,1
+286,Battery Life Time (Seconds).,2020-11-20 07:31:23.388,4294967295
+287,Battery Charging.,2020-11-20 07:31:23.388,0
+288,Battery Discharging.,2020-11-20 07:31:23.388,0
+289,Battery MaxCapacity (mWh).,2020-11-20 07:31:23.388,69680
+290,Battery estimatedTime (Seconds).,2020-11-20 07:31:23.388,4294967295
+291,Battery Current Capacity (mWh),2020-11-20 07:31:23.388,69680
+292,Battery Voltage (mv),2020-11-20 07:31:23.388,17322
+293,Battery Rate (mW),2020-11-20 07:31:23.388,0
+294,Battery Tag,2020-11-20 07:31:53.321,4
+295,Battery Designed Capacity (mWh) ,2020-11-20 07:31:53.321,70000
+296,Battery Full Charged Capacity (mWh),2020-11-20 07:31:53.321,69680
+297,Battery Cycle Count,2020-11-20 07:31:53.321,12
+298,Battery Left (%).,2020-11-20 07:31:53.388,100
+299,Battery Flag,2020-11-20 07:31:53.388,1
+300,Battery Life Time (Seconds).,2020-11-20 07:31:53.388,4294967295
+301,Battery Charging.,2020-11-20 07:31:53.388,0
+302,Battery Discharging.,2020-11-20 07:31:53.388,0
+303,Battery MaxCapacity (mWh).,2020-11-20 07:31:53.388,69680
+304,Battery estimatedTime (Seconds).,2020-11-20 07:31:53.388,4294967295
+305,Battery Current Capacity (mWh),2020-11-20 07:31:53.388,69680
+306,Battery Voltage (mv),2020-11-20 07:31:53.388,17315
+307,Battery Rate (mW),2020-11-20 07:31:53.388,0
+308,Battery Tag,2020-11-20 07:32:23.321,4
+309,Battery Designed Capacity (mWh) ,2020-11-20 07:32:23.321,70000
+310,Battery Full Charged Capacity (mWh),2020-11-20 07:32:23.321,69680
+311,Battery Cycle Count,2020-11-20 07:32:23.321,12
+312,Battery Left (%).,2020-11-20 07:32:23.388,100
+313,Battery Flag,2020-11-20 07:32:23.388,1
+314,Battery Life Time (Seconds).,2020-11-20 07:32:23.388,4294967295
+315,Battery Charging.,2020-11-20 07:32:23.388,0
+316,Battery Discharging.,2020-11-20 07:32:23.388,0
+317,Battery MaxCapacity (mWh).,2020-11-20 07:32:23.388,69680
+318,Battery estimatedTime (Seconds).,2020-11-20 07:32:23.388,4294967295
+319,Battery Current Capacity (mWh),2020-11-20 07:32:23.388,69680
+320,Battery Voltage (mv),2020-11-20 07:32:23.388,17311
+321,Battery Rate (mW),2020-11-20 07:32:23.388,0
+322,Battery Tag,2020-11-20 07:32:53.320,4
+323,Battery Designed Capacity (mWh) ,2020-11-20 07:32:53.320,70000
+324,Battery Full Charged Capacity (mWh),2020-11-20 07:32:53.320,69680
+325,Battery Cycle Count,2020-11-20 07:32:53.320,12
+326,Battery Left (%).,2020-11-20 07:32:53.387,100
+327,Battery Flag,2020-11-20 07:32:53.387,1
+328,Battery Life Time (Seconds).,2020-11-20 07:32:53.387,4294967295
+329,Battery Charging.,2020-11-20 07:32:53.387,0
+330,Battery Discharging.,2020-11-20 07:32:53.387,0
+331,Battery MaxCapacity (mWh).,2020-11-20 07:32:53.387,69680
+332,Battery estimatedTime (Seconds).,2020-11-20 07:32:53.387,4294967295
+333,Battery Current Capacity (mWh),2020-11-20 07:32:53.387,69680
+334,Battery Voltage (mv),2020-11-20 07:32:53.387,17315
+335,Battery Rate (mW),2020-11-20 07:32:53.387,0
+336,Battery Tag,2020-11-20 07:33:23.321,4
+337,Battery Designed Capacity (mWh) ,2020-11-20 07:33:23.321,70000
+338,Battery Full Charged Capacity (mWh),2020-11-20 07:33:23.321,69680
+339,Battery Cycle Count,2020-11-20 07:33:23.321,12
+340,Battery Left (%).,2020-11-20 07:33:23.387,100
+341,Battery Flag,2020-11-20 07:33:23.387,1
+342,Battery Life Time (Seconds).,2020-11-20 07:33:23.387,4294967295
+343,Battery Charging.,2020-11-20 07:33:23.387,0
+344,Battery Discharging.,2020-11-20 07:33:23.387,0
+345,Battery MaxCapacity (mWh).,2020-11-20 07:33:23.387,69680
+346,Battery estimatedTime (Seconds).,2020-11-20 07:33:23.387,4294967295
+347,Battery Current Capacity (mWh),2020-11-20 07:33:23.387,69680
+348,Battery Voltage (mv),2020-11-20 07:33:23.387,17307
+349,Battery Rate (mW),2020-11-20 07:33:23.387,0
+350,Battery Tag,2020-11-20 07:33:53.320,4
+351,Battery Designed Capacity (mWh) ,2020-11-20 07:33:53.320,70000
+352,Battery Full Charged Capacity (mWh),2020-11-20 07:33:53.320,69680
+353,Battery Cycle Count,2020-11-20 07:33:53.320,12
+354,Battery Left (%).,2020-11-20 07:33:53.387,100
+355,Battery Flag,2020-11-20 07:33:53.387,1
+356,Battery Life Time (Seconds).,2020-11-20 07:33:53.387,4294967295
+357,Battery Charging.,2020-11-20 07:33:53.387,0
+358,Battery Discharging.,2020-11-20 07:33:53.387,0
+359,Battery MaxCapacity (mWh).,2020-11-20 07:33:53.387,69680
+360,Battery estimatedTime (Seconds).,2020-11-20 07:33:53.387,4294967295
+361,Battery Current Capacity (mWh),2020-11-20 07:33:53.387,69680
+362,Battery Voltage (mv),2020-11-20 07:33:53.387,17305
+363,Battery Rate (mW),2020-11-20 07:33:53.387,0
+364,Battery Tag,2020-11-20 07:34:23.319,4
+365,Battery Designed Capacity (mWh) ,2020-11-20 07:34:23.319,70000
+366,Battery Full Charged Capacity (mWh),2020-11-20 07:34:23.319,69680
+367,Battery Cycle Count,2020-11-20 07:34:23.319,12
+368,Battery Left (%).,2020-11-20 07:34:23.387,100
+369,Battery Flag,2020-11-20 07:34:23.387,1
+370,Battery Life Time (Seconds).,2020-11-20 07:34:23.387,4294967295
+371,Battery Charging.,2020-11-20 07:34:23.387,0
+372,Battery Discharging.,2020-11-20 07:34:23.387,0
+373,Battery MaxCapacity (mWh).,2020-11-20 07:34:23.387,69680
+374,Battery estimatedTime (Seconds).,2020-11-20 07:34:23.387,4294967295
+375,Battery Current Capacity (mWh),2020-11-20 07:34:23.387,69680
+376,Battery Voltage (mv),2020-11-20 07:34:23.387,17304
+377,Battery Rate (mW),2020-11-20 07:34:23.387,0
+378,Battery Tag,2020-11-20 07:34:53.319,4
+379,Battery Designed Capacity (mWh) ,2020-11-20 07:34:53.319,70000
+380,Battery Full Charged Capacity (mWh),2020-11-20 07:34:53.319,69680
+381,Battery Cycle Count,2020-11-20 07:34:53.319,12
+382,Battery Left (%).,2020-11-20 07:34:53.386,100
+383,Battery Flag,2020-11-20 07:34:53.386,1
+384,Battery Life Time (Seconds).,2020-11-20 07:34:53.386,4294967295
+385,Battery Charging.,2020-11-20 07:34:53.386,0
+386,Battery Discharging.,2020-11-20 07:34:53.386,0
+387,Battery MaxCapacity (mWh).,2020-11-20 07:34:53.386,69680
+388,Battery estimatedTime (Seconds).,2020-11-20 07:34:53.386,4294967295
+389,Battery Current Capacity (mWh),2020-11-20 07:34:53.386,69680
+390,Battery Voltage (mv),2020-11-20 07:34:53.386,17302
+391,Battery Rate (mW),2020-11-20 07:34:53.386,0
+392,Battery Tag,2020-11-20 07:35:23.319,4
+393,Battery Designed Capacity (mWh) ,2020-11-20 07:35:23.319,70000
+394,Battery Full Charged Capacity (mWh),2020-11-20 07:35:23.319,69680
+395,Battery Cycle Count,2020-11-20 07:35:23.319,12
+396,Battery Left (%).,2020-11-20 07:35:23.387,100
+397,Battery Flag,2020-11-20 07:35:23.387,1
+398,Battery Life Time (Seconds).,2020-11-20 07:35:23.387,4294967295
+399,Battery Charging.,2020-11-20 07:35:23.387,0
+400,Battery Discharging.,2020-11-20 07:35:23.387,0
+401,Battery MaxCapacity (mWh).,2020-11-20 07:35:23.387,69680
+402,Battery estimatedTime (Seconds).,2020-11-20 07:35:23.387,4294967295
+403,Battery Current Capacity (mWh),2020-11-20 07:35:23.387,69680
+404,Battery Voltage (mv),2020-11-20 07:35:23.387,17301
+405,Battery Rate (mW),2020-11-20 07:35:23.387,0
+406,Battery Tag,2020-11-20 07:35:53.319,4
+407,Battery Designed Capacity (mWh) ,2020-11-20 07:35:53.319,70000
+408,Battery Full Charged Capacity (mWh),2020-11-20 07:35:53.319,69680
+409,Battery Cycle Count,2020-11-20 07:35:53.319,12
+410,Battery Left (%).,2020-11-20 07:35:53.386,100
+411,Battery Flag,2020-11-20 07:35:53.386,1
+412,Battery Life Time (Seconds).,2020-11-20 07:35:53.386,4294967295
+413,Battery Charging.,2020-11-20 07:35:53.386,0
+414,Battery Discharging.,2020-11-20 07:35:53.386,0
+415,Battery MaxCapacity (mWh).,2020-11-20 07:35:53.386,69680
+416,Battery estimatedTime (Seconds).,2020-11-20 07:35:53.386,4294967295
+417,Battery Current Capacity (mWh),2020-11-20 07:35:53.386,69680
+418,Battery Voltage (mv),2020-11-20 07:35:53.386,17305
+419,Battery Rate (mW),2020-11-20 07:35:53.386,0
+420,Battery Tag,2020-11-20 07:36:23.318,4
+421,Battery Designed Capacity (mWh) ,2020-11-20 07:36:23.318,70000
+422,Battery Full Charged Capacity (mWh),2020-11-20 07:36:23.318,69680
+423,Battery Cycle Count,2020-11-20 07:36:23.318,12
+424,Battery Left (%).,2020-11-20 07:36:23.386,100
+425,Battery Flag,2020-11-20 07:36:23.386,1
+426,Battery Life Time (Seconds).,2020-11-20 07:36:23.386,4294967295
+427,Battery Charging.,2020-11-20 07:36:23.386,0
+428,Battery Discharging.,2020-11-20 07:36:23.386,0
+429,Battery MaxCapacity (mWh).,2020-11-20 07:36:23.386,69680
+430,Battery estimatedTime (Seconds).,2020-11-20 07:36:23.386,4294967295
+431,Battery Current Capacity (mWh),2020-11-20 07:36:23.386,69680
+432,Battery Voltage (mv),2020-11-20 07:36:23.386,17303
+433,Battery Rate (mW),2020-11-20 07:36:23.386,0
+434,Battery Tag,2020-11-20 07:36:53.318,4
+435,Battery Designed Capacity (mWh) ,2020-11-20 07:36:53.318,70000
+436,Battery Full Charged Capacity (mWh),2020-11-20 07:36:53.318,69680
+437,Battery Cycle Count,2020-11-20 07:36:53.318,12
+438,Battery Left (%).,2020-11-20 07:36:53.385,100
+439,Battery Flag,2020-11-20 07:36:53.385,1
+440,Battery Life Time (Seconds).,2020-11-20 07:36:53.385,4294967295
+441,Battery Charging.,2020-11-20 07:36:53.385,0
+442,Battery Discharging.,2020-11-20 07:36:53.385,0
+443,Battery MaxCapacity (mWh).,2020-11-20 07:36:53.385,69680
+444,Battery estimatedTime (Seconds).,2020-11-20 07:36:53.385,4294967295
+445,Battery Current Capacity (mWh),2020-11-20 07:36:53.385,69680
+446,Battery Voltage (mv),2020-11-20 07:36:53.385,17299
+447,Battery Rate (mW),2020-11-20 07:36:53.385,0
+448,Battery Tag,2020-11-20 07:37:53.317,4
+449,Battery Designed Capacity (mWh) ,2020-11-20 07:37:53.317,70000
+450,Battery Full Charged Capacity (mWh),2020-11-20 07:37:53.317,69680
+451,Battery Cycle Count,2020-11-20 07:37:53.317,12
+452,Battery Left (%).,2020-11-20 07:37:53.384,100
+453,Battery Flag,2020-11-20 07:37:53.384,1
+454,Battery Life Time (Seconds).,2020-11-20 07:37:53.384,4294967295
+455,Battery Charging.,2020-11-20 07:37:53.384,0
+456,Battery Discharging.,2020-11-20 07:37:53.384,0
+457,Battery MaxCapacity (mWh).,2020-11-20 07:37:53.384,69680
+458,Battery estimatedTime (Seconds).,2020-11-20 07:37:53.384,4294967295
+459,Battery Current Capacity (mWh),2020-11-20 07:37:53.384,69680
+460,Battery Voltage (mv),2020-11-20 07:37:53.384,17296
+461,Battery Rate (mW),2020-11-20 07:37:53.384,0
+462,Battery Tag,2020-11-20 07:38:23.317,4
+463,Battery Designed Capacity (mWh) ,2020-11-20 07:38:23.317,70000
+464,Battery Full Charged Capacity (mWh),2020-11-20 07:38:23.317,69680
+465,Battery Cycle Count,2020-11-20 07:38:23.317,12
+466,Battery Left (%).,2020-11-20 07:38:23.384,100
+467,Battery Flag,2020-11-20 07:38:23.384,1
+468,Battery Life Time (Seconds).,2020-11-20 07:38:23.384,4294967295
+469,Battery Charging.,2020-11-20 07:38:23.384,0
+470,Battery Discharging.,2020-11-20 07:38:23.384,0
+471,Battery MaxCapacity (mWh).,2020-11-20 07:38:23.384,69680
+472,Battery estimatedTime (Seconds).,2020-11-20 07:38:23.384,4294967295
+473,Battery Current Capacity (mWh),2020-11-20 07:38:23.384,69680
+474,Battery Voltage (mv),2020-11-20 07:38:23.384,17295
+475,Battery Rate (mW),2020-11-20 07:38:23.384,0
+476,Battery Tag,2020-11-20 07:38:53.316,4
+477,Battery Designed Capacity (mWh) ,2020-11-20 07:38:53.316,70000
+478,Battery Full Charged Capacity (mWh),2020-11-20 07:38:53.316,69680
+479,Battery Cycle Count,2020-11-20 07:38:53.316,12
+480,Battery Left (%).,2020-11-20 07:38:53.383,100
+481,Battery Flag,2020-11-20 07:38:53.383,1
+482,Battery Life Time (Seconds).,2020-11-20 07:38:53.383,4294967295
+483,Battery Charging.,2020-11-20 07:38:53.383,0
+484,Battery Discharging.,2020-11-20 07:38:53.383,0
+485,Battery MaxCapacity (mWh).,2020-11-20 07:38:53.383,69680
+486,Battery estimatedTime (Seconds).,2020-11-20 07:38:53.383,4294967295
+487,Battery Current Capacity (mWh),2020-11-20 07:38:53.383,69680
+488,Battery Voltage (mv),2020-11-20 07:38:53.383,17295
+489,Battery Rate (mW),2020-11-20 07:38:53.383,0
+490,Battery Tag,2020-11-20 07:39:23.315,4
+491,Battery Designed Capacity (mWh) ,2020-11-20 07:39:23.315,70000
+492,Battery Full Charged Capacity (mWh),2020-11-20 07:39:23.315,69680
+493,Battery Cycle Count,2020-11-20 07:39:23.315,12
+494,Battery Left (%).,2020-11-20 07:39:23.382,100
+495,Battery Flag,2020-11-20 07:39:23.382,1
+496,Battery Life Time (Seconds).,2020-11-20 07:39:23.382,4294967295
+497,Battery Charging.,2020-11-20 07:39:23.382,0
+498,Battery Discharging.,2020-11-20 07:39:23.382,0
+499,Battery MaxCapacity (mWh).,2020-11-20 07:39:23.382,69680
+500,Battery estimatedTime (Seconds).,2020-11-20 07:39:23.382,4294967295
+501,Battery Current Capacity (mWh),2020-11-20 07:39:23.382,69680
+502,Battery Voltage (mv),2020-11-20 07:39:23.382,17297
+503,Battery Rate (mW),2020-11-20 07:39:23.382,0
+504,Battery Tag,2020-11-20 07:39:53.314,4
+505,Battery Designed Capacity (mWh) ,2020-11-20 07:39:53.314,70000
+506,Battery Full Charged Capacity (mWh),2020-11-20 07:39:53.314,69680
+507,Battery Cycle Count,2020-11-20 07:39:53.314,12
+508,Battery Left (%).,2020-11-20 07:39:53.381,100
+509,Battery Flag,2020-11-20 07:39:53.381,1
+510,Battery Life Time (Seconds).,2020-11-20 07:39:53.381,4294967295
+511,Battery Charging.,2020-11-20 07:39:53.381,0
+512,Battery Discharging.,2020-11-20 07:39:53.381,0
+513,Battery MaxCapacity (mWh).,2020-11-20 07:39:53.381,69680
+514,Battery estimatedTime (Seconds).,2020-11-20 07:39:53.381,4294967295
+515,Battery Current Capacity (mWh),2020-11-20 07:39:53.381,69680
+516,Battery Voltage (mv),2020-11-20 07:39:53.381,17297
+517,Battery Rate (mW),2020-11-20 07:39:53.381,0
+518,Battery Tag,2020-11-20 07:40:23.314,4
+519,Battery Designed Capacity (mWh) ,2020-11-20 07:40:23.314,70000
+520,Battery Full Charged Capacity (mWh),2020-11-20 07:40:23.314,69680
+521,Battery Cycle Count,2020-11-20 07:40:23.314,12
+522,Battery Left (%).,2020-11-20 07:40:23.382,100
+523,Battery Flag,2020-11-20 07:40:23.382,1
+524,Battery Life Time (Seconds).,2020-11-20 07:40:23.382,4294967295
+525,Battery Charging.,2020-11-20 07:40:23.382,0
+526,Battery Discharging.,2020-11-20 07:40:23.382,0
+527,Battery MaxCapacity (mWh).,2020-11-20 07:40:23.382,69680
+528,Battery estimatedTime (Seconds).,2020-11-20 07:40:23.382,4294967295
+529,Battery Current Capacity (mWh),2020-11-20 07:40:23.382,69680
+530,Battery Voltage (mv),2020-11-20 07:40:23.382,17293
+531,Battery Rate (mW),2020-11-20 07:40:23.382,0
+532,Battery Left (%).,2020-11-20 07:40:53.315,100
+533,Battery Flag,2020-11-20 07:40:53.315,1
+534,Battery Life Time (Seconds).,2020-11-20 07:40:53.315,4294967295
+535,Battery Charging.,2020-11-20 07:40:53.315,0
+536,Battery Discharging.,2020-11-20 07:40:53.315,1
+537,Battery MaxCapacity (mWh).,2020-11-20 07:40:53.315,69680
+538,Battery estimatedTime (Seconds).,2020-11-20 07:40:53.315,4294967295
+539,Battery Tag,2020-11-20 07:40:53.315,4
+540,Battery Designed Capacity (mWh) ,2020-11-20 07:40:53.315,70000
+541,Battery Full Charged Capacity (mWh),2020-11-20 07:40:53.315,69680
+542,Battery Cycle Count,2020-11-20 07:40:53.315,12
+543,Battery Current Capacity (mWh),2020-11-20 07:40:53.315,69680
+544,Battery Voltage (mv),2020-11-20 07:40:53.315,17292
+545,Battery Rate (mW),2020-11-20 07:40:53.315,-2628
+546,Battery Tag,2020-11-20 07:41:23.314,5
+547,Battery Designed Capacity (mWh) ,2020-11-20 07:41:23.314,70000
+548,Battery Full Charged Capacity (mWh),2020-11-20 07:41:23.314,69720
+549,Battery Cycle Count,2020-11-20 07:41:23.314,12
+550,Battery Left (%).,2020-11-20 07:41:23.381,100
+551,Battery Flag,2020-11-20 07:41:23.381,1
+552,Battery Life Time (Seconds).,2020-11-20 07:41:23.381,4294967295
+553,Battery Charging.,2020-11-20 07:41:23.381,0
+554,Battery Discharging.,2020-11-20 07:41:23.381,1
+555,Battery MaxCapacity (mWh).,2020-11-20 07:41:23.381,69720
+556,Battery estimatedTime (Seconds).,2020-11-20 07:41:23.381,4294967295
+557,Battery Current Capacity (mWh),2020-11-20 07:41:23.381,69630
+558,Battery Voltage (mv),2020-11-20 07:41:23.381,17112
+559,Battery Rate (mW),2020-11-20 07:41:23.381,-10438
+560,Battery Tag,2020-11-20 07:41:53.313,5
+561,Battery Designed Capacity (mWh) ,2020-11-20 07:41:53.313,70000
+562,Battery Full Charged Capacity (mWh),2020-11-20 07:41:53.313,69720
+563,Battery Cycle Count,2020-11-20 07:41:53.313,12
+564,Battery Left (%).,2020-11-20 07:41:53.381,100
+565,Battery Flag,2020-11-20 07:41:53.381,1
+566,Battery Life Time (Seconds).,2020-11-20 07:41:53.381,22099
+567,Battery Charging.,2020-11-20 07:41:53.381,0
+568,Battery Discharging.,2020-11-20 07:41:53.381,1
+569,Battery MaxCapacity (mWh).,2020-11-20 07:41:53.381,69720
+570,Battery estimatedTime (Seconds).,2020-11-20 07:41:53.381,22099
+571,Battery Current Capacity (mWh),2020-11-20 07:41:53.381,69530
+572,Battery Voltage (mv),2020-11-20 07:41:53.381,17095
+573,Battery Rate (mW),2020-11-20 07:41:53.381,-12171
+574,Battery Tag,2020-11-20 07:42:23.313,5
+575,Battery Designed Capacity (mWh) ,2020-11-20 07:42:23.313,70000
+576,Battery Full Charged Capacity (mWh),2020-11-20 07:42:23.313,69720
+577,Battery Cycle Count,2020-11-20 07:42:23.313,12
+578,Battery Left (%).,2020-11-20 07:42:23.382,100
+579,Battery Flag,2020-11-20 07:42:23.382,1
+580,Battery Life Time (Seconds).,2020-11-20 07:42:23.382,21104
+581,Battery Charging.,2020-11-20 07:42:23.382,0
+582,Battery Discharging.,2020-11-20 07:42:23.382,1
+583,Battery MaxCapacity (mWh).,2020-11-20 07:42:23.382,69720
+584,Battery estimatedTime (Seconds).,2020-11-20 07:42:23.382,21104
+585,Battery Current Capacity (mWh),2020-11-20 07:42:23.382,69410
+586,Battery Voltage (mv),2020-11-20 07:42:23.382,16990
+587,Battery Rate (mW),2020-11-20 07:42:23.382,-14305
+588,Battery Tag,2020-11-20 07:42:53.312,5
+589,Battery Designed Capacity (mWh) ,2020-11-20 07:42:53.312,70000
+590,Battery Full Charged Capacity (mWh),2020-11-20 07:42:53.312,69720
+591,Battery Cycle Count,2020-11-20 07:42:53.312,12
+592,Battery Left (%).,2020-11-20 07:42:53.382,99
+593,Battery Flag,2020-11-20 07:42:53.382,1
+594,Battery Life Time (Seconds).,2020-11-20 07:42:53.382,16467
+595,Battery Charging.,2020-11-20 07:42:53.382,0
+596,Battery Discharging.,2020-11-20 07:42:53.382,1
+597,Battery MaxCapacity (mWh).,2020-11-20 07:42:53.382,69720
+598,Battery estimatedTime (Seconds).,2020-11-20 07:42:53.382,16467
+599,Battery Current Capacity (mWh),2020-11-20 07:42:53.382,69300
+600,Battery Voltage (mv),2020-11-20 07:42:53.382,17025
+601,Battery Rate (mW),2020-11-20 07:42:53.382,-14505
+602,Battery Tag,2020-11-20 07:43:53.311,5
+603,Battery Designed Capacity (mWh) ,2020-11-20 07:43:53.311,70000
+604,Battery Full Charged Capacity (mWh),2020-11-20 07:43:53.311,69720
+605,Battery Cycle Count,2020-11-20 07:43:53.311,12
+606,Battery Left (%).,2020-11-20 07:43:53.379,99
+607,Battery Flag,2020-11-20 07:43:53.379,1
+608,Battery Life Time (Seconds).,2020-11-20 07:43:53.379,16467
+609,Battery Charging.,2020-11-20 07:43:53.379,0
+610,Battery Discharging.,2020-11-20 07:43:53.379,1
+611,Battery MaxCapacity (mWh).,2020-11-20 07:43:53.379,69720
+612,Battery estimatedTime (Seconds).,2020-11-20 07:43:53.379,16467
+613,Battery Current Capacity (mWh),2020-11-20 07:43:53.379,69090
+614,Battery Voltage (mv),2020-11-20 07:43:53.379,16961
+615,Battery Rate (mW),2020-11-20 07:43:53.379,-13314
+616,Battery Tag,2020-11-20 07:44:23.311,5
+617,Battery Designed Capacity (mWh) ,2020-11-20 07:44:23.311,70000
+618,Battery Full Charged Capacity (mWh),2020-11-20 07:44:23.311,69720
+619,Battery Cycle Count,2020-11-20 07:44:23.311,12
+620,Battery Left (%).,2020-11-20 07:44:23.379,99
+621,Battery Flag,2020-11-20 07:44:23.379,1
+622,Battery Life Time (Seconds).,2020-11-20 07:44:23.379,16467
+623,Battery Charging.,2020-11-20 07:44:23.379,0
+624,Battery Discharging.,2020-11-20 07:44:23.379,1
+625,Battery MaxCapacity (mWh).,2020-11-20 07:44:23.379,69720
+626,Battery estimatedTime (Seconds).,2020-11-20 07:44:23.379,16467
+627,Battery Current Capacity (mWh),2020-11-20 07:44:23.379,68980
+628,Battery Voltage (mv),2020-11-20 07:44:23.379,17028
+629,Battery Rate (mW),2020-11-20 07:44:23.379,-12651
+630,Battery Tag,2020-11-20 07:45:23.310,5
+631,Battery Designed Capacity (mWh) ,2020-11-20 07:45:23.310,70000
+632,Battery Full Charged Capacity (mWh),2020-11-20 07:45:23.310,69720
+633,Battery Cycle Count,2020-11-20 07:45:23.310,12
+634,Battery Left (%).,2020-11-20 07:45:23.378,99
+635,Battery Flag,2020-11-20 07:45:23.378,1
+636,Battery Life Time (Seconds).,2020-11-20 07:45:23.378,16467
+637,Battery Charging.,2020-11-20 07:45:23.378,0
+638,Battery Discharging.,2020-11-20 07:45:23.378,1
+639,Battery MaxCapacity (mWh).,2020-11-20 07:45:23.378,69720
+640,Battery estimatedTime (Seconds).,2020-11-20 07:45:23.378,16467
+641,Battery Current Capacity (mWh),2020-11-20 07:45:23.378,68780
+642,Battery Voltage (mv),2020-11-20 07:45:23.378,16956
+643,Battery Rate (mW),2020-11-20 07:45:23.378,-12784
+644,Battery Tag,2020-11-20 07:45:53.310,5
+645,Battery Designed Capacity (mWh) ,2020-11-20 07:45:53.310,70000
+646,Battery Full Charged Capacity (mWh),2020-11-20 07:45:53.310,69720
+647,Battery Cycle Count,2020-11-20 07:45:53.310,12
+648,Battery Left (%).,2020-11-20 07:45:53.377,99
+649,Battery Flag,2020-11-20 07:45:53.377,1
+650,Battery Life Time (Seconds).,2020-11-20 07:45:53.377,16467
+651,Battery Charging.,2020-11-20 07:45:53.377,0
+652,Battery Discharging.,2020-11-20 07:45:53.377,1
+653,Battery MaxCapacity (mWh).,2020-11-20 07:45:53.377,69720
+654,Battery estimatedTime (Seconds).,2020-11-20 07:45:53.377,16467
+655,Battery Current Capacity (mWh),2020-11-20 07:45:53.377,68680
+656,Battery Voltage (mv),2020-11-20 07:45:53.377,16958
+657,Battery Rate (mW),2020-11-20 07:45:53.377,-13295
+658,Battery Tag,2020-11-20 07:46:23.309,5
+659,Battery Designed Capacity (mWh) ,2020-11-20 07:46:23.309,70000
+660,Battery Full Charged Capacity (mWh),2020-11-20 07:46:23.309,69720
+661,Battery Cycle Count,2020-11-20 07:46:23.309,12
+662,Battery Left (%).,2020-11-20 07:46:23.376,98
+663,Battery Flag,2020-11-20 07:46:23.376,1
+664,Battery Life Time (Seconds).,2020-11-20 07:46:23.376,19092
+665,Battery Charging.,2020-11-20 07:46:23.376,0
+666,Battery Discharging.,2020-11-20 07:46:23.376,1
+667,Battery MaxCapacity (mWh).,2020-11-20 07:46:23.376,69720
+668,Battery estimatedTime (Seconds).,2020-11-20 07:46:23.376,19092
+669,Battery Current Capacity (mWh),2020-11-20 07:46:23.376,68570
+670,Battery Voltage (mv),2020-11-20 07:46:23.376,17011
+671,Battery Rate (mW),2020-11-20 07:46:23.376,-12196
+672,Battery Tag,2020-11-20 07:46:53.308,5
+673,Battery Designed Capacity (mWh) ,2020-11-20 07:46:53.308,70000
+674,Battery Full Charged Capacity (mWh),2020-11-20 07:46:53.308,69720
+675,Battery Cycle Count,2020-11-20 07:46:53.308,12
+676,Battery Left (%).,2020-11-20 07:46:53.375,98
+677,Battery Flag,2020-11-20 07:46:53.375,1
+678,Battery Life Time (Seconds).,2020-11-20 07:46:53.375,19092
+679,Battery Charging.,2020-11-20 07:46:53.375,0
+680,Battery Discharging.,2020-11-20 07:46:53.375,1
+681,Battery MaxCapacity (mWh).,2020-11-20 07:46:53.375,69720
+682,Battery estimatedTime (Seconds).,2020-11-20 07:46:53.375,19092
+683,Battery Current Capacity (mWh),2020-11-20 07:46:53.375,68470
+684,Battery Voltage (mv),2020-11-20 07:46:53.375,16973
+685,Battery Rate (mW),2020-11-20 07:46:53.375,-11881
+686,Battery Tag,2020-11-20 07:47:53.307,5
+687,Battery Designed Capacity (mWh) ,2020-11-20 07:47:53.307,70000
+688,Battery Full Charged Capacity (mWh),2020-11-20 07:47:53.307,69720
+689,Battery Cycle Count,2020-11-20 07:47:53.307,12
+690,Battery Left (%).,2020-11-20 07:47:53.374,98
+691,Battery Flag,2020-11-20 07:47:53.374,1
+692,Battery Life Time (Seconds).,2020-11-20 07:47:53.374,19092
+693,Battery Charging.,2020-11-20 07:47:53.374,0
+694,Battery Discharging.,2020-11-20 07:47:53.374,1
+695,Battery MaxCapacity (mWh).,2020-11-20 07:47:53.374,69720
+696,Battery estimatedTime (Seconds).,2020-11-20 07:47:53.374,19092
+697,Battery Current Capacity (mWh),2020-11-20 07:47:53.374,68230
+698,Battery Voltage (mv),2020-11-20 07:47:53.374,16925
+699,Battery Rate (mW),2020-11-20 07:47:53.374,-13861
+700,Battery Tag,2020-11-20 07:48:23.307,5
+701,Battery Designed Capacity (mWh) ,2020-11-20 07:48:23.307,70000
+702,Battery Full Charged Capacity (mWh),2020-11-20 07:48:23.307,69720
+703,Battery Cycle Count,2020-11-20 07:48:23.307,12
+704,Battery Left (%).,2020-11-20 07:48:23.374,98
+705,Battery Flag,2020-11-20 07:48:23.374,1
+706,Battery Life Time (Seconds).,2020-11-20 07:48:23.374,19092
+707,Battery Charging.,2020-11-20 07:48:23.374,0
+708,Battery Discharging.,2020-11-20 07:48:23.374,1
+709,Battery MaxCapacity (mWh).,2020-11-20 07:48:23.374,69720
+710,Battery estimatedTime (Seconds).,2020-11-20 07:48:23.374,19092
+711,Battery Current Capacity (mWh),2020-11-20 07:48:23.374,68110
+712,Battery Voltage (mv),2020-11-20 07:48:23.374,16897
+713,Battery Rate (mW),2020-11-20 07:48:23.374,-15798
+714,Battery Tag,2020-11-20 07:48:53.307,5
+715,Battery Designed Capacity (mWh) ,2020-11-20 07:48:53.307,70000
+716,Battery Full Charged Capacity (mWh),2020-11-20 07:48:53.307,69720
+717,Battery Cycle Count,2020-11-20 07:48:53.307,12
+718,Battery Left (%).,2020-11-20 07:48:53.374,98
+719,Battery Flag,2020-11-20 07:48:53.374,1
+720,Battery Life Time (Seconds).,2020-11-20 07:48:53.374,19092
+721,Battery Charging.,2020-11-20 07:48:53.374,0
+722,Battery Discharging.,2020-11-20 07:48:53.374,1
+723,Battery MaxCapacity (mWh).,2020-11-20 07:48:53.374,69720
+724,Battery estimatedTime (Seconds).,2020-11-20 07:48:53.374,19092
+725,Battery Current Capacity (mWh),2020-11-20 07:48:53.374,67980
+726,Battery Voltage (mv),2020-11-20 07:48:53.374,16904
+727,Battery Rate (mW),2020-11-20 07:48:53.374,-15872
+728,Battery Tag,2020-11-20 07:49:23.306,5
+729,Battery Designed Capacity (mWh) ,2020-11-20 07:49:23.306,70000
+730,Battery Full Charged Capacity (mWh),2020-11-20 07:49:23.306,69720
+731,Battery Cycle Count,2020-11-20 07:49:23.306,12
+732,Battery Left (%).,2020-11-20 07:49:23.372,97
+733,Battery Flag,2020-11-20 07:49:23.372,1
+734,Battery Life Time (Seconds).,2020-11-20 07:49:23.372,17278
+735,Battery Charging.,2020-11-20 07:49:23.372,0
+736,Battery Discharging.,2020-11-20 07:49:23.372,1
+737,Battery MaxCapacity (mWh).,2020-11-20 07:49:23.372,69720
+738,Battery estimatedTime (Seconds).,2020-11-20 07:49:23.372,17278
+739,Battery Current Capacity (mWh),2020-11-20 07:49:23.372,67860
+740,Battery Voltage (mv),2020-11-20 07:49:23.372,16888
+741,Battery Rate (mW),2020-11-20 07:49:23.372,-14422
+742,Battery Tag,2020-11-20 07:49:53.305,5
+743,Battery Designed Capacity (mWh) ,2020-11-20 07:49:53.305,70000
+744,Battery Full Charged Capacity (mWh),2020-11-20 07:49:53.305,69720
+745,Battery Cycle Count,2020-11-20 07:49:53.305,12
+746,Battery Left (%).,2020-11-20 07:49:53.373,97
+747,Battery Flag,2020-11-20 07:49:53.373,1
+748,Battery Life Time (Seconds).,2020-11-20 07:49:53.373,17278
+749,Battery Charging.,2020-11-20 07:49:53.373,0
+750,Battery Discharging.,2020-11-20 07:49:53.373,1
+751,Battery MaxCapacity (mWh).,2020-11-20 07:49:53.373,69720
+752,Battery estimatedTime (Seconds).,2020-11-20 07:49:53.373,17278
+753,Battery Current Capacity (mWh),2020-11-20 07:49:53.373,67740
+754,Battery Voltage (mv),2020-11-20 07:49:53.373,16883
+755,Battery Rate (mW),2020-11-20 07:49:53.373,-14857
+756,Battery Tag,2020-11-20 07:50:53.303,5
+757,Battery Designed Capacity (mWh) ,2020-11-20 07:50:53.303,70000
+758,Battery Full Charged Capacity (mWh),2020-11-20 07:50:53.303,69720
+759,Battery Cycle Count,2020-11-20 07:50:53.303,12
+760,Battery Left (%).,2020-11-20 07:50:53.371,97
+761,Battery Flag,2020-11-20 07:50:53.371,1
+762,Battery Life Time (Seconds).,2020-11-20 07:50:53.371,17278
+763,Battery Charging.,2020-11-20 07:50:53.371,0
+764,Battery Discharging.,2020-11-20 07:50:53.371,1
+765,Battery MaxCapacity (mWh).,2020-11-20 07:50:53.371,69720
+766,Battery estimatedTime (Seconds).,2020-11-20 07:50:53.371,17278
+767,Battery Current Capacity (mWh),2020-11-20 07:50:53.371,67530
+768,Battery Voltage (mv),2020-11-20 07:50:53.371,16913
+769,Battery Rate (mW),2020-11-20 07:50:53.371,-12278
+770,Battery Tag,2020-11-20 07:51:23.302,5
+771,Battery Designed Capacity (mWh) ,2020-11-20 07:51:23.302,70000
+772,Battery Full Charged Capacity (mWh),2020-11-20 07:51:23.302,69720
+773,Battery Cycle Count,2020-11-20 07:51:23.302,12
+774,Battery Left (%).,2020-11-20 07:51:23.372,97
+775,Battery Flag,2020-11-20 07:51:23.372,1
+776,Battery Life Time (Seconds).,2020-11-20 07:51:23.372,17278
+777,Battery Charging.,2020-11-20 07:51:23.372,0
+778,Battery Discharging.,2020-11-20 07:51:23.372,1
+779,Battery MaxCapacity (mWh).,2020-11-20 07:51:23.372,69720
+780,Battery estimatedTime (Seconds).,2020-11-20 07:51:23.372,17278
+781,Battery Current Capacity (mWh),2020-11-20 07:51:23.372,67430
+782,Battery Voltage (mv),2020-11-20 07:51:23.372,16818
+783,Battery Rate (mW),2020-11-20 07:51:23.372,-12411
+784,Battery Tag,2020-11-20 07:51:53.301,5
+785,Battery Designed Capacity (mWh) ,2020-11-20 07:51:53.301,70000
+786,Battery Full Charged Capacity (mWh),2020-11-20 07:51:53.301,69720
+787,Battery Cycle Count,2020-11-20 07:51:53.301,12
+788,Battery Left (%).,2020-11-20 07:51:53.369,97
+789,Battery Flag,2020-11-20 07:51:53.369,1
+790,Battery Life Time (Seconds).,2020-11-20 07:51:53.369,17278
+791,Battery Charging.,2020-11-20 07:51:53.369,0
+792,Battery Discharging.,2020-11-20 07:51:53.369,1
+793,Battery MaxCapacity (mWh).,2020-11-20 07:51:53.369,69720
+794,Battery estimatedTime (Seconds).,2020-11-20 07:51:53.369,17278
+795,Battery Current Capacity (mWh),2020-11-20 07:51:53.369,67310
+796,Battery Voltage (mv),2020-11-20 07:51:53.369,16844
+797,Battery Rate (mW),2020-11-20 07:51:53.369,-14148
+798,Battery Tag,2020-11-20 07:52:23.302,5
+799,Battery Designed Capacity (mWh) ,2020-11-20 07:52:23.302,70000
+800,Battery Full Charged Capacity (mWh),2020-11-20 07:52:23.302,69720
+801,Battery Cycle Count,2020-11-20 07:52:23.302,12
+802,Battery Left (%).,2020-11-20 07:52:23.368,96
+803,Battery Flag,2020-11-20 07:52:23.368,1
+804,Battery Life Time (Seconds).,2020-11-20 07:52:23.368,17688
+805,Battery Charging.,2020-11-20 07:52:23.368,0
+806,Battery Discharging.,2020-11-20 07:52:23.368,1
+807,Battery MaxCapacity (mWh).,2020-11-20 07:52:23.368,69720
+808,Battery estimatedTime (Seconds).,2020-11-20 07:52:23.368,17688
+809,Battery Current Capacity (mWh),2020-11-20 07:52:23.368,67200
+810,Battery Voltage (mv),2020-11-20 07:52:23.368,16844
+811,Battery Rate (mW),2020-11-20 07:52:23.368,-13222
+812,Battery Tag,2020-11-20 07:52:53.301,5
+813,Battery Designed Capacity (mWh) ,2020-11-20 07:52:53.301,70000
+814,Battery Full Charged Capacity (mWh),2020-11-20 07:52:53.301,69720
+815,Battery Cycle Count,2020-11-20 07:52:53.301,12
+816,Battery Left (%).,2020-11-20 07:52:53.367,96
+817,Battery Flag,2020-11-20 07:52:53.367,1
+818,Battery Life Time (Seconds).,2020-11-20 07:52:53.367,17688
+819,Battery Charging.,2020-11-20 07:52:53.367,0
+820,Battery Discharging.,2020-11-20 07:52:53.367,1
+821,Battery MaxCapacity (mWh).,2020-11-20 07:52:53.367,69720
+822,Battery estimatedTime (Seconds).,2020-11-20 07:52:53.367,17688
+823,Battery Current Capacity (mWh),2020-11-20 07:52:53.367,67090
+824,Battery Voltage (mv),2020-11-20 07:52:53.367,16842
+825,Battery Rate (mW),2020-11-20 07:52:53.367,-13338
+826,Battery Tag,2020-11-20 07:53:23.301,5
+827,Battery Designed Capacity (mWh) ,2020-11-20 07:53:23.301,70000
+828,Battery Full Charged Capacity (mWh),2020-11-20 07:53:23.301,69720
+829,Battery Cycle Count,2020-11-20 07:53:23.301,12
+830,Battery Left (%).,2020-11-20 07:53:23.369,96
+831,Battery Flag,2020-11-20 07:53:23.369,1
+832,Battery Life Time (Seconds).,2020-11-20 07:53:23.369,17688
+833,Battery Charging.,2020-11-20 07:53:23.369,0
+834,Battery Discharging.,2020-11-20 07:53:23.369,1
+835,Battery MaxCapacity (mWh).,2020-11-20 07:53:23.369,69720
+836,Battery estimatedTime (Seconds).,2020-11-20 07:53:23.369,17688
+837,Battery Current Capacity (mWh),2020-11-20 07:53:23.369,66990
+838,Battery Voltage (mv),2020-11-20 07:53:23.369,16871
+839,Battery Rate (mW),2020-11-20 07:53:23.369,-12282
+840,Battery Tag,2020-11-20 07:53:53.301,5
+841,Battery Designed Capacity (mWh) ,2020-11-20 07:53:53.301,70000
+842,Battery Full Charged Capacity (mWh),2020-11-20 07:53:53.301,69720
+843,Battery Cycle Count,2020-11-20 07:53:53.301,12
+844,Battery Left (%).,2020-11-20 07:53:53.368,96
+845,Battery Flag,2020-11-20 07:53:53.368,1
+846,Battery Life Time (Seconds).,2020-11-20 07:53:53.368,17688
+847,Battery Charging.,2020-11-20 07:53:53.368,0
+848,Battery Discharging.,2020-11-20 07:53:53.368,1
+849,Battery MaxCapacity (mWh).,2020-11-20 07:53:53.368,69720
+850,Battery estimatedTime (Seconds).,2020-11-20 07:53:53.368,17688
+851,Battery Current Capacity (mWh),2020-11-20 07:53:53.368,66890
+852,Battery Voltage (mv),2020-11-20 07:53:53.368,16845
+853,Battery Rate (mW),2020-11-20 07:53:53.368,-12229
+854,Battery Tag,2020-11-20 07:54:23.301,5
+855,Battery Designed Capacity (mWh) ,2020-11-20 07:54:23.301,70000
+856,Battery Full Charged Capacity (mWh),2020-11-20 07:54:23.301,69720
+857,Battery Cycle Count,2020-11-20 07:54:23.301,12
+858,Battery Left (%).,2020-11-20 07:54:23.367,96
+859,Battery Flag,2020-11-20 07:54:23.367,1
+860,Battery Life Time (Seconds).,2020-11-20 07:54:23.367,17688
+861,Battery Charging.,2020-11-20 07:54:23.367,0
+862,Battery Discharging.,2020-11-20 07:54:23.367,1
+863,Battery MaxCapacity (mWh).,2020-11-20 07:54:23.367,69720
+864,Battery estimatedTime (Seconds).,2020-11-20 07:54:23.367,17688
+865,Battery Current Capacity (mWh),2020-11-20 07:54:23.367,66800
+866,Battery Voltage (mv),2020-11-20 07:54:23.367,16840
+867,Battery Rate (mW),2020-11-20 07:54:23.367,-11636
+868,Battery Tag,2020-11-20 07:54:53.301,5
+869,Battery Designed Capacity (mWh) ,2020-11-20 07:54:53.301,70000
+870,Battery Full Charged Capacity (mWh),2020-11-20 07:54:53.301,69720
+871,Battery Cycle Count,2020-11-20 07:54:53.301,12
+872,Battery Left (%).,2020-11-20 07:54:53.367,96
+873,Battery Flag,2020-11-20 07:54:53.367,1
+874,Battery Life Time (Seconds).,2020-11-20 07:54:53.367,17688
+875,Battery Charging.,2020-11-20 07:54:53.367,0
+876,Battery Discharging.,2020-11-20 07:54:53.367,1
+877,Battery MaxCapacity (mWh).,2020-11-20 07:54:53.367,69720
+878,Battery estimatedTime (Seconds).,2020-11-20 07:54:53.367,17688
+879,Battery Current Capacity (mWh),2020-11-20 07:54:53.367,66700
+880,Battery Voltage (mv),2020-11-20 07:54:53.367,16869
+881,Battery Rate (mW),2020-11-20 07:54:53.367,-12027
+882,Battery Tag,2020-11-20 07:55:23.301,5
+883,Battery Designed Capacity (mWh) ,2020-11-20 07:55:23.301,70000
+884,Battery Full Charged Capacity (mWh),2020-11-20 07:55:23.301,69720
+885,Battery Cycle Count,2020-11-20 07:55:23.301,12
+886,Battery Left (%).,2020-11-20 07:55:23.369,96
+887,Battery Flag,2020-11-20 07:55:23.369,1
+888,Battery Life Time (Seconds).,2020-11-20 07:55:23.369,17688
+889,Battery Charging.,2020-11-20 07:55:23.369,0
+890,Battery Discharging.,2020-11-20 07:55:23.369,1
+891,Battery MaxCapacity (mWh).,2020-11-20 07:55:23.369,69720
+892,Battery estimatedTime (Seconds).,2020-11-20 07:55:23.369,17688
+893,Battery Current Capacity (mWh),2020-11-20 07:55:23.369,66600
+894,Battery Voltage (mv),2020-11-20 07:55:23.369,16839
+895,Battery Rate (mW),2020-11-20 07:55:23.369,-12157
+896,Battery Tag,2020-11-20 07:55:53.300,5
+897,Battery Designed Capacity (mWh) ,2020-11-20 07:55:53.300,70000
+898,Battery Full Charged Capacity (mWh),2020-11-20 07:55:53.300,69720
+899,Battery Cycle Count,2020-11-20 07:55:53.300,12
+900,Battery Left (%).,2020-11-20 07:55:53.368,95
+901,Battery Flag,2020-11-20 07:55:53.368,1
+902,Battery Life Time (Seconds).,2020-11-20 07:55:53.368,18133
+903,Battery Charging.,2020-11-20 07:55:53.368,0
+904,Battery Discharging.,2020-11-20 07:55:53.368,1
+905,Battery MaxCapacity (mWh).,2020-11-20 07:55:53.368,69720
+906,Battery estimatedTime (Seconds).,2020-11-20 07:55:53.368,18133
+907,Battery Current Capacity (mWh),2020-11-20 07:55:53.368,66490
+908,Battery Voltage (mv),2020-11-20 07:55:53.368,16773
+909,Battery Rate (mW),2020-11-20 07:55:53.368,-13468
+910,Battery Tag,2020-11-20 07:56:23.300,5
+911,Battery Designed Capacity (mWh) ,2020-11-20 07:56:23.300,70000
+912,Battery Full Charged Capacity (mWh),2020-11-20 07:56:23.300,69720
+913,Battery Cycle Count,2020-11-20 07:56:23.300,12
+914,Battery Left (%).,2020-11-20 07:56:23.367,95
+915,Battery Flag,2020-11-20 07:56:23.367,1
+916,Battery Life Time (Seconds).,2020-11-20 07:56:23.367,18133
+917,Battery Charging.,2020-11-20 07:56:23.367,0
+918,Battery Discharging.,2020-11-20 07:56:23.367,1
+919,Battery MaxCapacity (mWh).,2020-11-20 07:56:23.367,69720
+920,Battery estimatedTime (Seconds).,2020-11-20 07:56:23.367,18133
+921,Battery Current Capacity (mWh),2020-11-20 07:56:23.367,66360
+922,Battery Voltage (mv),2020-11-20 07:56:23.367,16819
+923,Battery Rate (mW),2020-11-20 07:56:23.367,-14363
+924,Battery Tag,2020-11-20 07:56:53.299,5
+925,Battery Designed Capacity (mWh) ,2020-11-20 07:56:53.299,70000
+926,Battery Full Charged Capacity (mWh),2020-11-20 07:56:53.299,69720
+927,Battery Cycle Count,2020-11-20 07:56:53.299,12
+928,Battery Left (%).,2020-11-20 07:56:53.365,95
+929,Battery Flag,2020-11-20 07:56:53.365,1
+930,Battery Life Time (Seconds).,2020-11-20 07:56:53.365,18133
+931,Battery Charging.,2020-11-20 07:56:53.365,0
+932,Battery Discharging.,2020-11-20 07:56:53.365,1
+933,Battery MaxCapacity (mWh).,2020-11-20 07:56:53.365,69720
+934,Battery estimatedTime (Seconds).,2020-11-20 07:56:53.365,18133
+935,Battery Current Capacity (mWh),2020-11-20 07:56:53.365,66280
+936,Battery Voltage (mv),2020-11-20 07:56:53.365,16833
+937,Battery Rate (mW),2020-11-20 07:56:53.365,-12052
+938,Battery Tag,2020-11-20 07:57:23.299,5
+939,Battery Designed Capacity (mWh) ,2020-11-20 07:57:23.299,70000
+940,Battery Full Charged Capacity (mWh),2020-11-20 07:57:23.299,69720
+941,Battery Cycle Count,2020-11-20 07:57:23.299,12
+942,Battery Left (%).,2020-11-20 07:57:23.367,95
+943,Battery Flag,2020-11-20 07:57:23.367,1
+944,Battery Life Time (Seconds).,2020-11-20 07:57:23.367,18133
+945,Battery Charging.,2020-11-20 07:57:23.367,0
+946,Battery Discharging.,2020-11-20 07:57:23.367,1
+947,Battery MaxCapacity (mWh).,2020-11-20 07:57:23.367,69720
+948,Battery estimatedTime (Seconds).,2020-11-20 07:57:23.367,18133
+949,Battery Current Capacity (mWh),2020-11-20 07:57:23.367,66170
+950,Battery Voltage (mv),2020-11-20 07:57:23.367,16796
+951,Battery Rate (mW),2020-11-20 07:57:23.367,-12244
+952,Battery Tag,2020-11-20 07:57:53.299,5
+953,Battery Designed Capacity (mWh) ,2020-11-20 07:57:53.299,70000
+954,Battery Full Charged Capacity (mWh),2020-11-20 07:57:53.299,69720
+955,Battery Cycle Count,2020-11-20 07:57:53.299,12
+956,Battery Left (%).,2020-11-20 07:57:53.366,95
+957,Battery Flag,2020-11-20 07:57:53.366,1
+958,Battery Life Time (Seconds).,2020-11-20 07:57:53.366,18133
+959,Battery Charging.,2020-11-20 07:57:53.366,0
+960,Battery Discharging.,2020-11-20 07:57:53.366,1
+961,Battery MaxCapacity (mWh).,2020-11-20 07:57:53.366,69720
+962,Battery estimatedTime (Seconds).,2020-11-20 07:57:53.366,18133
+963,Battery Current Capacity (mWh),2020-11-20 07:57:53.366,66070
+964,Battery Voltage (mv),2020-11-20 07:57:53.366,16797
+965,Battery Rate (mW),2020-11-20 07:57:53.366,-12530
+966,Battery Tag,2020-11-20 07:58:23.299,5
+967,Battery Designed Capacity (mWh) ,2020-11-20 07:58:23.299,70000
+968,Battery Full Charged Capacity (mWh),2020-11-20 07:58:23.299,69720
+969,Battery Cycle Count,2020-11-20 07:58:23.299,12
+970,Battery Left (%).,2020-11-20 07:58:23.365,95
+971,Battery Flag,2020-11-20 07:58:23.365,1
+972,Battery Life Time (Seconds).,2020-11-20 07:58:23.365,18133
+973,Battery Charging.,2020-11-20 07:58:23.365,0
+974,Battery Discharging.,2020-11-20 07:58:23.365,1
+975,Battery MaxCapacity (mWh).,2020-11-20 07:58:23.365,69720
+976,Battery estimatedTime (Seconds).,2020-11-20 07:58:23.365,18133
+977,Battery Current Capacity (mWh),2020-11-20 07:58:23.365,65970
+978,Battery Voltage (mv),2020-11-20 07:58:23.365,16812
+979,Battery Rate (mW),2020-11-20 07:58:23.365,-11919
+980,Battery Tag,2020-11-20 07:58:53.298,5
+981,Battery Designed Capacity (mWh) ,2020-11-20 07:58:53.298,70000
+982,Battery Full Charged Capacity (mWh),2020-11-20 07:58:53.298,69720
+983,Battery Cycle Count,2020-11-20 07:58:53.298,12
+984,Battery Left (%).,2020-11-20 07:58:53.365,95
+985,Battery Flag,2020-11-20 07:58:53.365,1
+986,Battery Life Time (Seconds).,2020-11-20 07:58:53.365,18133
+987,Battery Charging.,2020-11-20 07:58:53.365,0
+988,Battery Discharging.,2020-11-20 07:58:53.365,1
+989,Battery MaxCapacity (mWh).,2020-11-20 07:58:53.365,69720
+990,Battery estimatedTime (Seconds).,2020-11-20 07:58:53.365,18133
+991,Battery Current Capacity (mWh),2020-11-20 07:58:53.365,65870
+992,Battery Voltage (mv),2020-11-20 07:58:53.365,16795
+993,Battery Rate (mW),2020-11-20 07:58:53.365,-12663
+994,Battery Tag,2020-11-20 07:59:53.297,5
+995,Battery Designed Capacity (mWh) ,2020-11-20 07:59:53.297,70000
+996,Battery Full Charged Capacity (mWh),2020-11-20 07:59:53.297,69720
+997,Battery Cycle Count,2020-11-20 07:59:53.297,12
+998,Battery Left (%).,2020-11-20 07:59:53.365,94
+999,Battery Flag,2020-11-20 07:59:53.365,1
+1000,Battery Life Time (Seconds).,2020-11-20 07:59:53.365,18726
+1001,Battery Charging.,2020-11-20 07:59:53.365,0
+1002,Battery Discharging.,2020-11-20 07:59:53.365,1
+1003,Battery MaxCapacity (mWh).,2020-11-20 07:59:53.365,69720
+1004,Battery estimatedTime (Seconds).,2020-11-20 07:59:53.365,18726
+1005,Battery Current Capacity (mWh),2020-11-20 07:59:53.365,65700
+1006,Battery Voltage (mv),2020-11-20 07:59:53.365,16852
+1007,Battery Rate (mW),2020-11-20 07:59:53.365,-9723
+1008,Battery Tag,2020-11-20 08:00:53.296,5
+1009,Battery Designed Capacity (mWh) ,2020-11-20 08:00:53.296,70000
+1010,Battery Full Charged Capacity (mWh),2020-11-20 08:00:53.296,69720
+1011,Battery Cycle Count,2020-11-20 08:00:53.296,12
+1012,Battery Left (%).,2020-11-20 08:00:53.362,94
+1013,Battery Flag,2020-11-20 08:00:53.362,1
+1014,Battery Life Time (Seconds).,2020-11-20 08:00:53.362,18726
+1015,Battery Charging.,2020-11-20 08:00:53.362,0
+1016,Battery Discharging.,2020-11-20 08:00:53.362,1
+1017,Battery MaxCapacity (mWh).,2020-11-20 08:00:53.362,69720
+1018,Battery estimatedTime (Seconds).,2020-11-20 08:00:53.362,18726
+1019,Battery Current Capacity (mWh),2020-11-20 08:00:53.362,65520
+1020,Battery Voltage (mv),2020-11-20 08:00:53.362,16804
+1021,Battery Rate (mW),2020-11-20 08:00:53.362,-11914
+1022,Battery Tag,2020-11-20 08:01:23.295,5
+1023,Battery Designed Capacity (mWh) ,2020-11-20 08:01:23.295,70000
+1024,Battery Full Charged Capacity (mWh),2020-11-20 08:01:23.295,69720
+1025,Battery Cycle Count,2020-11-20 08:01:23.295,12
+1026,Battery Left (%).,2020-11-20 08:01:23.363,94
+1027,Battery Flag,2020-11-20 08:01:23.363,1
+1028,Battery Life Time (Seconds).,2020-11-20 08:01:23.363,18726
+1029,Battery Charging.,2020-11-20 08:01:23.363,0
+1030,Battery Discharging.,2020-11-20 08:01:23.363,1
+1031,Battery MaxCapacity (mWh).,2020-11-20 08:01:23.363,69720
+1032,Battery estimatedTime (Seconds).,2020-11-20 08:01:23.363,18726
+1033,Battery Current Capacity (mWh),2020-11-20 08:01:23.363,65410
+1034,Battery Voltage (mv),2020-11-20 08:01:23.363,16733
+1035,Battery Rate (mW),2020-11-20 08:01:23.363,-11997
+1036,Battery Tag,2020-11-20 08:01:53.295,5
+1037,Battery Designed Capacity (mWh) ,2020-11-20 08:01:53.295,70000
+1038,Battery Full Charged Capacity (mWh),2020-11-20 08:01:53.295,69720
+1039,Battery Cycle Count,2020-11-20 08:01:53.295,12
+1040,Battery Left (%).,2020-11-20 08:01:53.363,94
+1041,Battery Flag,2020-11-20 08:01:53.363,1
+1042,Battery Life Time (Seconds).,2020-11-20 08:01:53.363,18726
+1043,Battery Charging.,2020-11-20 08:01:53.363,0
+1044,Battery Discharging.,2020-11-20 08:01:53.363,1
+1045,Battery MaxCapacity (mWh).,2020-11-20 08:01:53.363,69720
+1046,Battery estimatedTime (Seconds).,2020-11-20 08:01:53.363,18726
+1047,Battery Current Capacity (mWh),2020-11-20 08:01:53.363,65320
+1048,Battery Voltage (mv),2020-11-20 08:01:53.363,16814
+1049,Battery Rate (mW),2020-11-20 08:01:53.363,-11181
+1050,Battery Tag,2020-11-20 08:02:23.294,5
+1051,Battery Designed Capacity (mWh) ,2020-11-20 08:02:23.294,70000
+1052,Battery Full Charged Capacity (mWh),2020-11-20 08:02:23.294,69720
+1053,Battery Cycle Count,2020-11-20 08:02:23.294,12
+1054,Battery Left (%).,2020-11-20 08:02:23.363,94
+1055,Battery Flag,2020-11-20 08:02:23.363,1
+1056,Battery Life Time (Seconds).,2020-11-20 08:02:23.363,18726
+1057,Battery Charging.,2020-11-20 08:02:23.363,0
+1058,Battery Discharging.,2020-11-20 08:02:23.363,1
+1059,Battery MaxCapacity (mWh).,2020-11-20 08:02:23.363,69720
+1060,Battery estimatedTime (Seconds).,2020-11-20 08:02:23.363,18726
+1061,Battery Current Capacity (mWh),2020-11-20 08:02:23.363,65240
+1062,Battery Voltage (mv),2020-11-20 08:02:23.363,16818
+1063,Battery Rate (mW),2020-11-20 08:02:23.363,-9703
+1064,Battery Tag,2020-11-20 08:02:53.294,5
+1065,Battery Designed Capacity (mWh) ,2020-11-20 08:02:53.294,70000
+1066,Battery Full Charged Capacity (mWh),2020-11-20 08:02:53.294,69720
+1067,Battery Cycle Count,2020-11-20 08:02:53.294,12
+1068,Battery Left (%).,2020-11-20 08:02:53.359,93
+1069,Battery Flag,2020-11-20 08:02:53.359,1
+1070,Battery Life Time (Seconds).,2020-11-20 08:02:53.359,24629
+1071,Battery Charging.,2020-11-20 08:02:53.359,0
+1072,Battery Discharging.,2020-11-20 08:02:53.359,1
+1073,Battery MaxCapacity (mWh).,2020-11-20 08:02:53.359,69720
+1074,Battery estimatedTime (Seconds).,2020-11-20 08:02:53.359,24629
+1075,Battery Current Capacity (mWh),2020-11-20 08:02:53.359,65160
+1076,Battery Voltage (mv),2020-11-20 08:02:53.359,16797
+1077,Battery Rate (mW),2020-11-20 08:02:53.359,-9423
+1078,Battery Tag,2020-11-20 08:03:23.293,5
+1079,Battery Designed Capacity (mWh) ,2020-11-20 08:03:23.293,70000
+1080,Battery Full Charged Capacity (mWh),2020-11-20 08:03:23.293,69720
+1081,Battery Cycle Count,2020-11-20 08:03:23.293,12
+1082,Battery Left (%).,2020-11-20 08:03:23.359,93
+1083,Battery Flag,2020-11-20 08:03:23.359,1
+1084,Battery Life Time (Seconds).,2020-11-20 08:03:23.359,24629
+1085,Battery Charging.,2020-11-20 08:03:23.359,0
+1086,Battery Discharging.,2020-11-20 08:03:23.359,1
+1087,Battery MaxCapacity (mWh).,2020-11-20 08:03:23.359,69720
+1088,Battery estimatedTime (Seconds).,2020-11-20 08:03:23.359,24629
+1089,Battery Current Capacity (mWh),2020-11-20 08:03:23.359,65090
+1090,Battery Voltage (mv),2020-11-20 08:03:23.359,16817
+1091,Battery Rate (mW),2020-11-20 08:03:23.359,-9114
+1092,Battery Tag,2020-11-20 08:03:53.291,5
+1093,Battery Designed Capacity (mWh) ,2020-11-20 08:03:53.291,70000
+1094,Battery Full Charged Capacity (mWh),2020-11-20 08:03:53.291,69720
+1095,Battery Cycle Count,2020-11-20 08:03:53.291,12
+1096,Battery Left (%).,2020-11-20 08:03:53.357,93
+1097,Battery Flag,2020-11-20 08:03:53.357,1
+1098,Battery Life Time (Seconds).,2020-11-20 08:03:53.357,24629
+1099,Battery Charging.,2020-11-20 08:03:53.357,0
+1100,Battery Discharging.,2020-11-20 08:03:53.357,1
+1101,Battery MaxCapacity (mWh).,2020-11-20 08:03:53.357,69720
+1102,Battery estimatedTime (Seconds).,2020-11-20 08:03:53.357,24629
+1103,Battery Current Capacity (mWh),2020-11-20 08:03:53.357,65010
+1104,Battery Voltage (mv),2020-11-20 08:03:53.357,16811
+1105,Battery Rate (mW),2020-11-20 08:03:53.357,-9699
+1106,Battery Tag,2020-11-20 08:04:23.291,5
+1107,Battery Designed Capacity (mWh) ,2020-11-20 08:04:23.291,70000
+1108,Battery Full Charged Capacity (mWh),2020-11-20 08:04:23.291,69720
+1109,Battery Cycle Count,2020-11-20 08:04:23.291,12
+1110,Battery Left (%).,2020-11-20 08:04:23.358,93
+1111,Battery Flag,2020-11-20 08:04:23.358,1
+1112,Battery Life Time (Seconds).,2020-11-20 08:04:23.358,24629
+1113,Battery Charging.,2020-11-20 08:04:23.358,0
+1114,Battery Discharging.,2020-11-20 08:04:23.358,1
+1115,Battery MaxCapacity (mWh).,2020-11-20 08:04:23.358,69720
+1116,Battery estimatedTime (Seconds).,2020-11-20 08:04:23.358,24629
+1117,Battery Current Capacity (mWh),2020-11-20 08:04:23.358,64930
+1118,Battery Voltage (mv),2020-11-20 08:04:23.358,16801
+1119,Battery Rate (mW),2020-11-20 08:04:23.358,-9744
+1120,Battery Tag,2020-11-20 08:04:53.290,5
+1121,Battery Designed Capacity (mWh) ,2020-11-20 08:04:53.290,70000
+1122,Battery Full Charged Capacity (mWh),2020-11-20 08:04:53.290,69720
+1123,Battery Cycle Count,2020-11-20 08:04:53.290,12
+1124,Battery Left (%).,2020-11-20 08:04:53.357,93
+1125,Battery Flag,2020-11-20 08:04:53.357,1
+1126,Battery Life Time (Seconds).,2020-11-20 08:04:53.357,24629
+1127,Battery Charging.,2020-11-20 08:04:53.357,0
+1128,Battery Discharging.,2020-11-20 08:04:53.357,1
+1129,Battery MaxCapacity (mWh).,2020-11-20 08:04:53.357,69720
+1130,Battery estimatedTime (Seconds).,2020-11-20 08:04:53.357,24629
+1131,Battery Current Capacity (mWh),2020-11-20 08:04:53.357,64850
+1132,Battery Voltage (mv),2020-11-20 08:04:53.357,16794
+1133,Battery Rate (mW),2020-11-20 08:04:53.357,-9488
+1134,Battery Tag,2020-11-20 08:05:23.290,5
+1135,Battery Designed Capacity (mWh) ,2020-11-20 08:05:23.290,70000
+1136,Battery Full Charged Capacity (mWh),2020-11-20 08:05:23.290,69720
+1137,Battery Cycle Count,2020-11-20 08:05:23.290,12
+1138,Battery Left (%).,2020-11-20 08:05:23.358,93
+1139,Battery Flag,2020-11-20 08:05:23.358,1
+1140,Battery Life Time (Seconds).,2020-11-20 08:05:23.358,24629
+1141,Battery Charging.,2020-11-20 08:05:23.358,0
+1142,Battery Discharging.,2020-11-20 08:05:23.358,1
+1143,Battery MaxCapacity (mWh).,2020-11-20 08:05:23.358,69720
+1144,Battery estimatedTime (Seconds).,2020-11-20 08:05:23.358,24629
+1145,Battery Current Capacity (mWh),2020-11-20 08:05:23.358,64760
+1146,Battery Voltage (mv),2020-11-20 08:05:23.358,16768
+1147,Battery Rate (mW),2020-11-20 08:05:23.358,-11854
+1148,Battery Tag,2020-11-20 08:05:53.289,5
+1149,Battery Designed Capacity (mWh) ,2020-11-20 08:05:53.289,70000
+1150,Battery Full Charged Capacity (mWh),2020-11-20 08:05:53.289,69720
+1151,Battery Cycle Count,2020-11-20 08:05:53.289,12
+1152,Battery Left (%).,2020-11-20 08:05:53.357,93
+1153,Battery Flag,2020-11-20 08:05:53.357,1
+1154,Battery Life Time (Seconds).,2020-11-20 08:05:53.357,24629
+1155,Battery Charging.,2020-11-20 08:05:53.357,0
+1156,Battery Discharging.,2020-11-20 08:05:53.357,1
+1157,Battery MaxCapacity (mWh).,2020-11-20 08:05:53.357,69720
+1158,Battery estimatedTime (Seconds).,2020-11-20 08:05:53.357,24629
+1159,Battery Current Capacity (mWh),2020-11-20 08:05:53.357,64660
+1160,Battery Voltage (mv),2020-11-20 08:05:53.357,16772
+1161,Battery Rate (mW),2020-11-20 08:05:53.357,-11991
+1162,Battery Tag,2020-11-20 08:06:23.289,5
+1163,Battery Designed Capacity (mWh) ,2020-11-20 08:06:23.289,70000
+1164,Battery Full Charged Capacity (mWh),2020-11-20 08:06:23.289,69720
+1165,Battery Cycle Count,2020-11-20 08:06:23.289,12
+1166,Battery Left (%).,2020-11-20 08:06:23.356,93
+1167,Battery Flag,2020-11-20 08:06:23.356,1
+1168,Battery Life Time (Seconds).,2020-11-20 08:06:23.356,24629
+1169,Battery Charging.,2020-11-20 08:06:23.356,0
+1170,Battery Discharging.,2020-11-20 08:06:23.356,1
+1171,Battery MaxCapacity (mWh).,2020-11-20 08:06:23.356,69720
+1172,Battery estimatedTime (Seconds).,2020-11-20 08:06:23.356,24629
+1173,Battery Current Capacity (mWh),2020-11-20 08:06:23.356,64570
+1174,Battery Voltage (mv),2020-11-20 08:06:23.356,16788
+1175,Battery Rate (mW),2020-11-20 08:06:23.356,-10593
+1176,Battery Tag,2020-11-20 08:06:53.289,5
+1177,Battery Designed Capacity (mWh) ,2020-11-20 08:06:53.289,70000
+1178,Battery Full Charged Capacity (mWh),2020-11-20 08:06:53.289,69720
+1179,Battery Cycle Count,2020-11-20 08:06:53.289,12
+1180,Battery Left (%).,2020-11-20 08:06:53.357,93
+1181,Battery Flag,2020-11-20 08:06:53.357,1
+1182,Battery Life Time (Seconds).,2020-11-20 08:06:53.357,24629
+1183,Battery Charging.,2020-11-20 08:06:53.357,0
+1184,Battery Discharging.,2020-11-20 08:06:53.357,1
+1185,Battery MaxCapacity (mWh).,2020-11-20 08:06:53.357,69720
+1186,Battery estimatedTime (Seconds).,2020-11-20 08:06:53.357,24629
+1187,Battery Current Capacity (mWh),2020-11-20 08:06:53.357,64480
+1188,Battery Voltage (mv),2020-11-20 08:06:53.357,16664
+1189,Battery Rate (mW),2020-11-20 08:06:53.357,-12964
+1190,Battery Tag,2020-11-20 08:07:23.289,5
+1191,Battery Designed Capacity (mWh) ,2020-11-20 08:07:23.289,70000
+1192,Battery Full Charged Capacity (mWh),2020-11-20 08:07:23.289,69720
+1193,Battery Cycle Count,2020-11-20 08:07:23.289,12
+1194,Battery Left (%).,2020-11-20 08:07:23.355,92
+1195,Battery Flag,2020-11-20 08:07:23.355,1
+1196,Battery Life Time (Seconds).,2020-11-20 08:07:23.355,17905
+1197,Battery Charging.,2020-11-20 08:07:23.355,0
+1198,Battery Discharging.,2020-11-20 08:07:23.355,1
+1199,Battery MaxCapacity (mWh).,2020-11-20 08:07:23.355,69720
+1200,Battery estimatedTime (Seconds).,2020-11-20 08:07:23.355,17905
+1201,Battery Current Capacity (mWh),2020-11-20 08:07:23.355,64400
+1202,Battery Voltage (mv),2020-11-20 08:07:23.355,16766
+1203,Battery Rate (mW),2020-11-20 08:07:23.355,-9741
+1204,Battery Tag,2020-11-20 08:07:53.288,5
+1205,Battery Designed Capacity (mWh) ,2020-11-20 08:07:53.288,70000
+1206,Battery Full Charged Capacity (mWh),2020-11-20 08:07:53.288,69720
+1207,Battery Cycle Count,2020-11-20 08:07:53.288,12
+1208,Battery Left (%).,2020-11-20 08:07:53.354,92
+1209,Battery Flag,2020-11-20 08:07:53.354,1
+1210,Battery Life Time (Seconds).,2020-11-20 08:07:53.354,17905
+1211,Battery Charging.,2020-11-20 08:07:53.354,0
+1212,Battery Discharging.,2020-11-20 08:07:53.354,1
+1213,Battery MaxCapacity (mWh).,2020-11-20 08:07:53.354,69720
+1214,Battery estimatedTime (Seconds).,2020-11-20 08:07:53.354,17905
+1215,Battery Current Capacity (mWh),2020-11-20 08:07:53.354,64320
+1216,Battery Voltage (mv),2020-11-20 08:07:53.354,16764
+1217,Battery Rate (mW),2020-11-20 08:07:53.354,-9907
+1218,Battery Tag,2020-11-20 08:08:23.288,5
+1219,Battery Designed Capacity (mWh) ,2020-11-20 08:08:23.288,70000
+1220,Battery Full Charged Capacity (mWh),2020-11-20 08:08:23.288,69720
+1221,Battery Cycle Count,2020-11-20 08:08:23.288,12
+1222,Battery Left (%).,2020-11-20 08:08:23.354,92
+1223,Battery Flag,2020-11-20 08:08:23.354,1
+1224,Battery Life Time (Seconds).,2020-11-20 08:08:23.354,17905
+1225,Battery Charging.,2020-11-20 08:08:23.354,0
+1226,Battery Discharging.,2020-11-20 08:08:23.354,1
+1227,Battery MaxCapacity (mWh).,2020-11-20 08:08:23.354,69720
+1228,Battery estimatedTime (Seconds).,2020-11-20 08:08:23.354,17905
+1229,Battery Current Capacity (mWh),2020-11-20 08:08:23.354,64250
+1230,Battery Voltage (mv),2020-11-20 08:08:23.354,16743
+1231,Battery Rate (mW),2020-11-20 08:08:23.354,-9141
+1232,Battery Tag,2020-11-20 08:08:53.288,5
+1233,Battery Designed Capacity (mWh) ,2020-11-20 08:08:53.288,70000
+1234,Battery Full Charged Capacity (mWh),2020-11-20 08:08:53.288,69720
+1235,Battery Cycle Count,2020-11-20 08:08:53.288,12
+1236,Battery Left (%).,2020-11-20 08:08:53.356,92
+1237,Battery Flag,2020-11-20 08:08:53.356,1
+1238,Battery Life Time (Seconds).,2020-11-20 08:08:53.356,17905
+1239,Battery Charging.,2020-11-20 08:08:53.356,0
+1240,Battery Discharging.,2020-11-20 08:08:53.356,1
+1241,Battery MaxCapacity (mWh).,2020-11-20 08:08:53.356,69720
+1242,Battery estimatedTime (Seconds).,2020-11-20 08:08:53.356,17905
+1243,Battery Current Capacity (mWh),2020-11-20 08:08:53.356,64170
+1244,Battery Voltage (mv),2020-11-20 08:08:53.356,16691
+1245,Battery Rate (mW),2020-11-20 08:08:53.356,-10498
+1246,Battery Tag,2020-11-20 08:09:23.288,5
+1247,Battery Designed Capacity (mWh) ,2020-11-20 08:09:23.288,70000
+1248,Battery Full Charged Capacity (mWh),2020-11-20 08:09:23.288,69720
+1249,Battery Cycle Count,2020-11-20 08:09:23.288,12
+1250,Battery Left (%).,2020-11-20 08:09:23.355,92
+1251,Battery Flag,2020-11-20 08:09:23.355,1
+1252,Battery Life Time (Seconds).,2020-11-20 08:09:23.355,17905
+1253,Battery Charging.,2020-11-20 08:09:23.355,0
+1254,Battery Discharging.,2020-11-20 08:09:23.355,1
+1255,Battery MaxCapacity (mWh).,2020-11-20 08:09:23.355,69720
+1256,Battery estimatedTime (Seconds).,2020-11-20 08:09:23.355,17905
+1257,Battery Current Capacity (mWh),2020-11-20 08:09:23.355,64080
+1258,Battery Voltage (mv),2020-11-20 08:09:23.355,16730
+1259,Battery Rate (mW),2020-11-20 08:09:23.355,-10138
+1260,Battery Tag,2020-11-20 08:09:53.288,5
+1261,Battery Designed Capacity (mWh) ,2020-11-20 08:09:53.288,70000
+1262,Battery Full Charged Capacity (mWh),2020-11-20 08:09:53.288,69720
+1263,Battery Cycle Count,2020-11-20 08:09:53.288,12
+1264,Battery Left (%).,2020-11-20 08:09:53.355,92
+1265,Battery Flag,2020-11-20 08:09:53.355,1
+1266,Battery Life Time (Seconds).,2020-11-20 08:09:53.355,17905
+1267,Battery Charging.,2020-11-20 08:09:53.355,0
+1268,Battery Discharging.,2020-11-20 08:09:53.355,1
+1269,Battery MaxCapacity (mWh).,2020-11-20 08:09:53.355,69720
+1270,Battery estimatedTime (Seconds).,2020-11-20 08:09:53.355,17905
+1271,Battery Current Capacity (mWh),2020-11-20 08:09:53.355,63980
+1272,Battery Voltage (mv),2020-11-20 08:09:53.355,16722
+1273,Battery Rate (mW),2020-11-20 08:09:53.355,-11003
+1274,Battery Tag,2020-11-20 08:10:23.288,5
+1275,Battery Designed Capacity (mWh) ,2020-11-20 08:10:23.288,70000
+1276,Battery Full Charged Capacity (mWh),2020-11-20 08:10:23.288,69720
+1277,Battery Cycle Count,2020-11-20 08:10:23.288,12
+1278,Battery Left (%).,2020-11-20 08:10:23.354,92
+1279,Battery Flag,2020-11-20 08:10:23.354,1
+1280,Battery Life Time (Seconds).,2020-11-20 08:10:23.354,17905
+1281,Battery Charging.,2020-11-20 08:10:23.354,0
+1282,Battery Discharging.,2020-11-20 08:10:23.354,1
+1283,Battery MaxCapacity (mWh).,2020-11-20 08:10:23.354,69720
+1284,Battery estimatedTime (Seconds).,2020-11-20 08:10:23.354,17905
+1285,Battery Current Capacity (mWh),2020-11-20 08:10:23.354,63870
+1286,Battery Voltage (mv),2020-11-20 08:10:23.354,16655
+1287,Battery Rate (mW),2020-11-20 08:10:23.354,-13507
+1288,Battery Tag,2020-11-20 08:10:53.288,5
+1289,Battery Designed Capacity (mWh) ,2020-11-20 08:10:53.288,70000
+1290,Battery Full Charged Capacity (mWh),2020-11-20 08:10:53.288,69720
+1291,Battery Cycle Count,2020-11-20 08:10:53.288,12
+1292,Battery Left (%).,2020-11-20 08:10:53.355,92
+1293,Battery Flag,2020-11-20 08:10:53.355,1
+1294,Battery Life Time (Seconds).,2020-11-20 08:10:53.355,17905
+1295,Battery Charging.,2020-11-20 08:10:53.355,0
+1296,Battery Discharging.,2020-11-20 08:10:53.355,1
+1297,Battery MaxCapacity (mWh).,2020-11-20 08:10:53.355,69720
+1298,Battery estimatedTime (Seconds).,2020-11-20 08:10:53.355,17905
+1299,Battery Current Capacity (mWh),2020-11-20 08:10:53.355,63770
+1300,Battery Voltage (mv),2020-11-20 08:10:53.355,16674
+1301,Battery Rate (mW),2020-11-20 08:10:53.355,-13522
+1302,Battery Tag,2020-11-20 08:11:23.288,5
+1303,Battery Designed Capacity (mWh) ,2020-11-20 08:11:23.288,70000
+1304,Battery Full Charged Capacity (mWh),2020-11-20 08:11:23.288,69720
+1305,Battery Cycle Count,2020-11-20 08:11:23.288,12
+1306,Battery Left (%).,2020-11-20 08:11:23.355,91
+1307,Battery Flag,2020-11-20 08:11:23.355,1
+1308,Battery Life Time (Seconds).,2020-11-20 08:11:23.355,16977
+1309,Battery Charging.,2020-11-20 08:11:23.355,0
+1310,Battery Discharging.,2020-11-20 08:11:23.355,1
+1311,Battery MaxCapacity (mWh).,2020-11-20 08:11:23.355,69720
+1312,Battery estimatedTime (Seconds).,2020-11-20 08:11:23.355,16977
+1313,Battery Current Capacity (mWh),2020-11-20 08:11:23.355,63670
+1314,Battery Voltage (mv),2020-11-20 08:11:23.355,16657
+1315,Battery Rate (mW),2020-11-20 08:11:23.355,-11743
+1316,Battery Tag,2020-11-20 08:11:53.287,5
+1317,Battery Designed Capacity (mWh) ,2020-11-20 08:11:53.287,70000
+1318,Battery Full Charged Capacity (mWh),2020-11-20 08:11:53.287,69720
+1319,Battery Cycle Count,2020-11-20 08:11:53.287,12
+1320,Battery Left (%).,2020-11-20 08:11:53.354,91
+1321,Battery Flag,2020-11-20 08:11:53.354,1
+1322,Battery Life Time (Seconds).,2020-11-20 08:11:53.354,16977
+1323,Battery Charging.,2020-11-20 08:11:53.354,0
+1324,Battery Discharging.,2020-11-20 08:11:53.354,1
+1325,Battery MaxCapacity (mWh).,2020-11-20 08:11:53.354,69720
+1326,Battery estimatedTime (Seconds).,2020-11-20 08:11:53.354,16977
+1327,Battery Current Capacity (mWh),2020-11-20 08:11:53.354,63580
+1328,Battery Voltage (mv),2020-11-20 08:11:53.354,16699
+1329,Battery Rate (mW),2020-11-20 08:11:53.354,-11305
+1330,Battery Tag,2020-11-20 08:12:23.287,5
+1331,Battery Designed Capacity (mWh) ,2020-11-20 08:12:23.287,70000
+1332,Battery Full Charged Capacity (mWh),2020-11-20 08:12:23.287,69720
+1333,Battery Cycle Count,2020-11-20 08:12:23.287,12
+1334,Battery Left (%).,2020-11-20 08:12:23.355,91
+1335,Battery Flag,2020-11-20 08:12:23.355,1
+1336,Battery Life Time (Seconds).,2020-11-20 08:12:23.355,16977
+1337,Battery Charging.,2020-11-20 08:12:23.355,0
+1338,Battery Discharging.,2020-11-20 08:12:23.355,1
+1339,Battery MaxCapacity (mWh).,2020-11-20 08:12:23.355,69720
+1340,Battery estimatedTime (Seconds).,2020-11-20 08:12:23.355,16977
+1341,Battery Current Capacity (mWh),2020-11-20 08:12:23.355,63480
+1342,Battery Voltage (mv),2020-11-20 08:12:23.355,16711
+1343,Battery Rate (mW),2020-11-20 08:12:23.355,-10895
+1344,Battery Tag,2020-11-20 08:12:53.287,5
+1345,Battery Designed Capacity (mWh) ,2020-11-20 08:12:53.287,70000
+1346,Battery Full Charged Capacity (mWh),2020-11-20 08:12:53.287,69720
+1347,Battery Cycle Count,2020-11-20 08:12:53.287,12
+1348,Battery Left (%).,2020-11-20 08:12:53.353,91
+1349,Battery Flag,2020-11-20 08:12:53.353,1
+1350,Battery Life Time (Seconds).,2020-11-20 08:12:53.353,16977
+1351,Battery Charging.,2020-11-20 08:12:53.353,0
+1352,Battery Discharging.,2020-11-20 08:12:53.353,1
+1353,Battery MaxCapacity (mWh).,2020-11-20 08:12:53.353,69720
+1354,Battery estimatedTime (Seconds).,2020-11-20 08:12:53.353,16977
+1355,Battery Current Capacity (mWh),2020-11-20 08:12:53.353,63390
+1356,Battery Voltage (mv),2020-11-20 08:12:53.353,16682
+1357,Battery Rate (mW),2020-11-20 08:12:53.353,-11510
+1358,Battery Tag,2020-11-20 08:13:23.286,5
+1359,Battery Designed Capacity (mWh) ,2020-11-20 08:13:23.286,70000
+1360,Battery Full Charged Capacity (mWh),2020-11-20 08:13:23.286,69720
+1361,Battery Cycle Count,2020-11-20 08:13:23.286,12
+1362,Battery Left (%).,2020-11-20 08:13:23.352,91
+1363,Battery Flag,2020-11-20 08:13:23.352,1
+1364,Battery Life Time (Seconds).,2020-11-20 08:13:23.352,16977
+1365,Battery Charging.,2020-11-20 08:13:23.352,0
+1366,Battery Discharging.,2020-11-20 08:13:23.352,1
+1367,Battery MaxCapacity (mWh).,2020-11-20 08:13:23.352,69720
+1368,Battery estimatedTime (Seconds).,2020-11-20 08:13:23.352,16977
+1369,Battery Current Capacity (mWh),2020-11-20 08:13:23.352,63310
+1370,Battery Voltage (mv),2020-11-20 08:13:23.352,16677
+1371,Battery Rate (mW),2020-11-20 08:13:23.352,-10139
+1372,Battery Tag,2020-11-20 08:13:53.285,5
+1373,Battery Designed Capacity (mWh) ,2020-11-20 08:13:53.285,70000
+1374,Battery Full Charged Capacity (mWh),2020-11-20 08:13:53.285,69720
+1375,Battery Cycle Count,2020-11-20 08:13:53.285,12
+1376,Battery Left (%).,2020-11-20 08:13:53.351,91
+1377,Battery Flag,2020-11-20 08:13:53.351,1
+1378,Battery Life Time (Seconds).,2020-11-20 08:13:53.351,16977
+1379,Battery Charging.,2020-11-20 08:13:53.351,0
+1380,Battery Discharging.,2020-11-20 08:13:53.351,1
+1381,Battery MaxCapacity (mWh).,2020-11-20 08:13:53.351,69720
+1382,Battery estimatedTime (Seconds).,2020-11-20 08:13:53.351,16977
+1383,Battery Current Capacity (mWh),2020-11-20 08:13:53.351,63220
+1384,Battery Voltage (mv),2020-11-20 08:13:53.351,16686
+1385,Battery Rate (mW),2020-11-20 08:13:53.351,-11446
+1386,Battery Tag,2020-11-20 08:14:23.285,5
+1387,Battery Designed Capacity (mWh) ,2020-11-20 08:14:23.285,70000
+1388,Battery Full Charged Capacity (mWh),2020-11-20 08:14:23.285,69720
+1389,Battery Cycle Count,2020-11-20 08:14:23.285,12
+1390,Battery Left (%).,2020-11-20 08:14:23.351,91
+1391,Battery Flag,2020-11-20 08:14:23.351,1
+1392,Battery Life Time (Seconds).,2020-11-20 08:14:23.351,16977
+1393,Battery Charging.,2020-11-20 08:14:23.351,0
+1394,Battery Discharging.,2020-11-20 08:14:23.351,1
+1395,Battery MaxCapacity (mWh).,2020-11-20 08:14:23.351,69720
+1396,Battery estimatedTime (Seconds).,2020-11-20 08:14:23.351,16977
+1397,Battery Current Capacity (mWh),2020-11-20 08:14:23.351,63130
+1398,Battery Voltage (mv),2020-11-20 08:14:23.351,16677
+1399,Battery Rate (mW),2020-11-20 08:14:23.351,-10906
+1400,Battery Tag,2020-11-20 08:14:53.285,5
+1401,Battery Designed Capacity (mWh) ,2020-11-20 08:14:53.285,70000
+1402,Battery Full Charged Capacity (mWh),2020-11-20 08:14:53.285,69720
+1403,Battery Cycle Count,2020-11-20 08:14:53.285,12
+1404,Battery Left (%).,2020-11-20 08:14:53.351,90
+1405,Battery Flag,2020-11-20 08:14:53.351,1
+1406,Battery Life Time (Seconds).,2020-11-20 08:14:53.351,19661
+1407,Battery Charging.,2020-11-20 08:14:53.351,0
+1408,Battery Discharging.,2020-11-20 08:14:53.351,1
+1409,Battery MaxCapacity (mWh).,2020-11-20 08:14:53.351,69720
+1410,Battery estimatedTime (Seconds).,2020-11-20 08:14:53.351,19661
+1411,Battery Current Capacity (mWh),2020-11-20 08:14:53.351,63040
+1412,Battery Voltage (mv),2020-11-20 08:14:53.351,16662
+1413,Battery Rate (mW),2020-11-20 08:14:53.351,-11213
+1414,Battery Tag,2020-11-20 08:15:23.285,5
+1415,Battery Designed Capacity (mWh) ,2020-11-20 08:15:23.285,70000
+1416,Battery Full Charged Capacity (mWh),2020-11-20 08:15:23.285,69720
+1417,Battery Cycle Count,2020-11-20 08:15:23.285,12
+1418,Battery Left (%).,2020-11-20 08:15:23.352,90
+1419,Battery Flag,2020-11-20 08:15:23.352,1
+1420,Battery Life Time (Seconds).,2020-11-20 08:15:23.352,19661
+1421,Battery Charging.,2020-11-20 08:15:23.352,0
+1422,Battery Discharging.,2020-11-20 08:15:23.352,1
+1423,Battery MaxCapacity (mWh).,2020-11-20 08:15:23.352,69720
+1424,Battery estimatedTime (Seconds).,2020-11-20 08:15:23.352,19661
+1425,Battery Current Capacity (mWh),2020-11-20 08:15:23.352,62950
+1426,Battery Voltage (mv),2020-11-20 08:15:23.352,16665
+1427,Battery Rate (mW),2020-11-20 08:15:23.352,-10932
+1428,Battery Tag,2020-11-20 08:15:53.284,5
+1429,Battery Designed Capacity (mWh) ,2020-11-20 08:15:53.284,70000
+1430,Battery Full Charged Capacity (mWh),2020-11-20 08:15:53.284,69720
+1431,Battery Cycle Count,2020-11-20 08:15:53.284,12
+1432,Battery Left (%).,2020-11-20 08:15:53.352,90
+1433,Battery Flag,2020-11-20 08:15:53.352,1
+1434,Battery Life Time (Seconds).,2020-11-20 08:15:53.352,19661
+1435,Battery Charging.,2020-11-20 08:15:53.352,0
+1436,Battery Discharging.,2020-11-20 08:15:53.352,1
+1437,Battery MaxCapacity (mWh).,2020-11-20 08:15:53.352,69720
+1438,Battery estimatedTime (Seconds).,2020-11-20 08:15:53.352,19661
+1439,Battery Current Capacity (mWh),2020-11-20 08:15:53.352,62860
+1440,Battery Voltage (mv),2020-11-20 08:15:53.352,16632
+1441,Battery Rate (mW),2020-11-20 08:15:53.352,-11326
+1442,Battery Tag,2020-11-20 08:16:23.284,5
+1443,Battery Designed Capacity (mWh) ,2020-11-20 08:16:23.284,70000
+1444,Battery Full Charged Capacity (mWh),2020-11-20 08:16:23.284,69720
+1445,Battery Cycle Count,2020-11-20 08:16:23.284,12
+1446,Battery Left (%).,2020-11-20 08:16:23.352,90
+1447,Battery Flag,2020-11-20 08:16:23.352,1
+1448,Battery Life Time (Seconds).,2020-11-20 08:16:23.352,19661
+1449,Battery Charging.,2020-11-20 08:16:23.352,0
+1450,Battery Discharging.,2020-11-20 08:16:23.352,1
+1451,Battery MaxCapacity (mWh).,2020-11-20 08:16:23.352,69720
+1452,Battery estimatedTime (Seconds).,2020-11-20 08:16:23.352,19661
+1453,Battery Current Capacity (mWh),2020-11-20 08:16:23.352,62750
+1454,Battery Voltage (mv),2020-11-20 08:16:23.352,16628
+1455,Battery Rate (mW),2020-11-20 08:16:23.352,-12520
+1456,Battery Tag,2020-11-20 08:16:53.283,5
+1457,Battery Designed Capacity (mWh) ,2020-11-20 08:16:53.283,70000
+1458,Battery Full Charged Capacity (mWh),2020-11-20 08:16:53.283,69720
+1459,Battery Cycle Count,2020-11-20 08:16:53.283,12
+1460,Battery Left (%).,2020-11-20 08:16:53.350,90
+1461,Battery Flag,2020-11-20 08:16:53.350,1
+1462,Battery Life Time (Seconds).,2020-11-20 08:16:53.350,19661
+1463,Battery Charging.,2020-11-20 08:16:53.350,0
+1464,Battery Discharging.,2020-11-20 08:16:53.350,1
+1465,Battery MaxCapacity (mWh).,2020-11-20 08:16:53.350,69720
+1466,Battery estimatedTime (Seconds).,2020-11-20 08:16:53.350,19661
+1467,Battery Current Capacity (mWh),2020-11-20 08:16:53.350,62670
+1468,Battery Voltage (mv),2020-11-20 08:16:53.350,16590
+1469,Battery Rate (mW),2020-11-20 08:16:53.350,-11098
+1470,Battery Tag,2020-11-20 08:17:23.283,5
+1471,Battery Designed Capacity (mWh) ,2020-11-20 08:17:23.283,70000
+1472,Battery Full Charged Capacity (mWh),2020-11-20 08:17:23.283,69720
+1473,Battery Cycle Count,2020-11-20 08:17:23.283,12
+1474,Battery Left (%).,2020-11-20 08:17:23.351,90
+1475,Battery Flag,2020-11-20 08:17:23.351,1
+1476,Battery Life Time (Seconds).,2020-11-20 08:17:23.351,19661
+1477,Battery Charging.,2020-11-20 08:17:23.351,0
+1478,Battery Discharging.,2020-11-20 08:17:23.351,1
+1479,Battery MaxCapacity (mWh).,2020-11-20 08:17:23.351,69720
+1480,Battery estimatedTime (Seconds).,2020-11-20 08:17:23.351,19661
+1481,Battery Current Capacity (mWh),2020-11-20 08:17:23.351,62580
+1482,Battery Voltage (mv),2020-11-20 08:17:23.351,16609
+1483,Battery Rate (mW),2020-11-20 08:17:23.351,-11609
+1484,Battery Tag,2020-11-20 08:17:53.283,5
+1485,Battery Designed Capacity (mWh) ,2020-11-20 08:17:53.283,70000
+1486,Battery Full Charged Capacity (mWh),2020-11-20 08:17:53.283,69720
+1487,Battery Cycle Count,2020-11-20 08:17:53.283,12
+1488,Battery Left (%).,2020-11-20 08:17:53.350,90
+1489,Battery Flag,2020-11-20 08:17:53.350,1
+1490,Battery Life Time (Seconds).,2020-11-20 08:17:53.350,19661
+1491,Battery Charging.,2020-11-20 08:17:53.350,0
+1492,Battery Discharging.,2020-11-20 08:17:53.350,1
+1493,Battery MaxCapacity (mWh).,2020-11-20 08:17:53.350,69720
+1494,Battery estimatedTime (Seconds).,2020-11-20 08:17:53.350,19661
+1495,Battery Current Capacity (mWh),2020-11-20 08:17:53.350,62470
+1496,Battery Voltage (mv),2020-11-20 08:17:53.350,16591
+1497,Battery Rate (mW),2020-11-20 08:17:53.350,-12791
+1498,Battery Tag,2020-11-20 08:18:23.282,5
+1499,Battery Designed Capacity (mWh) ,2020-11-20 08:18:23.282,70000
+1500,Battery Full Charged Capacity (mWh),2020-11-20 08:18:23.282,69720
+1501,Battery Cycle Count,2020-11-20 08:18:23.282,12
+1502,Battery Left (%).,2020-11-20 08:18:23.349,90
+1503,Battery Flag,2020-11-20 08:18:23.349,1
+1504,Battery Life Time (Seconds).,2020-11-20 08:18:23.349,19661
+1505,Battery Charging.,2020-11-20 08:18:23.349,0
+1506,Battery Discharging.,2020-11-20 08:18:23.349,1
+1507,Battery MaxCapacity (mWh).,2020-11-20 08:18:23.349,69720
+1508,Battery estimatedTime (Seconds).,2020-11-20 08:18:23.349,19661
+1509,Battery Current Capacity (mWh),2020-11-20 08:18:23.349,62370
+1510,Battery Voltage (mv),2020-11-20 08:18:23.349,16602
+1511,Battery Rate (mW),2020-11-20 08:18:23.349,-11455
+1512,Battery Tag,2020-11-20 08:18:53.281,5
+1513,Battery Designed Capacity (mWh) ,2020-11-20 08:18:53.281,70000
+1514,Battery Full Charged Capacity (mWh),2020-11-20 08:18:53.281,69720
+1515,Battery Cycle Count,2020-11-20 08:18:53.281,12
+1516,Battery Left (%).,2020-11-20 08:18:53.347,89
+1517,Battery Flag,2020-11-20 08:18:53.347,1
+1518,Battery Life Time (Seconds).,2020-11-20 08:18:53.347,19601
+1519,Battery Charging.,2020-11-20 08:18:53.347,0
+1520,Battery Discharging.,2020-11-20 08:18:53.347,1
+1521,Battery MaxCapacity (mWh).,2020-11-20 08:18:53.347,69720
+1522,Battery estimatedTime (Seconds).,2020-11-20 08:18:53.347,19601
+1523,Battery Current Capacity (mWh),2020-11-20 08:18:53.347,62280
+1524,Battery Voltage (mv),2020-11-20 08:18:53.347,16616
+1525,Battery Rate (mW),2020-11-20 08:18:53.347,-10783
+1526,Battery Tag,2020-11-20 08:19:23.280,5
+1527,Battery Designed Capacity (mWh) ,2020-11-20 08:19:23.280,70000
+1528,Battery Full Charged Capacity (mWh),2020-11-20 08:19:23.280,69720
+1529,Battery Cycle Count,2020-11-20 08:19:23.280,12
+1530,Battery Left (%).,2020-11-20 08:19:23.348,89
+1531,Battery Flag,2020-11-20 08:19:23.348,1
+1532,Battery Life Time (Seconds).,2020-11-20 08:19:23.348,19601
+1533,Battery Charging.,2020-11-20 08:19:23.348,0
+1534,Battery Discharging.,2020-11-20 08:19:23.348,1
+1535,Battery MaxCapacity (mWh).,2020-11-20 08:19:23.348,69720
+1536,Battery estimatedTime (Seconds).,2020-11-20 08:19:23.348,19601
+1537,Battery Current Capacity (mWh),2020-11-20 08:19:23.348,62200
+1538,Battery Voltage (mv),2020-11-20 08:19:23.348,16597
+1539,Battery Rate (mW),2020-11-20 08:19:23.348,-10489
+1540,Battery Tag,2020-11-20 08:19:53.280,5
+1541,Battery Designed Capacity (mWh) ,2020-11-20 08:19:53.280,70000
+1542,Battery Full Charged Capacity (mWh),2020-11-20 08:19:53.280,69720
+1543,Battery Cycle Count,2020-11-20 08:19:53.280,12
+1544,Battery Left (%).,2020-11-20 08:19:53.346,89
+1545,Battery Flag,2020-11-20 08:19:53.346,1
+1546,Battery Life Time (Seconds).,2020-11-20 08:19:53.346,19601
+1547,Battery Charging.,2020-11-20 08:19:53.346,0
+1548,Battery Discharging.,2020-11-20 08:19:53.346,1
+1549,Battery MaxCapacity (mWh).,2020-11-20 08:19:53.346,69720
+1550,Battery estimatedTime (Seconds).,2020-11-20 08:19:53.346,19601
+1551,Battery Current Capacity (mWh),2020-11-20 08:19:53.346,62100
+1552,Battery Voltage (mv),2020-11-20 08:19:53.346,16604
+1553,Battery Rate (mW),2020-11-20 08:19:53.346,-11008
+1554,Battery Tag,2020-11-20 08:20:23.279,5
+1555,Battery Designed Capacity (mWh) ,2020-11-20 08:20:23.279,70000
+1556,Battery Full Charged Capacity (mWh),2020-11-20 08:20:23.279,69720
+1557,Battery Cycle Count,2020-11-20 08:20:23.279,12
+1558,Battery Left (%).,2020-11-20 08:20:23.347,89
+1559,Battery Flag,2020-11-20 08:20:23.347,1
+1560,Battery Life Time (Seconds).,2020-11-20 08:20:23.347,19601
+1561,Battery Charging.,2020-11-20 08:20:23.347,0
+1562,Battery Discharging.,2020-11-20 08:20:23.347,1
+1563,Battery MaxCapacity (mWh).,2020-11-20 08:20:23.347,69720
+1564,Battery estimatedTime (Seconds).,2020-11-20 08:20:23.347,19601
+1565,Battery Current Capacity (mWh),2020-11-20 08:20:23.347,62010
+1566,Battery Voltage (mv),2020-11-20 08:20:23.347,16599
+1567,Battery Rate (mW),2020-11-20 08:20:23.347,-10706
+1568,Battery Tag,2020-11-20 08:20:53.279,5
+1569,Battery Designed Capacity (mWh) ,2020-11-20 08:20:53.279,70000
+1570,Battery Full Charged Capacity (mWh),2020-11-20 08:20:53.279,69720
+1571,Battery Cycle Count,2020-11-20 08:20:53.279,12
+1572,Battery Left (%).,2020-11-20 08:20:53.346,89
+1573,Battery Flag,2020-11-20 08:20:53.346,1
+1574,Battery Life Time (Seconds).,2020-11-20 08:20:53.346,19601
+1575,Battery Charging.,2020-11-20 08:20:53.346,0
+1576,Battery Discharging.,2020-11-20 08:20:53.346,1
+1577,Battery MaxCapacity (mWh).,2020-11-20 08:20:53.346,69720
+1578,Battery estimatedTime (Seconds).,2020-11-20 08:20:53.346,19601
+1579,Battery Current Capacity (mWh),2020-11-20 08:20:53.346,61930
+1580,Battery Voltage (mv),2020-11-20 08:20:53.346,16599
+1581,Battery Rate (mW),2020-11-20 08:20:53.346,-10756
+1582,Battery Tag,2020-11-20 08:21:23.279,5
+1583,Battery Designed Capacity (mWh) ,2020-11-20 08:21:23.279,70000
+1584,Battery Full Charged Capacity (mWh),2020-11-20 08:21:23.279,69720
+1585,Battery Cycle Count,2020-11-20 08:21:23.279,12
+1586,Battery Left (%).,2020-11-20 08:21:23.346,89
+1587,Battery Flag,2020-11-20 08:21:23.346,1
+1588,Battery Life Time (Seconds).,2020-11-20 08:21:23.346,19601
+1589,Battery Charging.,2020-11-20 08:21:23.346,0
+1590,Battery Discharging.,2020-11-20 08:21:23.346,1
+1591,Battery MaxCapacity (mWh).,2020-11-20 08:21:23.346,69720
+1592,Battery estimatedTime (Seconds).,2020-11-20 08:21:23.346,19601
+1593,Battery Current Capacity (mWh),2020-11-20 08:21:23.346,61840
+1594,Battery Voltage (mv),2020-11-20 08:21:23.346,16594
+1595,Battery Rate (mW),2020-11-20 08:21:23.346,-10586
+1596,Battery Tag,2020-11-20 08:21:53.278,5
+1597,Battery Designed Capacity (mWh) ,2020-11-20 08:21:53.278,70000
+1598,Battery Full Charged Capacity (mWh),2020-11-20 08:21:53.278,69720
+1599,Battery Cycle Count,2020-11-20 08:21:53.278,12
+1600,Battery Left (%).,2020-11-20 08:21:53.344,89
+1601,Battery Flag,2020-11-20 08:21:53.344,1
+1602,Battery Life Time (Seconds).,2020-11-20 08:21:53.344,19601
+1603,Battery Charging.,2020-11-20 08:21:53.344,0
+1604,Battery Discharging.,2020-11-20 08:21:53.344,1
+1605,Battery MaxCapacity (mWh).,2020-11-20 08:21:53.344,69720
+1606,Battery estimatedTime (Seconds).,2020-11-20 08:21:53.344,19601
+1607,Battery Current Capacity (mWh),2020-11-20 08:21:53.344,61740
+1608,Battery Voltage (mv),2020-11-20 08:21:53.344,16583
+1609,Battery Rate (mW),2020-11-20 08:21:53.344,-10762
+1610,Battery Tag,2020-11-20 08:22:53.277,5
+1611,Battery Designed Capacity (mWh) ,2020-11-20 08:22:53.277,70000
+1612,Battery Full Charged Capacity (mWh),2020-11-20 08:22:53.277,69720
+1613,Battery Cycle Count,2020-11-20 08:22:53.277,12
+1614,Battery Left (%).,2020-11-20 08:22:53.344,88
+1615,Battery Flag,2020-11-20 08:22:53.344,1
+1616,Battery Life Time (Seconds).,2020-11-20 08:22:53.344,17587
+1617,Battery Charging.,2020-11-20 08:22:53.344,0
+1618,Battery Discharging.,2020-11-20 08:22:53.344,1
+1619,Battery MaxCapacity (mWh).,2020-11-20 08:22:53.344,69720
+1620,Battery estimatedTime (Seconds).,2020-11-20 08:22:53.344,17587
+1621,Battery Current Capacity (mWh),2020-11-20 08:22:53.344,61540
+1622,Battery Voltage (mv),2020-11-20 08:22:53.344,16570
+1623,Battery Rate (mW),2020-11-20 08:22:53.344,-11350
+1624,Battery Tag,2020-11-20 08:23:23.276,5
+1625,Battery Designed Capacity (mWh) ,2020-11-20 08:23:23.276,70000
+1626,Battery Full Charged Capacity (mWh),2020-11-20 08:23:23.276,69720
+1627,Battery Cycle Count,2020-11-20 08:23:23.276,12
+1628,Battery Left (%).,2020-11-20 08:23:23.343,88
+1629,Battery Flag,2020-11-20 08:23:23.343,1
+1630,Battery Life Time (Seconds).,2020-11-20 08:23:23.343,17587
+1631,Battery Charging.,2020-11-20 08:23:23.343,0
+1632,Battery Discharging.,2020-11-20 08:23:23.343,1
+1633,Battery MaxCapacity (mWh).,2020-11-20 08:23:23.343,69720
+1634,Battery estimatedTime (Seconds).,2020-11-20 08:23:23.343,17587
+1635,Battery Current Capacity (mWh),2020-11-20 08:23:23.343,61450
+1636,Battery Voltage (mv),2020-11-20 08:23:23.343,16555
+1637,Battery Rate (mW),2020-11-20 08:23:23.343,-10942
+1638,Battery Tag,2020-11-20 08:23:53.276,5
+1639,Battery Designed Capacity (mWh) ,2020-11-20 08:23:53.276,70000
+1640,Battery Full Charged Capacity (mWh),2020-11-20 08:23:53.276,69720
+1641,Battery Cycle Count,2020-11-20 08:23:53.276,12
+1642,Battery Left (%).,2020-11-20 08:23:53.344,88
+1643,Battery Flag,2020-11-20 08:23:53.344,1
+1644,Battery Life Time (Seconds).,2020-11-20 08:23:53.344,17587
+1645,Battery Charging.,2020-11-20 08:23:53.344,0
+1646,Battery Discharging.,2020-11-20 08:23:53.344,1
+1647,Battery MaxCapacity (mWh).,2020-11-20 08:23:53.344,69720
+1648,Battery estimatedTime (Seconds).,2020-11-20 08:23:53.344,17587
+1649,Battery Current Capacity (mWh),2020-11-20 08:23:53.344,61370
+1650,Battery Voltage (mv),2020-11-20 08:23:53.344,16561
+1651,Battery Rate (mW),2020-11-20 08:23:53.344,-10880
+1652,Battery Tag,2020-11-20 08:24:53.275,5
+1653,Battery Designed Capacity (mWh) ,2020-11-20 08:24:53.275,70000
+1654,Battery Full Charged Capacity (mWh),2020-11-20 08:24:53.275,69720
+1655,Battery Cycle Count,2020-11-20 08:24:53.275,12
+1656,Battery Left (%).,2020-11-20 08:24:53.341,88
+1657,Battery Flag,2020-11-20 08:24:53.341,1
+1658,Battery Life Time (Seconds).,2020-11-20 08:24:53.341,17587
+1659,Battery Charging.,2020-11-20 08:24:53.341,0
+1660,Battery Discharging.,2020-11-20 08:24:53.341,1
+1661,Battery MaxCapacity (mWh).,2020-11-20 08:24:53.341,69720
+1662,Battery estimatedTime (Seconds).,2020-11-20 08:24:53.341,17587
+1663,Battery Current Capacity (mWh),2020-11-20 08:24:53.341,61190
+1664,Battery Voltage (mv),2020-11-20 08:24:53.341,16540
+1665,Battery Rate (mW),2020-11-20 08:24:53.341,-10519
+1666,Battery Tag,2020-11-20 08:25:23.275,5
+1667,Battery Designed Capacity (mWh) ,2020-11-20 08:25:23.275,70000
+1668,Battery Full Charged Capacity (mWh),2020-11-20 08:25:23.275,69720
+1669,Battery Cycle Count,2020-11-20 08:25:23.275,12
+1670,Battery Left (%).,2020-11-20 08:25:23.341,88
+1671,Battery Flag,2020-11-20 08:25:23.341,1
+1672,Battery Life Time (Seconds).,2020-11-20 08:25:23.341,17587
+1673,Battery Charging.,2020-11-20 08:25:23.341,0
+1674,Battery Discharging.,2020-11-20 08:25:23.341,1
+1675,Battery MaxCapacity (mWh).,2020-11-20 08:25:23.341,69720
+1676,Battery estimatedTime (Seconds).,2020-11-20 08:25:23.341,17587
+1677,Battery Current Capacity (mWh),2020-11-20 08:25:23.341,61100
+1678,Battery Voltage (mv),2020-11-20 08:25:23.341,16525
+1679,Battery Rate (mW),2020-11-20 08:25:23.341,-10576
+1680,Battery Tag,2020-11-20 08:25:53.275,5
+1681,Battery Designed Capacity (mWh) ,2020-11-20 08:25:53.275,70000
+1682,Battery Full Charged Capacity (mWh),2020-11-20 08:25:53.275,69720
+1683,Battery Cycle Count,2020-11-20 08:25:53.275,12
+1684,Battery Left (%).,2020-11-20 08:25:53.341,88
+1685,Battery Flag,2020-11-20 08:25:53.341,1
+1686,Battery Life Time (Seconds).,2020-11-20 08:25:53.341,17587
+1687,Battery Charging.,2020-11-20 08:25:53.341,0
+1688,Battery Discharging.,2020-11-20 08:25:53.341,1
+1689,Battery MaxCapacity (mWh).,2020-11-20 08:25:53.341,69720
+1690,Battery estimatedTime (Seconds).,2020-11-20 08:25:53.341,17587
+1691,Battery Current Capacity (mWh),2020-11-20 08:25:53.341,61010
+1692,Battery Voltage (mv),2020-11-20 08:25:53.341,16533
+1693,Battery Rate (mW),2020-11-20 08:25:53.341,-10614
+1694,Battery Tag,2020-11-20 08:26:23.274,5
+1695,Battery Designed Capacity (mWh) ,2020-11-20 08:26:23.274,70000
+1696,Battery Full Charged Capacity (mWh),2020-11-20 08:26:23.274,69720
+1697,Battery Cycle Count,2020-11-20 08:26:23.274,12
+1698,Battery Left (%).,2020-11-20 08:26:23.341,87
+1699,Battery Flag,2020-11-20 08:26:23.341,1
+1700,Battery Life Time (Seconds).,2020-11-20 08:26:23.341,20560
+1701,Battery Charging.,2020-11-20 08:26:23.341,0
+1702,Battery Discharging.,2020-11-20 08:26:23.341,1
+1703,Battery MaxCapacity (mWh).,2020-11-20 08:26:23.341,69720
+1704,Battery estimatedTime (Seconds).,2020-11-20 08:26:23.341,20560
+1705,Battery Current Capacity (mWh),2020-11-20 08:26:23.341,60920
+1706,Battery Voltage (mv),2020-11-20 08:26:23.341,16527
+1707,Battery Rate (mW),2020-11-20 08:26:23.341,-10593
+1708,Battery Tag,2020-11-20 08:26:53.274,5
+1709,Battery Designed Capacity (mWh) ,2020-11-20 08:26:53.274,70000
+1710,Battery Full Charged Capacity (mWh),2020-11-20 08:26:53.274,69720
+1711,Battery Cycle Count,2020-11-20 08:26:53.274,12
+1712,Battery Left (%).,2020-11-20 08:26:53.341,87
+1713,Battery Flag,2020-11-20 08:26:53.341,1
+1714,Battery Life Time (Seconds).,2020-11-20 08:26:53.341,20560
+1715,Battery Charging.,2020-11-20 08:26:53.341,0
+1716,Battery Discharging.,2020-11-20 08:26:53.341,1
+1717,Battery MaxCapacity (mWh).,2020-11-20 08:26:53.341,69720
+1718,Battery estimatedTime (Seconds).,2020-11-20 08:26:53.341,20560
+1719,Battery Current Capacity (mWh),2020-11-20 08:26:53.341,60820
+1720,Battery Voltage (mv),2020-11-20 08:26:53.341,16507
+1721,Battery Rate (mW),2020-11-20 08:26:53.341,-11290
+1722,Battery Tag,2020-11-20 08:27:23.274,5
+1723,Battery Designed Capacity (mWh) ,2020-11-20 08:27:23.274,70000
+1724,Battery Full Charged Capacity (mWh),2020-11-20 08:27:23.274,69720
+1725,Battery Cycle Count,2020-11-20 08:27:23.274,12
+1726,Battery Left (%).,2020-11-20 08:27:23.341,87
+1727,Battery Flag,2020-11-20 08:27:23.341,1
+1728,Battery Life Time (Seconds).,2020-11-20 08:27:23.341,20560
+1729,Battery Charging.,2020-11-20 08:27:23.341,0
+1730,Battery Discharging.,2020-11-20 08:27:23.341,1
+1731,Battery MaxCapacity (mWh).,2020-11-20 08:27:23.341,69720
+1732,Battery estimatedTime (Seconds).,2020-11-20 08:27:23.341,20560
+1733,Battery Current Capacity (mWh),2020-11-20 08:27:23.341,60720
+1734,Battery Voltage (mv),2020-11-20 08:27:23.341,16482
+1735,Battery Rate (mW),2020-11-20 08:27:23.341,-12575
+1736,Battery Tag,2020-11-20 08:27:53.273,5
+1737,Battery Designed Capacity (mWh) ,2020-11-20 08:27:53.273,70000
+1738,Battery Full Charged Capacity (mWh),2020-11-20 08:27:53.273,69720
+1739,Battery Cycle Count,2020-11-20 08:27:53.273,12
+1740,Battery Left (%).,2020-11-20 08:27:53.338,87
+1741,Battery Flag,2020-11-20 08:27:53.338,1
+1742,Battery Life Time (Seconds).,2020-11-20 08:27:53.338,20560
+1743,Battery Charging.,2020-11-20 08:27:53.338,0
+1744,Battery Discharging.,2020-11-20 08:27:53.338,1
+1745,Battery MaxCapacity (mWh).,2020-11-20 08:27:53.338,69720
+1746,Battery estimatedTime (Seconds).,2020-11-20 08:27:53.338,20560
+1747,Battery Current Capacity (mWh),2020-11-20 08:27:53.338,60630
+1748,Battery Voltage (mv),2020-11-20 08:27:53.338,16495
+1749,Battery Rate (mW),2020-11-20 08:27:53.338,-12288
+1750,Battery Tag,2020-11-20 08:28:23.273,5
+1751,Battery Designed Capacity (mWh) ,2020-11-20 08:28:23.273,70000
+1752,Battery Full Charged Capacity (mWh),2020-11-20 08:28:23.273,69720
+1753,Battery Cycle Count,2020-11-20 08:28:23.273,12
+1754,Battery Left (%).,2020-11-20 08:28:23.340,87
+1755,Battery Flag,2020-11-20 08:28:23.340,1
+1756,Battery Life Time (Seconds).,2020-11-20 08:28:23.340,20560
+1757,Battery Charging.,2020-11-20 08:28:23.340,0
+1758,Battery Discharging.,2020-11-20 08:28:23.340,1
+1759,Battery MaxCapacity (mWh).,2020-11-20 08:28:23.340,69720
+1760,Battery estimatedTime (Seconds).,2020-11-20 08:28:23.340,20560
+1761,Battery Current Capacity (mWh),2020-11-20 08:28:23.340,60520
+1762,Battery Voltage (mv),2020-11-20 08:28:23.340,16467
+1763,Battery Rate (mW),2020-11-20 08:28:23.340,-11971
+1764,Battery Tag,2020-11-20 08:28:53.272,5
+1765,Battery Designed Capacity (mWh) ,2020-11-20 08:28:53.272,70000
+1766,Battery Full Charged Capacity (mWh),2020-11-20 08:28:53.272,69720
+1767,Battery Cycle Count,2020-11-20 08:28:53.272,12
+1768,Battery Left (%).,2020-11-20 08:28:53.339,87
+1769,Battery Flag,2020-11-20 08:28:53.339,1
+1770,Battery Life Time (Seconds).,2020-11-20 08:28:53.339,20560
+1771,Battery Charging.,2020-11-20 08:28:53.339,0
+1772,Battery Discharging.,2020-11-20 08:28:53.339,1
+1773,Battery MaxCapacity (mWh).,2020-11-20 08:28:53.339,69720
+1774,Battery estimatedTime (Seconds).,2020-11-20 08:28:53.339,20560
+1775,Battery Current Capacity (mWh),2020-11-20 08:28:53.339,60420
+1776,Battery Voltage (mv),2020-11-20 08:28:53.339,16485
+1777,Battery Rate (mW),2020-11-20 08:28:53.339,-11918
+1778,Battery Tag,2020-11-20 08:29:23.272,5
+1779,Battery Designed Capacity (mWh) ,2020-11-20 08:29:23.272,70000
+1780,Battery Full Charged Capacity (mWh),2020-11-20 08:29:23.272,69720
+1781,Battery Cycle Count,2020-11-20 08:29:23.272,12
+1782,Battery Left (%).,2020-11-20 08:29:23.340,87
+1783,Battery Flag,2020-11-20 08:29:23.340,1
+1784,Battery Life Time (Seconds).,2020-11-20 08:29:23.340,20560
+1785,Battery Charging.,2020-11-20 08:29:23.340,0
+1786,Battery Discharging.,2020-11-20 08:29:23.340,1
+1787,Battery MaxCapacity (mWh).,2020-11-20 08:29:23.340,69720
+1788,Battery estimatedTime (Seconds).,2020-11-20 08:29:23.340,20560
+1789,Battery Current Capacity (mWh),2020-11-20 08:29:23.340,60330
+1790,Battery Voltage (mv),2020-11-20 08:29:23.340,16521
+1791,Battery Rate (mW),2020-11-20 08:29:23.340,-9978
+1792,Battery Tag,2020-11-20 08:29:53.272,5
+1793,Battery Designed Capacity (mWh) ,2020-11-20 08:29:53.272,70000
+1794,Battery Full Charged Capacity (mWh),2020-11-20 08:29:53.272,69720
+1795,Battery Cycle Count,2020-11-20 08:29:53.272,12
+1796,Battery Left (%).,2020-11-20 08:29:53.340,86
+1797,Battery Flag,2020-11-20 08:29:53.340,1
+1798,Battery Life Time (Seconds).,2020-11-20 08:29:53.340,22175
+1799,Battery Charging.,2020-11-20 08:29:53.340,0
+1800,Battery Discharging.,2020-11-20 08:29:53.340,1
+1801,Battery MaxCapacity (mWh).,2020-11-20 08:29:53.340,69720
+1802,Battery estimatedTime (Seconds).,2020-11-20 08:29:53.340,22175
+1803,Battery Current Capacity (mWh),2020-11-20 08:29:53.340,60250
+1804,Battery Voltage (mv),2020-11-20 08:29:53.340,16509
+1805,Battery Rate (mW),2020-11-20 08:29:53.340,-10136
+1806,Battery Tag,2020-11-20 08:30:23.272,5
+1807,Battery Designed Capacity (mWh) ,2020-11-20 08:30:23.272,70000
+1808,Battery Full Charged Capacity (mWh),2020-11-20 08:30:23.272,69720
+1809,Battery Cycle Count,2020-11-20 08:30:23.272,12
+1810,Battery Left (%).,2020-11-20 08:30:23.340,86
+1811,Battery Flag,2020-11-20 08:30:23.340,1
+1812,Battery Life Time (Seconds).,2020-11-20 08:30:23.340,22175
+1813,Battery Charging.,2020-11-20 08:30:23.340,0
+1814,Battery Discharging.,2020-11-20 08:30:23.340,1
+1815,Battery MaxCapacity (mWh).,2020-11-20 08:30:23.340,69720
+1816,Battery estimatedTime (Seconds).,2020-11-20 08:30:23.340,22175
+1817,Battery Current Capacity (mWh),2020-11-20 08:30:23.340,60160
+1818,Battery Voltage (mv),2020-11-20 08:30:23.340,16473
+1819,Battery Rate (mW),2020-11-20 08:30:23.340,-10592
+1820,Battery Tag,2020-11-20 08:30:53.272,5
+1821,Battery Designed Capacity (mWh) ,2020-11-20 08:30:53.272,70000
+1822,Battery Full Charged Capacity (mWh),2020-11-20 08:30:53.272,69720
+1823,Battery Cycle Count,2020-11-20 08:30:53.272,12
+1824,Battery Left (%).,2020-11-20 08:30:53.339,86
+1825,Battery Flag,2020-11-20 08:30:53.339,1
+1826,Battery Life Time (Seconds).,2020-11-20 08:30:53.339,22175
+1827,Battery Charging.,2020-11-20 08:30:53.339,0
+1828,Battery Discharging.,2020-11-20 08:30:53.339,1
+1829,Battery MaxCapacity (mWh).,2020-11-20 08:30:53.339,69720
+1830,Battery estimatedTime (Seconds).,2020-11-20 08:30:53.339,22175
+1831,Battery Current Capacity (mWh),2020-11-20 08:30:53.339,60070
+1832,Battery Voltage (mv),2020-11-20 08:30:53.339,16496
+1833,Battery Rate (mW),2020-11-20 08:30:53.339,-11959
+1834,Battery Tag,2020-11-20 08:31:23.272,5
+1835,Battery Designed Capacity (mWh) ,2020-11-20 08:31:23.272,70000
+1836,Battery Full Charged Capacity (mWh),2020-11-20 08:31:23.272,69720
+1837,Battery Cycle Count,2020-11-20 08:31:23.272,12
+1838,Battery Left (%).,2020-11-20 08:31:23.340,86
+1839,Battery Flag,2020-11-20 08:31:23.340,1
+1840,Battery Life Time (Seconds).,2020-11-20 08:31:23.340,22175
+1841,Battery Charging.,2020-11-20 08:31:23.340,0
+1842,Battery Discharging.,2020-11-20 08:31:23.340,1
+1843,Battery MaxCapacity (mWh).,2020-11-20 08:31:23.340,69720
+1844,Battery estimatedTime (Seconds).,2020-11-20 08:31:23.340,22175
+1845,Battery Current Capacity (mWh),2020-11-20 08:31:23.340,59950
+1846,Battery Voltage (mv),2020-11-20 08:31:23.340,16367
+1847,Battery Rate (mW),2020-11-20 08:31:23.340,-14926
+1848,Battery Tag,2020-11-20 08:31:53.271,5
+1849,Battery Designed Capacity (mWh) ,2020-11-20 08:31:53.271,70000
+1850,Battery Full Charged Capacity (mWh),2020-11-20 08:31:53.271,69720
+1851,Battery Cycle Count,2020-11-20 08:31:53.271,12
+1852,Battery Left (%).,2020-11-20 08:31:53.339,86
+1853,Battery Flag,2020-11-20 08:31:53.339,1
+1854,Battery Life Time (Seconds).,2020-11-20 08:31:53.339,22175
+1855,Battery Charging.,2020-11-20 08:31:53.339,0
+1856,Battery Discharging.,2020-11-20 08:31:53.339,1
+1857,Battery MaxCapacity (mWh).,2020-11-20 08:31:53.339,69720
+1858,Battery estimatedTime (Seconds).,2020-11-20 08:31:53.339,22175
+1859,Battery Current Capacity (mWh),2020-11-20 08:31:53.339,59850
+1860,Battery Voltage (mv),2020-11-20 08:31:53.339,16464
+1861,Battery Rate (mW),2020-11-20 08:31:53.339,-11574
+1862,Battery Tag,2020-11-20 08:32:23.271,5
+1863,Battery Designed Capacity (mWh) ,2020-11-20 08:32:23.271,70000
+1864,Battery Full Charged Capacity (mWh),2020-11-20 08:32:23.271,69720
+1865,Battery Cycle Count,2020-11-20 08:32:23.271,12
+1866,Battery Left (%).,2020-11-20 08:32:23.339,86
+1867,Battery Flag,2020-11-20 08:32:23.339,1
+1868,Battery Life Time (Seconds).,2020-11-20 08:32:23.339,22175
+1869,Battery Charging.,2020-11-20 08:32:23.339,0
+1870,Battery Discharging.,2020-11-20 08:32:23.339,1
+1871,Battery MaxCapacity (mWh).,2020-11-20 08:32:23.339,69720
+1872,Battery estimatedTime (Seconds).,2020-11-20 08:32:23.339,22175
+1873,Battery Current Capacity (mWh),2020-11-20 08:32:23.339,59760
+1874,Battery Voltage (mv),2020-11-20 08:32:23.339,16464
+1875,Battery Rate (mW),2020-11-20 08:32:23.339,-10750
+1876,Battery Tag,2020-11-20 08:32:53.270,5
+1877,Battery Designed Capacity (mWh) ,2020-11-20 08:32:53.270,70000
+1878,Battery Full Charged Capacity (mWh),2020-11-20 08:32:53.270,69720
+1879,Battery Cycle Count,2020-11-20 08:32:53.270,12
+1880,Battery Left (%).,2020-11-20 08:32:53.338,86
+1881,Battery Flag,2020-11-20 08:32:53.338,1
+1882,Battery Life Time (Seconds).,2020-11-20 08:32:53.338,22175
+1883,Battery Charging.,2020-11-20 08:32:53.338,0
+1884,Battery Discharging.,2020-11-20 08:32:53.338,1
+1885,Battery MaxCapacity (mWh).,2020-11-20 08:32:53.338,69720
+1886,Battery estimatedTime (Seconds).,2020-11-20 08:32:53.338,22175
+1887,Battery Current Capacity (mWh),2020-11-20 08:32:53.338,59670
+1888,Battery Voltage (mv),2020-11-20 08:32:53.338,16432
+1889,Battery Rate (mW),2020-11-20 08:32:53.338,-11255
+1890,Battery Tag,2020-11-20 08:33:23.269,5
+1891,Battery Designed Capacity (mWh) ,2020-11-20 08:33:23.269,70000
+1892,Battery Full Charged Capacity (mWh),2020-11-20 08:33:23.269,69720
+1893,Battery Cycle Count,2020-11-20 08:33:23.269,12
+1894,Battery Left (%).,2020-11-20 08:33:23.337,85
+1895,Battery Flag,2020-11-20 08:33:23.337,1
+1896,Battery Life Time (Seconds).,2020-11-20 08:33:23.337,19603
+1897,Battery Charging.,2020-11-20 08:33:23.337,0
+1898,Battery Discharging.,2020-11-20 08:33:23.337,1
+1899,Battery MaxCapacity (mWh).,2020-11-20 08:33:23.337,69720
+1900,Battery estimatedTime (Seconds).,2020-11-20 08:33:23.337,19603
+1901,Battery Current Capacity (mWh),2020-11-20 08:33:23.337,59580
+1902,Battery Voltage (mv),2020-11-20 08:33:23.337,16456
+1903,Battery Rate (mW),2020-11-20 08:33:23.337,-10893
+1904,Battery Tag,2020-11-20 08:33:53.269,5
+1905,Battery Designed Capacity (mWh) ,2020-11-20 08:33:53.269,70000
+1906,Battery Full Charged Capacity (mWh),2020-11-20 08:33:53.269,69720
+1907,Battery Cycle Count,2020-11-20 08:33:53.269,12
+1908,Battery Left (%).,2020-11-20 08:33:53.337,85
+1909,Battery Flag,2020-11-20 08:33:53.337,1
+1910,Battery Life Time (Seconds).,2020-11-20 08:33:53.337,19603
+1911,Battery Charging.,2020-11-20 08:33:53.337,0
+1912,Battery Discharging.,2020-11-20 08:33:53.337,1
+1913,Battery MaxCapacity (mWh).,2020-11-20 08:33:53.337,69720
+1914,Battery estimatedTime (Seconds).,2020-11-20 08:33:53.337,19603
+1915,Battery Current Capacity (mWh),2020-11-20 08:33:53.337,59490
+1916,Battery Voltage (mv),2020-11-20 08:33:53.337,16459
+1917,Battery Rate (mW),2020-11-20 08:33:53.337,-11290
+1918,Battery Tag,2020-11-20 08:34:23.268,5
+1919,Battery Designed Capacity (mWh) ,2020-11-20 08:34:23.268,70000
+1920,Battery Full Charged Capacity (mWh),2020-11-20 08:34:23.268,69720
+1921,Battery Cycle Count,2020-11-20 08:34:23.268,12
+1922,Battery Left (%).,2020-11-20 08:34:23.336,85
+1923,Battery Flag,2020-11-20 08:34:23.336,1
+1924,Battery Life Time (Seconds).,2020-11-20 08:34:23.336,19603
+1925,Battery Charging.,2020-11-20 08:34:23.336,0
+1926,Battery Discharging.,2020-11-20 08:34:23.336,1
+1927,Battery MaxCapacity (mWh).,2020-11-20 08:34:23.336,69720
+1928,Battery estimatedTime (Seconds).,2020-11-20 08:34:23.336,19603
+1929,Battery Current Capacity (mWh),2020-11-20 08:34:23.336,59390
+1930,Battery Voltage (mv),2020-11-20 08:34:23.336,16404
+1931,Battery Rate (mW),2020-11-20 08:34:23.336,-12007
+1932,Battery Tag,2020-11-20 08:34:53.268,5
+1933,Battery Designed Capacity (mWh) ,2020-11-20 08:34:53.268,70000
+1934,Battery Full Charged Capacity (mWh),2020-11-20 08:34:53.268,69720
+1935,Battery Cycle Count,2020-11-20 08:34:53.268,12
+1936,Battery Left (%).,2020-11-20 08:34:53.335,85
+1937,Battery Flag,2020-11-20 08:34:53.335,1
+1938,Battery Life Time (Seconds).,2020-11-20 08:34:53.335,19603
+1939,Battery Charging.,2020-11-20 08:34:53.335,0
+1940,Battery Discharging.,2020-11-20 08:34:53.335,1
+1941,Battery MaxCapacity (mWh).,2020-11-20 08:34:53.335,69720
+1942,Battery estimatedTime (Seconds).,2020-11-20 08:34:53.335,19603
+1943,Battery Current Capacity (mWh),2020-11-20 08:34:53.335,59290
+1944,Battery Voltage (mv),2020-11-20 08:34:53.335,16334
+1945,Battery Rate (mW),2020-11-20 08:34:53.335,-11842
+1946,Battery Tag,2020-11-20 08:35:23.268,5
+1947,Battery Designed Capacity (mWh) ,2020-11-20 08:35:23.268,70000
+1948,Battery Full Charged Capacity (mWh),2020-11-20 08:35:23.268,69720
+1949,Battery Cycle Count,2020-11-20 08:35:23.268,12
+1950,Battery Left (%).,2020-11-20 08:35:23.336,85
+1951,Battery Flag,2020-11-20 08:35:23.336,1
+1952,Battery Life Time (Seconds).,2020-11-20 08:35:23.336,19603
+1953,Battery Charging.,2020-11-20 08:35:23.336,0
+1954,Battery Discharging.,2020-11-20 08:35:23.336,1
+1955,Battery MaxCapacity (mWh).,2020-11-20 08:35:23.336,69720
+1956,Battery estimatedTime (Seconds).,2020-11-20 08:35:23.336,19603
+1957,Battery Current Capacity (mWh),2020-11-20 08:35:23.336,59200
+1958,Battery Voltage (mv),2020-11-20 08:35:23.336,16464
+1959,Battery Rate (mW),2020-11-20 08:35:23.336,-10257
+1960,Battery Tag,2020-11-20 08:35:53.268,5
+1961,Battery Designed Capacity (mWh) ,2020-11-20 08:35:53.268,70000
+1962,Battery Full Charged Capacity (mWh),2020-11-20 08:35:53.268,69720
+1963,Battery Cycle Count,2020-11-20 08:35:53.268,12
+1964,Battery Left (%).,2020-11-20 08:35:53.336,85
+1965,Battery Flag,2020-11-20 08:35:53.336,1
+1966,Battery Life Time (Seconds).,2020-11-20 08:35:53.336,19603
+1967,Battery Charging.,2020-11-20 08:35:53.336,0
+1968,Battery Discharging.,2020-11-20 08:35:53.336,1
+1969,Battery MaxCapacity (mWh).,2020-11-20 08:35:53.336,69720
+1970,Battery estimatedTime (Seconds).,2020-11-20 08:35:53.336,19603
+1971,Battery Current Capacity (mWh),2020-11-20 08:35:53.336,59130
+1972,Battery Voltage (mv),2020-11-20 08:35:53.336,16457
+1973,Battery Rate (mW),2020-11-20 08:35:53.336,-8952
+1974,Battery Tag,2020-11-20 08:36:23.268,5
+1975,Battery Designed Capacity (mWh) ,2020-11-20 08:36:23.268,70000
+1976,Battery Full Charged Capacity (mWh),2020-11-20 08:36:23.268,69720
+1977,Battery Cycle Count,2020-11-20 08:36:23.268,12
+1978,Battery Left (%).,2020-11-20 08:36:23.336,85
+1979,Battery Flag,2020-11-20 08:36:23.336,1
+1980,Battery Life Time (Seconds).,2020-11-20 08:36:23.336,19603
+1981,Battery Charging.,2020-11-20 08:36:23.336,0
+1982,Battery Discharging.,2020-11-20 08:36:23.336,1
+1983,Battery MaxCapacity (mWh).,2020-11-20 08:36:23.336,69720
+1984,Battery estimatedTime (Seconds).,2020-11-20 08:36:23.336,19603
+1985,Battery Current Capacity (mWh),2020-11-20 08:36:23.336,59050
+1986,Battery Voltage (mv),2020-11-20 08:36:23.336,16460
+1987,Battery Rate (mW),2020-11-20 08:36:23.336,-8756
+1988,Battery Tag,2020-11-20 08:36:53.267,5
+1989,Battery Designed Capacity (mWh) ,2020-11-20 08:36:53.267,70000
+1990,Battery Full Charged Capacity (mWh),2020-11-20 08:36:53.267,69720
+1991,Battery Cycle Count,2020-11-20 08:36:53.267,12
+1992,Battery Left (%).,2020-11-20 08:36:53.335,85
+1993,Battery Flag,2020-11-20 08:36:53.335,1
+1994,Battery Life Time (Seconds).,2020-11-20 08:36:53.335,19603
+1995,Battery Charging.,2020-11-20 08:36:53.335,0
+1996,Battery Discharging.,2020-11-20 08:36:53.335,1
+1997,Battery MaxCapacity (mWh).,2020-11-20 08:36:53.335,69720
+1998,Battery estimatedTime (Seconds).,2020-11-20 08:36:53.335,19603
+1999,Battery Current Capacity (mWh),2020-11-20 08:36:53.335,58970
+2000,Battery Voltage (mv),2020-11-20 08:36:53.335,16458
+2001,Battery Rate (mW),2020-11-20 08:36:53.335,-8640
+2002,Battery Tag,2020-11-20 08:37:23.268,5
+2003,Battery Designed Capacity (mWh) ,2020-11-20 08:37:23.268,70000
+2004,Battery Full Charged Capacity (mWh),2020-11-20 08:37:23.268,69720
+2005,Battery Cycle Count,2020-11-20 08:37:23.268,12
+2006,Battery Left (%).,2020-11-20 08:37:23.335,85
+2007,Battery Flag,2020-11-20 08:37:23.335,1
+2008,Battery Life Time (Seconds).,2020-11-20 08:37:23.335,19603
+2009,Battery Charging.,2020-11-20 08:37:23.335,0
+2010,Battery Discharging.,2020-11-20 08:37:23.335,1
+2011,Battery MaxCapacity (mWh).,2020-11-20 08:37:23.335,69720
+2012,Battery estimatedTime (Seconds).,2020-11-20 08:37:23.335,19603
+2013,Battery Current Capacity (mWh),2020-11-20 08:37:23.335,58890
+2014,Battery Voltage (mv),2020-11-20 08:37:23.335,16398
+2015,Battery Rate (mW),2020-11-20 08:37:23.335,-10904
+2016,Battery Tag,2020-11-20 08:38:23.266,5
+2017,Battery Designed Capacity (mWh) ,2020-11-20 08:38:23.266,70000
+2018,Battery Full Charged Capacity (mWh),2020-11-20 08:38:23.266,69720
+2019,Battery Cycle Count,2020-11-20 08:38:23.266,12
+2020,Battery Left (%).,2020-11-20 08:38:23.334,84
+2021,Battery Flag,2020-11-20 08:38:23.334,1
+2022,Battery Life Time (Seconds).,2020-11-20 08:38:23.334,19442
+2023,Battery Charging.,2020-11-20 08:38:23.334,0
+2024,Battery Discharging.,2020-11-20 08:38:23.334,1
+2025,Battery MaxCapacity (mWh).,2020-11-20 08:38:23.334,69720
+2026,Battery estimatedTime (Seconds).,2020-11-20 08:38:23.334,19442
+2027,Battery Current Capacity (mWh),2020-11-20 08:38:23.334,58680
+2028,Battery Voltage (mv),2020-11-20 08:38:23.334,16370
+2029,Battery Rate (mW),2020-11-20 08:38:23.334,-11900
+2030,Battery Tag,2020-11-20 08:38:53.266,5
+2031,Battery Designed Capacity (mWh) ,2020-11-20 08:38:53.266,70000
+2032,Battery Full Charged Capacity (mWh),2020-11-20 08:38:53.266,69720
+2033,Battery Cycle Count,2020-11-20 08:38:53.266,12
+2034,Battery Left (%).,2020-11-20 08:38:53.332,84
+2035,Battery Flag,2020-11-20 08:38:53.332,1
+2036,Battery Life Time (Seconds).,2020-11-20 08:38:53.332,19442
+2037,Battery Charging.,2020-11-20 08:38:53.332,0
+2038,Battery Discharging.,2020-11-20 08:38:53.332,1
+2039,Battery MaxCapacity (mWh).,2020-11-20 08:38:53.332,69720
+2040,Battery estimatedTime (Seconds).,2020-11-20 08:38:53.332,19442
+2041,Battery Current Capacity (mWh),2020-11-20 08:38:53.332,58590
+2042,Battery Voltage (mv),2020-11-20 08:38:53.332,16376
+2043,Battery Rate (mW),2020-11-20 08:38:53.332,-11954
+2044,Battery Tag,2020-11-20 08:39:23.265,5
+2045,Battery Designed Capacity (mWh) ,2020-11-20 08:39:23.265,70000
+2046,Battery Full Charged Capacity (mWh),2020-11-20 08:39:23.265,69720
+2047,Battery Cycle Count,2020-11-20 08:39:23.265,12
+2048,Battery Left (%).,2020-11-20 08:39:23.334,84
+2049,Battery Flag,2020-11-20 08:39:23.334,1
+2050,Battery Life Time (Seconds).,2020-11-20 08:39:23.334,19442
+2051,Battery Charging.,2020-11-20 08:39:23.334,0
+2052,Battery Discharging.,2020-11-20 08:39:23.334,1
+2053,Battery MaxCapacity (mWh).,2020-11-20 08:39:23.334,69720
+2054,Battery estimatedTime (Seconds).,2020-11-20 08:39:23.334,19442
+2055,Battery Current Capacity (mWh),2020-11-20 08:39:23.334,58490
+2056,Battery Voltage (mv),2020-11-20 08:39:23.334,16420
+2057,Battery Rate (mW),2020-11-20 08:39:23.334,-10640
+2058,Battery Tag,2020-11-20 08:39:53.265,5
+2059,Battery Designed Capacity (mWh) ,2020-11-20 08:39:53.265,70000
+2060,Battery Full Charged Capacity (mWh),2020-11-20 08:39:53.265,69720
+2061,Battery Cycle Count,2020-11-20 08:39:53.265,12
+2062,Battery Left (%).,2020-11-20 08:39:53.332,84
+2063,Battery Flag,2020-11-20 08:39:53.332,1
+2064,Battery Life Time (Seconds).,2020-11-20 08:39:53.332,19442
+2065,Battery Charging.,2020-11-20 08:39:53.332,0
+2066,Battery Discharging.,2020-11-20 08:39:53.332,1
+2067,Battery MaxCapacity (mWh).,2020-11-20 08:39:53.332,69720
+2068,Battery estimatedTime (Seconds).,2020-11-20 08:39:53.332,19442
+2069,Battery Current Capacity (mWh),2020-11-20 08:39:53.332,58400
+2070,Battery Voltage (mv),2020-11-20 08:39:53.332,16381
+2071,Battery Rate (mW),2020-11-20 08:39:53.332,-11319
+2072,Battery Left (%).,2020-11-20 08:40:23.266,84
+2073,Battery Flag,2020-11-20 08:40:23.266,1
+2074,Battery Life Time (Seconds).,2020-11-20 08:40:23.266,19442
+2075,Battery Charging.,2020-11-20 08:40:23.266,0
+2076,Battery Discharging.,2020-11-20 08:40:23.266,1
+2077,Battery MaxCapacity (mWh).,2020-11-20 08:40:23.266,69720
+2078,Battery estimatedTime (Seconds).,2020-11-20 08:40:23.266,19442
+2079,Battery Tag,2020-11-20 08:40:23.266,5
+2080,Battery Designed Capacity (mWh) ,2020-11-20 08:40:23.266,70000
+2081,Battery Full Charged Capacity (mWh),2020-11-20 08:40:23.266,69720
+2082,Battery Cycle Count,2020-11-20 08:40:23.266,12
+2083,Battery Current Capacity (mWh),2020-11-20 08:40:23.266,58310
+2084,Battery Voltage (mv),2020-11-20 08:40:23.266,16368
+2085,Battery Rate (mW),2020-11-20 08:40:23.266,-12341
+2086,Battery Tag,2020-11-20 08:40:53.265,5
+2087,Battery Designed Capacity (mWh) ,2020-11-20 08:40:53.265,70000
+2088,Battery Full Charged Capacity (mWh),2020-11-20 08:40:53.265,69720
+2089,Battery Cycle Count,2020-11-20 08:40:53.265,12
+2090,Battery Left (%).,2020-11-20 08:40:53.332,84
+2091,Battery Flag,2020-11-20 08:40:53.332,1
+2092,Battery Life Time (Seconds).,2020-11-20 08:40:53.332,19442
+2093,Battery Charging.,2020-11-20 08:40:53.332,0
+2094,Battery Discharging.,2020-11-20 08:40:53.332,1
+2095,Battery MaxCapacity (mWh).,2020-11-20 08:40:53.332,69720
+2096,Battery estimatedTime (Seconds).,2020-11-20 08:40:53.332,19442
+2097,Battery Current Capacity (mWh),2020-11-20 08:40:53.332,58200
+2098,Battery Voltage (mv),2020-11-20 08:40:53.332,16360
+2099,Battery Rate (mW),2020-11-20 08:40:53.332,-12580
+2100,Battery Tag,2020-11-20 08:41:23.265,5
+2101,Battery Designed Capacity (mWh) ,2020-11-20 08:41:23.265,70000
+2102,Battery Full Charged Capacity (mWh),2020-11-20 08:41:23.265,69720
+2103,Battery Cycle Count,2020-11-20 08:41:23.265,12
+2104,Battery Left (%).,2020-11-20 08:41:23.332,83
+2105,Battery Flag,2020-11-20 08:41:23.332,1
+2106,Battery Life Time (Seconds).,2020-11-20 08:41:23.332,16655
+2107,Battery Charging.,2020-11-20 08:41:23.332,0
+2108,Battery Discharging.,2020-11-20 08:41:23.332,1
+2109,Battery MaxCapacity (mWh).,2020-11-20 08:41:23.332,69720
+2110,Battery estimatedTime (Seconds).,2020-11-20 08:41:23.332,16655
+2111,Battery Current Capacity (mWh),2020-11-20 08:41:23.332,58090
+2112,Battery Voltage (mv),2020-11-20 08:41:23.332,16352
+2113,Battery Rate (mW),2020-11-20 08:41:23.332,-12443
+2114,Battery Tag,2020-11-20 08:41:53.264,5
+2115,Battery Designed Capacity (mWh) ,2020-11-20 08:41:53.264,70000
+2116,Battery Full Charged Capacity (mWh),2020-11-20 08:41:53.264,69720
+2117,Battery Cycle Count,2020-11-20 08:41:53.264,12
+2118,Battery Left (%).,2020-11-20 08:41:53.331,83
+2119,Battery Flag,2020-11-20 08:41:53.331,1
+2120,Battery Life Time (Seconds).,2020-11-20 08:41:53.331,16655
+2121,Battery Charging.,2020-11-20 08:41:53.331,0
+2122,Battery Discharging.,2020-11-20 08:41:53.331,1
+2123,Battery MaxCapacity (mWh).,2020-11-20 08:41:53.331,69720
+2124,Battery estimatedTime (Seconds).,2020-11-20 08:41:53.331,16655
+2125,Battery Current Capacity (mWh),2020-11-20 08:41:53.331,58000
+2126,Battery Voltage (mv),2020-11-20 08:41:53.331,16370
+2127,Battery Rate (mW),2020-11-20 08:41:53.331,-11426
+2128,Battery Tag,2020-11-20 08:42:23.263,5
+2129,Battery Designed Capacity (mWh) ,2020-11-20 08:42:23.263,70000
+2130,Battery Full Charged Capacity (mWh),2020-11-20 08:42:23.263,69720
+2131,Battery Cycle Count,2020-11-20 08:42:23.263,12
+2132,Battery Left (%).,2020-11-20 08:42:23.331,83
+2133,Battery Flag,2020-11-20 08:42:23.331,1
+2134,Battery Life Time (Seconds).,2020-11-20 08:42:23.331,16655
+2135,Battery Charging.,2020-11-20 08:42:23.331,0
+2136,Battery Discharging.,2020-11-20 08:42:23.331,1
+2137,Battery MaxCapacity (mWh).,2020-11-20 08:42:23.331,69720
+2138,Battery estimatedTime (Seconds).,2020-11-20 08:42:23.331,16655
+2139,Battery Current Capacity (mWh),2020-11-20 08:42:23.331,57900
+2140,Battery Voltage (mv),2020-11-20 08:42:23.331,16362
+2141,Battery Rate (mW),2020-11-20 08:42:23.331,-11126
+2142,Battery Tag,2020-11-20 08:43:23.261,5
+2143,Battery Designed Capacity (mWh) ,2020-11-20 08:43:23.261,70000
+2144,Battery Full Charged Capacity (mWh),2020-11-20 08:43:23.261,69720
+2145,Battery Cycle Count,2020-11-20 08:43:23.261,12
+2146,Battery Left (%).,2020-11-20 08:43:23.328,83
+2147,Battery Flag,2020-11-20 08:43:23.328,1
+2148,Battery Life Time (Seconds).,2020-11-20 08:43:23.328,16655
+2149,Battery Charging.,2020-11-20 08:43:23.328,0
+2150,Battery Discharging.,2020-11-20 08:43:23.328,1
+2151,Battery MaxCapacity (mWh).,2020-11-20 08:43:23.328,69720
+2152,Battery estimatedTime (Seconds).,2020-11-20 08:43:23.328,16655
+2153,Battery Current Capacity (mWh),2020-11-20 08:43:23.328,57720
+2154,Battery Voltage (mv),2020-11-20 08:43:23.328,16368
+2155,Battery Rate (mW),2020-11-20 08:43:23.328,-10933
+2156,Battery Tag,2020-11-20 08:43:53.261,5
+2157,Battery Designed Capacity (mWh) ,2020-11-20 08:43:53.261,70000
+2158,Battery Full Charged Capacity (mWh),2020-11-20 08:43:53.261,69720
+2159,Battery Cycle Count,2020-11-20 08:43:53.261,12
+2160,Battery Left (%).,2020-11-20 08:43:53.328,83
+2161,Battery Flag,2020-11-20 08:43:53.328,1
+2162,Battery Life Time (Seconds).,2020-11-20 08:43:53.328,16655
+2163,Battery Charging.,2020-11-20 08:43:53.328,0
+2164,Battery Discharging.,2020-11-20 08:43:53.328,1
+2165,Battery MaxCapacity (mWh).,2020-11-20 08:43:53.328,69720
+2166,Battery estimatedTime (Seconds).,2020-11-20 08:43:53.328,16655
+2167,Battery Current Capacity (mWh),2020-11-20 08:43:53.328,57640
+2168,Battery Voltage (mv),2020-11-20 08:43:53.328,16347
+2169,Battery Rate (mW),2020-11-20 08:43:53.328,-11034
+2170,Battery Tag,2020-11-20 08:44:23.261,5
+2171,Battery Designed Capacity (mWh) ,2020-11-20 08:44:23.261,70000
+2172,Battery Full Charged Capacity (mWh),2020-11-20 08:44:23.261,69720
+2173,Battery Cycle Count,2020-11-20 08:44:23.261,12
+2174,Battery Left (%).,2020-11-20 08:44:23.331,83
+2175,Battery Flag,2020-11-20 08:44:23.331,1
+2176,Battery Life Time (Seconds).,2020-11-20 08:44:23.331,16655
+2177,Battery Charging.,2020-11-20 08:44:23.331,0
+2178,Battery Discharging.,2020-11-20 08:44:23.331,1
+2179,Battery MaxCapacity (mWh).,2020-11-20 08:44:23.331,69720
+2180,Battery estimatedTime (Seconds).,2020-11-20 08:44:23.331,16655
+2181,Battery Current Capacity (mWh),2020-11-20 08:44:23.331,57550
+2182,Battery Voltage (mv),2020-11-20 08:44:23.331,16323
+2183,Battery Rate (mW),2020-11-20 08:44:23.331,-11262
+2184,Battery Tag,2020-11-20 08:45:23.260,5
+2185,Battery Designed Capacity (mWh) ,2020-11-20 08:45:23.260,70000
+2186,Battery Full Charged Capacity (mWh),2020-11-20 08:45:23.260,69720
+2187,Battery Cycle Count,2020-11-20 08:45:23.260,12
+2188,Battery Left (%).,2020-11-20 08:45:23.328,82
+2189,Battery Flag,2020-11-20 08:45:23.328,1
+2190,Battery Life Time (Seconds).,2020-11-20 08:45:23.328,18796
+2191,Battery Charging.,2020-11-20 08:45:23.328,0
+2192,Battery Discharging.,2020-11-20 08:45:23.328,1
+2193,Battery MaxCapacity (mWh).,2020-11-20 08:45:23.328,69720
+2194,Battery estimatedTime (Seconds).,2020-11-20 08:45:23.328,18796
+2195,Battery Current Capacity (mWh),2020-11-20 08:45:23.328,57360
+2196,Battery Voltage (mv),2020-11-20 08:45:23.328,16320
+2197,Battery Rate (mW),2020-11-20 08:45:23.328,-11162
+2198,Battery Tag,2020-11-20 08:45:53.260,5
+2199,Battery Designed Capacity (mWh) ,2020-11-20 08:45:53.260,70000
+2200,Battery Full Charged Capacity (mWh),2020-11-20 08:45:53.260,69720
+2201,Battery Cycle Count,2020-11-20 08:45:53.260,12
+2202,Battery Left (%).,2020-11-20 08:45:53.328,82
+2203,Battery Flag,2020-11-20 08:45:53.328,1
+2204,Battery Life Time (Seconds).,2020-11-20 08:45:53.328,18796
+2205,Battery Charging.,2020-11-20 08:45:53.328,0
+2206,Battery Discharging.,2020-11-20 08:45:53.328,1
+2207,Battery MaxCapacity (mWh).,2020-11-20 08:45:53.328,69720
+2208,Battery estimatedTime (Seconds).,2020-11-20 08:45:53.328,18796
+2209,Battery Current Capacity (mWh),2020-11-20 08:45:53.328,57260
+2210,Battery Voltage (mv),2020-11-20 08:45:53.328,16342
+2211,Battery Rate (mW),2020-11-20 08:45:53.328,-10491
+2212,Battery Tag,2020-11-20 08:46:23.259,5
+2213,Battery Designed Capacity (mWh) ,2020-11-20 08:46:23.259,70000
+2214,Battery Full Charged Capacity (mWh),2020-11-20 08:46:23.259,69720
+2215,Battery Cycle Count,2020-11-20 08:46:23.259,12
+2216,Battery Left (%).,2020-11-20 08:46:23.327,82
+2217,Battery Flag,2020-11-20 08:46:23.327,1
+2218,Battery Life Time (Seconds).,2020-11-20 08:46:23.327,18796
+2219,Battery Charging.,2020-11-20 08:46:23.327,0
+2220,Battery Discharging.,2020-11-20 08:46:23.327,1
+2221,Battery MaxCapacity (mWh).,2020-11-20 08:46:23.327,69720
+2222,Battery estimatedTime (Seconds).,2020-11-20 08:46:23.327,18796
+2223,Battery Current Capacity (mWh),2020-11-20 08:46:23.327,57180
+2224,Battery Voltage (mv),2020-11-20 08:46:23.327,16316
+2225,Battery Rate (mW),2020-11-20 08:46:23.327,-10458
+2226,Battery Tag,2020-11-20 08:46:53.259,5
+2227,Battery Designed Capacity (mWh) ,2020-11-20 08:46:53.259,70000
+2228,Battery Full Charged Capacity (mWh),2020-11-20 08:46:53.259,69720
+2229,Battery Cycle Count,2020-11-20 08:46:53.259,12
+2230,Battery Left (%).,2020-11-20 08:46:53.326,82
+2231,Battery Flag,2020-11-20 08:46:53.326,1
+2232,Battery Life Time (Seconds).,2020-11-20 08:46:53.326,18796
+2233,Battery Charging.,2020-11-20 08:46:53.326,0
+2234,Battery Discharging.,2020-11-20 08:46:53.326,1
+2235,Battery MaxCapacity (mWh).,2020-11-20 08:46:53.326,69720
+2236,Battery estimatedTime (Seconds).,2020-11-20 08:46:53.326,18796
+2237,Battery Current Capacity (mWh),2020-11-20 08:46:53.326,57080
+2238,Battery Voltage (mv),2020-11-20 08:46:53.326,16315
+2239,Battery Rate (mW),2020-11-20 08:46:53.326,-10767
+2240,Battery Tag,2020-11-20 08:47:53.259,5
+2241,Battery Designed Capacity (mWh) ,2020-11-20 08:47:53.259,70000
+2242,Battery Full Charged Capacity (mWh),2020-11-20 08:47:53.259,69720
+2243,Battery Cycle Count,2020-11-20 08:47:53.259,12
+2244,Battery Left (%).,2020-11-20 08:47:53.326,82
+2245,Battery Flag,2020-11-20 08:47:53.326,1
+2246,Battery Life Time (Seconds).,2020-11-20 08:47:53.326,18796
+2247,Battery Charging.,2020-11-20 08:47:53.326,0
+2248,Battery Discharging.,2020-11-20 08:47:53.326,1
+2249,Battery MaxCapacity (mWh).,2020-11-20 08:47:53.326,69720
+2250,Battery estimatedTime (Seconds).,2020-11-20 08:47:53.326,18796
+2251,Battery Current Capacity (mWh),2020-11-20 08:47:53.326,56910
+2252,Battery Voltage (mv),2020-11-20 08:47:53.326,16288
+2253,Battery Rate (mW),2020-11-20 08:47:53.326,-10798
+2254,Battery Tag,2020-11-20 08:48:23.258,5
+2255,Battery Designed Capacity (mWh) ,2020-11-20 08:48:23.258,70000
+2256,Battery Full Charged Capacity (mWh),2020-11-20 08:48:23.258,69720
+2257,Battery Cycle Count,2020-11-20 08:48:23.258,12
+2258,Battery Left (%).,2020-11-20 08:48:23.325,82
+2259,Battery Flag,2020-11-20 08:48:23.325,1
+2260,Battery Life Time (Seconds).,2020-11-20 08:48:23.325,18796
+2261,Battery Charging.,2020-11-20 08:48:23.325,0
+2262,Battery Discharging.,2020-11-20 08:48:23.325,1
+2263,Battery MaxCapacity (mWh).,2020-11-20 08:48:23.325,69720
+2264,Battery estimatedTime (Seconds).,2020-11-20 08:48:23.325,18796
+2265,Battery Current Capacity (mWh),2020-11-20 08:48:23.325,56820
+2266,Battery Voltage (mv),2020-11-20 08:48:23.325,16296
+2267,Battery Rate (mW),2020-11-20 08:48:23.325,-10706
+2268,Battery Tag,2020-11-20 08:49:23.258,5
+2269,Battery Designed Capacity (mWh) ,2020-11-20 08:49:23.258,70000
+2270,Battery Full Charged Capacity (mWh),2020-11-20 08:49:23.258,69720
+2271,Battery Cycle Count,2020-11-20 08:49:23.258,12
+2272,Battery Left (%).,2020-11-20 08:49:23.326,81
+2273,Battery Flag,2020-11-20 08:49:23.326,1
+2274,Battery Life Time (Seconds).,2020-11-20 08:49:23.326,19106
+2275,Battery Charging.,2020-11-20 08:49:23.326,0
+2276,Battery Discharging.,2020-11-20 08:49:23.326,1
+2277,Battery MaxCapacity (mWh).,2020-11-20 08:49:23.326,69720
+2278,Battery estimatedTime (Seconds).,2020-11-20 08:49:23.326,19106
+2279,Battery Current Capacity (mWh),2020-11-20 08:49:23.326,56620
+2280,Battery Voltage (mv),2020-11-20 08:49:23.326,16263
+2281,Battery Rate (mW),2020-11-20 08:49:23.326,-10912
+2282,Battery Tag,2020-11-20 08:49:53.257,5
+2283,Battery Designed Capacity (mWh) ,2020-11-20 08:49:53.257,70000
+2284,Battery Full Charged Capacity (mWh),2020-11-20 08:49:53.257,69720
+2285,Battery Cycle Count,2020-11-20 08:49:53.257,12
+2286,Battery Left (%).,2020-11-20 08:49:53.324,81
+2287,Battery Flag,2020-11-20 08:49:53.324,1
+2288,Battery Life Time (Seconds).,2020-11-20 08:49:53.324,19106
+2289,Battery Charging.,2020-11-20 08:49:53.324,0
+2290,Battery Discharging.,2020-11-20 08:49:53.324,1
+2291,Battery MaxCapacity (mWh).,2020-11-20 08:49:53.324,69720
+2292,Battery estimatedTime (Seconds).,2020-11-20 08:49:53.324,19106
+2293,Battery Current Capacity (mWh),2020-11-20 08:49:53.324,56540
+2294,Battery Voltage (mv),2020-11-20 08:49:53.324,16265
+2295,Battery Rate (mW),2020-11-20 08:49:53.324,-10116
+2296,Battery Tag,2020-11-20 08:50:23.256,5
+2297,Battery Designed Capacity (mWh) ,2020-11-20 08:50:23.256,70000
+2298,Battery Full Charged Capacity (mWh),2020-11-20 08:50:23.256,69720
+2299,Battery Cycle Count,2020-11-20 08:50:23.256,12
+2300,Battery Left (%).,2020-11-20 08:50:23.322,81
+2301,Battery Flag,2020-11-20 08:50:23.322,1
+2302,Battery Life Time (Seconds).,2020-11-20 08:50:23.322,19106
+2303,Battery Charging.,2020-11-20 08:50:23.322,0
+2304,Battery Discharging.,2020-11-20 08:50:23.322,1
+2305,Battery MaxCapacity (mWh).,2020-11-20 08:50:23.322,69720
+2306,Battery estimatedTime (Seconds).,2020-11-20 08:50:23.322,19106
+2307,Battery Current Capacity (mWh),2020-11-20 08:50:23.322,56450
+2308,Battery Voltage (mv),2020-11-20 08:50:23.322,16256
+2309,Battery Rate (mW),2020-11-20 08:50:23.322,-11704
+2310,Battery Tag,2020-11-20 08:50:53.256,5
+2311,Battery Designed Capacity (mWh) ,2020-11-20 08:50:53.256,70000
+2312,Battery Full Charged Capacity (mWh),2020-11-20 08:50:53.256,69720
+2313,Battery Cycle Count,2020-11-20 08:50:53.256,12
+2314,Battery Left (%).,2020-11-20 08:50:53.323,81
+2315,Battery Flag,2020-11-20 08:50:53.323,1
+2316,Battery Life Time (Seconds).,2020-11-20 08:50:53.323,19106
+2317,Battery Charging.,2020-11-20 08:50:53.323,0
+2318,Battery Discharging.,2020-11-20 08:50:53.323,1
+2319,Battery MaxCapacity (mWh).,2020-11-20 08:50:53.323,69720
+2320,Battery estimatedTime (Seconds).,2020-11-20 08:50:53.323,19106
+2321,Battery Current Capacity (mWh),2020-11-20 08:50:53.323,56350
+2322,Battery Voltage (mv),2020-11-20 08:50:53.323,16254
+2323,Battery Rate (mW),2020-11-20 08:50:53.323,-11930
+2324,Battery Tag,2020-11-20 08:51:53.254,5
+2325,Battery Designed Capacity (mWh) ,2020-11-20 08:51:53.254,70000
+2326,Battery Full Charged Capacity (mWh),2020-11-20 08:51:53.254,69720
+2327,Battery Cycle Count,2020-11-20 08:51:53.254,12
+2328,Battery Left (%).,2020-11-20 08:51:53.321,81
+2329,Battery Flag,2020-11-20 08:51:53.321,1
+2330,Battery Life Time (Seconds).,2020-11-20 08:51:53.321,19106
+2331,Battery Charging.,2020-11-20 08:51:53.321,0
+2332,Battery Discharging.,2020-11-20 08:51:53.321,1
+2333,Battery MaxCapacity (mWh).,2020-11-20 08:51:53.321,69720
+2334,Battery estimatedTime (Seconds).,2020-11-20 08:51:53.321,19106
+2335,Battery Current Capacity (mWh),2020-11-20 08:51:53.321,56140
+2336,Battery Voltage (mv),2020-11-20 08:51:53.321,16239
+2337,Battery Rate (mW),2020-11-20 08:51:53.321,-11903
+2338,Battery Tag,2020-11-20 08:52:23.254,5
+2339,Battery Designed Capacity (mWh) ,2020-11-20 08:52:23.254,70000
+2340,Battery Full Charged Capacity (mWh),2020-11-20 08:52:23.254,69720
+2341,Battery Cycle Count,2020-11-20 08:52:23.254,12
+2342,Battery Current Capacity (mWh),2020-11-20 08:52:23.321,56040
+2343,Battery Left (%).,2020-11-20 08:52:23.322,80
+2344,Battery Flag,2020-11-20 08:52:23.322,1
+2345,Battery Life Time (Seconds).,2020-11-20 08:52:23.322,17641
+2346,Battery Charging.,2020-11-20 08:52:23.322,0
+2347,Battery Discharging.,2020-11-20 08:52:23.322,1
+2348,Battery MaxCapacity (mWh).,2020-11-20 08:52:23.322,69720
+2349,Battery estimatedTime (Seconds).,2020-11-20 08:52:23.322,17641
+2350,Battery Voltage (mv),2020-11-20 08:52:23.322,16232
+2351,Battery Rate (mW),2020-11-20 08:52:23.322,-11962
+2352,Battery Tag,2020-11-20 08:53:23.253,5
+2353,Battery Designed Capacity (mWh) ,2020-11-20 08:53:23.253,70000
+2354,Battery Full Charged Capacity (mWh),2020-11-20 08:53:23.253,69720
+2355,Battery Cycle Count,2020-11-20 08:53:23.253,12
+2356,Battery Left (%).,2020-11-20 08:53:23.320,80
+2357,Battery Flag,2020-11-20 08:53:23.320,1
+2358,Battery Life Time (Seconds).,2020-11-20 08:53:23.320,17641
+2359,Battery Charging.,2020-11-20 08:53:23.320,0
+2360,Battery Discharging.,2020-11-20 08:53:23.320,1
+2361,Battery MaxCapacity (mWh).,2020-11-20 08:53:23.320,69720
+2362,Battery estimatedTime (Seconds).,2020-11-20 08:53:23.320,17641
+2363,Battery Current Capacity (mWh),2020-11-20 08:53:23.320,55840
+2364,Battery Voltage (mv),2020-11-20 08:53:23.320,16187
+2365,Battery Rate (mW),2020-11-20 08:53:23.320,-12496
+2366,Battery Tag,2020-11-20 08:53:53.252,5
+2367,Battery Designed Capacity (mWh) ,2020-11-20 08:53:53.252,70000
+2368,Battery Full Charged Capacity (mWh),2020-11-20 08:53:53.252,69720
+2369,Battery Cycle Count,2020-11-20 08:53:53.252,12
+2370,Battery Left (%).,2020-11-20 08:53:53.320,80
+2371,Battery Flag,2020-11-20 08:53:53.320,1
+2372,Battery Life Time (Seconds).,2020-11-20 08:53:53.320,17641
+2373,Battery Charging.,2020-11-20 08:53:53.320,0
+2374,Battery Discharging.,2020-11-20 08:53:53.320,1
+2375,Battery MaxCapacity (mWh).,2020-11-20 08:53:53.320,69720
+2376,Battery estimatedTime (Seconds).,2020-11-20 08:53:53.320,17641
+2377,Battery Current Capacity (mWh),2020-11-20 08:53:53.320,55740
+2378,Battery Voltage (mv),2020-11-20 08:53:53.320,16219
+2379,Battery Rate (mW),2020-11-20 08:53:53.320,-11077
+2380,Battery Tag,2020-11-20 08:54:23.252,5
+2381,Battery Designed Capacity (mWh) ,2020-11-20 08:54:23.252,70000
+2382,Battery Full Charged Capacity (mWh),2020-11-20 08:54:23.252,69720
+2383,Battery Cycle Count,2020-11-20 08:54:23.252,12
+2384,Battery Left (%).,2020-11-20 08:54:23.319,80
+2385,Battery Flag,2020-11-20 08:54:23.319,1
+2386,Battery Life Time (Seconds).,2020-11-20 08:54:23.319,17641
+2387,Battery Charging.,2020-11-20 08:54:23.319,0
+2388,Battery Discharging.,2020-11-20 08:54:23.319,1
+2389,Battery MaxCapacity (mWh).,2020-11-20 08:54:23.319,69720
+2390,Battery estimatedTime (Seconds).,2020-11-20 08:54:23.319,17641
+2391,Battery Current Capacity (mWh),2020-11-20 08:54:23.319,55650
+2392,Battery Voltage (mv),2020-11-20 08:54:23.319,16205
+2393,Battery Rate (mW),2020-11-20 08:54:23.319,-11375
+2394,Battery Tag,2020-11-20 08:54:53.252,5
+2395,Battery Designed Capacity (mWh) ,2020-11-20 08:54:53.252,70000
+2396,Battery Full Charged Capacity (mWh),2020-11-20 08:54:53.252,69720
+2397,Battery Cycle Count,2020-11-20 08:54:53.252,12
+2398,Battery Left (%).,2020-11-20 08:54:53.320,80
+2399,Battery Flag,2020-11-20 08:54:53.320,1
+2400,Battery Life Time (Seconds).,2020-11-20 08:54:53.320,17641
+2401,Battery Charging.,2020-11-20 08:54:53.320,0
+2402,Battery Discharging.,2020-11-20 08:54:53.320,1
+2403,Battery MaxCapacity (mWh).,2020-11-20 08:54:53.320,69720
+2404,Battery estimatedTime (Seconds).,2020-11-20 08:54:53.320,17641
+2405,Battery Current Capacity (mWh),2020-11-20 08:54:53.320,55550
+2406,Battery Voltage (mv),2020-11-20 08:54:53.320,16172
+2407,Battery Rate (mW),2020-11-20 08:54:53.320,-11482
+2408,Battery Tag,2020-11-20 08:55:23.251,5
+2409,Battery Designed Capacity (mWh) ,2020-11-20 08:55:23.251,70000
+2410,Battery Full Charged Capacity (mWh),2020-11-20 08:55:23.251,69720
+2411,Battery Cycle Count,2020-11-20 08:55:23.251,12
+2412,Battery Left (%).,2020-11-20 08:55:23.319,80
+2413,Battery Flag,2020-11-20 08:55:23.319,1
+2414,Battery Life Time (Seconds).,2020-11-20 08:55:23.319,17641
+2415,Battery Charging.,2020-11-20 08:55:23.319,0
+2416,Battery Discharging.,2020-11-20 08:55:23.319,1
+2417,Battery MaxCapacity (mWh).,2020-11-20 08:55:23.319,69720
+2418,Battery estimatedTime (Seconds).,2020-11-20 08:55:23.319,17641
+2419,Battery Current Capacity (mWh),2020-11-20 08:55:23.319,55470
+2420,Battery Voltage (mv),2020-11-20 08:55:23.319,16227
+2421,Battery Rate (mW),2020-11-20 08:55:23.319,-10515
+2422,Battery Tag,2020-11-20 08:55:53.251,5
+2423,Battery Designed Capacity (mWh) ,2020-11-20 08:55:53.251,70000
+2424,Battery Full Charged Capacity (mWh),2020-11-20 08:55:53.251,69720
+2425,Battery Cycle Count,2020-11-20 08:55:53.251,12
+2426,Battery Left (%).,2020-11-20 08:55:53.318,79
+2427,Battery Flag,2020-11-20 08:55:53.318,1
+2428,Battery Life Time (Seconds).,2020-11-20 08:55:53.318,16378
+2429,Battery Charging.,2020-11-20 08:55:53.318,0
+2430,Battery Discharging.,2020-11-20 08:55:53.318,1
+2431,Battery MaxCapacity (mWh).,2020-11-20 08:55:53.318,69720
+2432,Battery estimatedTime (Seconds).,2020-11-20 08:55:53.318,16378
+2433,Battery Current Capacity (mWh),2020-11-20 08:55:53.318,55360
+2434,Battery Voltage (mv),2020-11-20 08:55:53.318,16189
+2435,Battery Rate (mW),2020-11-20 08:55:53.318,-11817
+2436,Battery Tag,2020-11-20 08:56:23.251,5
+2437,Battery Designed Capacity (mWh) ,2020-11-20 08:56:23.251,70000
+2438,Battery Full Charged Capacity (mWh),2020-11-20 08:56:23.251,69720
+2439,Battery Cycle Count,2020-11-20 08:56:23.251,12
+2440,Battery Left (%).,2020-11-20 08:56:23.319,79
+2441,Battery Flag,2020-11-20 08:56:23.319,1
+2442,Battery Life Time (Seconds).,2020-11-20 08:56:23.319,16378
+2443,Battery Charging.,2020-11-20 08:56:23.319,0
+2444,Battery Discharging.,2020-11-20 08:56:23.319,1
+2445,Battery MaxCapacity (mWh).,2020-11-20 08:56:23.319,69720
+2446,Battery estimatedTime (Seconds).,2020-11-20 08:56:23.319,16378
+2447,Battery Current Capacity (mWh),2020-11-20 08:56:23.319,55270
+2448,Battery Voltage (mv),2020-11-20 08:56:23.319,16204
+2449,Battery Rate (mW),2020-11-20 08:56:23.319,-10970
+2450,Battery Tag,2020-11-20 08:56:53.251,5
+2451,Battery Designed Capacity (mWh) ,2020-11-20 08:56:53.251,70000
+2452,Battery Full Charged Capacity (mWh),2020-11-20 08:56:53.251,69720
+2453,Battery Cycle Count,2020-11-20 08:56:53.251,12
+2454,Battery Left (%).,2020-11-20 08:56:53.319,79
+2455,Battery Flag,2020-11-20 08:56:53.319,1
+2456,Battery Life Time (Seconds).,2020-11-20 08:56:53.319,16378
+2457,Battery Charging.,2020-11-20 08:56:53.319,0
+2458,Battery Discharging.,2020-11-20 08:56:53.319,1
+2459,Battery MaxCapacity (mWh).,2020-11-20 08:56:53.319,69720
+2460,Battery estimatedTime (Seconds).,2020-11-20 08:56:53.319,16378
+2461,Battery Current Capacity (mWh),2020-11-20 08:56:53.319,55180
+2462,Battery Voltage (mv),2020-11-20 08:56:53.319,16179
+2463,Battery Rate (mW),2020-11-20 08:56:53.319,-11147
+2464,Battery Tag,2020-11-20 08:57:23.251,5
+2465,Battery Designed Capacity (mWh) ,2020-11-20 08:57:23.251,70000
+2466,Battery Full Charged Capacity (mWh),2020-11-20 08:57:23.251,69720
+2467,Battery Cycle Count,2020-11-20 08:57:23.251,12
+2468,Battery Left (%).,2020-11-20 08:57:23.319,79
+2469,Battery Flag,2020-11-20 08:57:23.319,1
+2470,Battery Life Time (Seconds).,2020-11-20 08:57:23.319,16378
+2471,Battery Charging.,2020-11-20 08:57:23.319,0
+2472,Battery Discharging.,2020-11-20 08:57:23.319,1
+2473,Battery MaxCapacity (mWh).,2020-11-20 08:57:23.319,69720
+2474,Battery estimatedTime (Seconds).,2020-11-20 08:57:23.319,16378
+2475,Battery Current Capacity (mWh),2020-11-20 08:57:23.319,55100
+2476,Battery Voltage (mv),2020-11-20 08:57:23.319,16222
+2477,Battery Rate (mW),2020-11-20 08:57:23.319,-10138
+2478,Battery Tag,2020-11-20 08:57:53.250,5
+2479,Battery Designed Capacity (mWh) ,2020-11-20 08:57:53.250,70000
+2480,Battery Full Charged Capacity (mWh),2020-11-20 08:57:53.250,69720
+2481,Battery Cycle Count,2020-11-20 08:57:53.250,12
+2482,Battery Left (%).,2020-11-20 08:57:53.318,79
+2483,Battery Flag,2020-11-20 08:57:53.318,1
+2484,Battery Life Time (Seconds).,2020-11-20 08:57:53.318,16378
+2485,Battery Charging.,2020-11-20 08:57:53.318,0
+2486,Battery Discharging.,2020-11-20 08:57:53.318,1
+2487,Battery MaxCapacity (mWh).,2020-11-20 08:57:53.318,69720
+2488,Battery estimatedTime (Seconds).,2020-11-20 08:57:53.318,16378
+2489,Battery Current Capacity (mWh),2020-11-20 08:57:53.318,55010
+2490,Battery Voltage (mv),2020-11-20 08:57:53.318,16158
+2491,Battery Rate (mW),2020-11-20 08:57:53.318,-10373
+2492,Battery Tag,2020-11-20 08:58:23.250,5
+2493,Battery Designed Capacity (mWh) ,2020-11-20 08:58:23.250,70000
+2494,Battery Full Charged Capacity (mWh),2020-11-20 08:58:23.250,69720
+2495,Battery Cycle Count,2020-11-20 08:58:23.250,12
+2496,Battery Left (%).,2020-11-20 08:58:23.318,79
+2497,Battery Flag,2020-11-20 08:58:23.318,1
+2498,Battery Life Time (Seconds).,2020-11-20 08:58:23.318,16378
+2499,Battery Charging.,2020-11-20 08:58:23.318,0
+2500,Battery Discharging.,2020-11-20 08:58:23.318,1
+2501,Battery MaxCapacity (mWh).,2020-11-20 08:58:23.318,69720
+2502,Battery estimatedTime (Seconds).,2020-11-20 08:58:23.318,16378
+2503,Battery Current Capacity (mWh),2020-11-20 08:58:23.318,54920
+2504,Battery Voltage (mv),2020-11-20 08:58:23.318,16190
+2505,Battery Rate (mW),2020-11-20 08:58:23.318,-10620
+2506,Battery Tag,2020-11-20 08:58:53.250,5
+2507,Battery Designed Capacity (mWh) ,2020-11-20 08:58:53.250,70000
+2508,Battery Full Charged Capacity (mWh),2020-11-20 08:58:53.250,69720
+2509,Battery Cycle Count,2020-11-20 08:58:53.250,12
+2510,Battery Left (%).,2020-11-20 08:58:53.318,79
+2511,Battery Flag,2020-11-20 08:58:53.318,1
+2512,Battery Life Time (Seconds).,2020-11-20 08:58:53.318,16378
+2513,Battery Charging.,2020-11-20 08:58:53.318,0
+2514,Battery Discharging.,2020-11-20 08:58:53.318,1
+2515,Battery MaxCapacity (mWh).,2020-11-20 08:58:53.318,69720
+2516,Battery estimatedTime (Seconds).,2020-11-20 08:58:53.318,16378
+2517,Battery Current Capacity (mWh),2020-11-20 08:58:53.318,54830
+2518,Battery Voltage (mv),2020-11-20 08:58:53.318,16197
+2519,Battery Rate (mW),2020-11-20 08:58:53.318,-10868
+2520,Battery Tag,2020-11-20 08:59:23.250,5
+2521,Battery Designed Capacity (mWh) ,2020-11-20 08:59:23.250,70000
+2522,Battery Full Charged Capacity (mWh),2020-11-20 08:59:23.250,69720
+2523,Battery Cycle Count,2020-11-20 08:59:23.250,12
+2524,Battery Left (%).,2020-11-20 08:59:23.318,79
+2525,Battery Flag,2020-11-20 08:59:23.318,1
+2526,Battery Life Time (Seconds).,2020-11-20 08:59:23.318,16378
+2527,Battery Charging.,2020-11-20 08:59:23.318,0
+2528,Battery Discharging.,2020-11-20 08:59:23.318,1
+2529,Battery MaxCapacity (mWh).,2020-11-20 08:59:23.318,69720
+2530,Battery estimatedTime (Seconds).,2020-11-20 08:59:23.318,16378
+2531,Battery Current Capacity (mWh),2020-11-20 08:59:23.318,54740
+2532,Battery Voltage (mv),2020-11-20 08:59:23.318,16182
+2533,Battery Rate (mW),2020-11-20 08:59:23.318,-10825
+2534,Battery Tag,2020-11-20 08:59:53.249,5
+2535,Battery Designed Capacity (mWh) ,2020-11-20 08:59:53.249,70000
+2536,Battery Full Charged Capacity (mWh),2020-11-20 08:59:53.249,69720
+2537,Battery Cycle Count,2020-11-20 08:59:53.249,12
+2538,Battery Left (%).,2020-11-20 08:59:53.317,78
+2539,Battery Flag,2020-11-20 08:59:53.317,1
+2540,Battery Life Time (Seconds).,2020-11-20 08:59:53.317,18641
+2541,Battery Charging.,2020-11-20 08:59:53.317,0
+2542,Battery Discharging.,2020-11-20 08:59:53.317,1
+2543,Battery MaxCapacity (mWh).,2020-11-20 08:59:53.317,69720
+2544,Battery estimatedTime (Seconds).,2020-11-20 08:59:53.317,18641
+2545,Battery Current Capacity (mWh),2020-11-20 08:59:53.317,54640
+2546,Battery Voltage (mv),2020-11-20 08:59:53.317,16155
+2547,Battery Rate (mW),2020-11-20 08:59:53.317,-10549
+2548,Battery Tag,2020-11-20 09:00:23.249,5
+2549,Battery Designed Capacity (mWh) ,2020-11-20 09:00:23.249,70000
+2550,Battery Full Charged Capacity (mWh),2020-11-20 09:00:23.249,69720
+2551,Battery Cycle Count,2020-11-20 09:00:23.249,12
+2552,Battery Left (%).,2020-11-20 09:00:23.317,78
+2553,Battery Flag,2020-11-20 09:00:23.317,1
+2554,Battery Life Time (Seconds).,2020-11-20 09:00:23.317,18641
+2555,Battery Charging.,2020-11-20 09:00:23.317,0
+2556,Battery Discharging.,2020-11-20 09:00:23.317,1
+2557,Battery MaxCapacity (mWh).,2020-11-20 09:00:23.317,69720
+2558,Battery estimatedTime (Seconds).,2020-11-20 09:00:23.317,18641
+2559,Battery Current Capacity (mWh),2020-11-20 09:00:23.317,54570
+2560,Battery Voltage (mv),2020-11-20 09:00:23.317,16191
+2561,Battery Rate (mW),2020-11-20 09:00:23.317,-10006
+2562,Battery Tag,2020-11-20 09:00:53.249,5
+2563,Battery Designed Capacity (mWh) ,2020-11-20 09:00:53.249,70000
+2564,Battery Full Charged Capacity (mWh),2020-11-20 09:00:53.249,69720
+2565,Battery Cycle Count,2020-11-20 09:00:53.249,12
+2566,Battery Left (%).,2020-11-20 09:00:53.316,78
+2567,Battery Flag,2020-11-20 09:00:53.316,1
+2568,Battery Life Time (Seconds).,2020-11-20 09:00:53.316,18641
+2569,Battery Charging.,2020-11-20 09:00:53.316,0
+2570,Battery Discharging.,2020-11-20 09:00:53.316,1
+2571,Battery MaxCapacity (mWh).,2020-11-20 09:00:53.316,69720
+2572,Battery estimatedTime (Seconds).,2020-11-20 09:00:53.316,18641
+2573,Battery Current Capacity (mWh),2020-11-20 09:00:53.316,54490
+2574,Battery Voltage (mv),2020-11-20 09:00:53.316,16141
+2575,Battery Rate (mW),2020-11-20 09:00:53.316,-10184
+2576,Battery Tag,2020-11-20 09:01:53.249,5
+2577,Battery Designed Capacity (mWh) ,2020-11-20 09:01:53.249,70000
+2578,Battery Full Charged Capacity (mWh),2020-11-20 09:01:53.249,69720
+2579,Battery Cycle Count,2020-11-20 09:01:53.249,12
+2580,Battery Left (%).,2020-11-20 09:01:53.317,78
+2581,Battery Flag,2020-11-20 09:01:53.317,1
+2582,Battery Life Time (Seconds).,2020-11-20 09:01:53.317,18641
+2583,Battery Charging.,2020-11-20 09:01:53.317,0
+2584,Battery Discharging.,2020-11-20 09:01:53.317,1
+2585,Battery MaxCapacity (mWh).,2020-11-20 09:01:53.317,69720
+2586,Battery estimatedTime (Seconds).,2020-11-20 09:01:53.317,18641
+2587,Battery Current Capacity (mWh),2020-11-20 09:01:53.317,54300
+2588,Battery Voltage (mv),2020-11-20 09:01:53.317,16168
+2589,Battery Rate (mW),2020-11-20 09:01:53.317,-10832
+2590,Battery Tag,2020-11-20 09:02:23.248,5
+2591,Battery Designed Capacity (mWh) ,2020-11-20 09:02:23.248,70000
+2592,Battery Full Charged Capacity (mWh),2020-11-20 09:02:23.248,69720
+2593,Battery Cycle Count,2020-11-20 09:02:23.248,12
+2594,Battery Left (%).,2020-11-20 09:02:23.316,78
+2595,Battery Flag,2020-11-20 09:02:23.316,1
+2596,Battery Life Time (Seconds).,2020-11-20 09:02:23.316,18641
+2597,Battery Charging.,2020-11-20 09:02:23.316,0
+2598,Battery Discharging.,2020-11-20 09:02:23.316,1
+2599,Battery MaxCapacity (mWh).,2020-11-20 09:02:23.316,69720
+2600,Battery estimatedTime (Seconds).,2020-11-20 09:02:23.316,18641
+2601,Battery Current Capacity (mWh),2020-11-20 09:02:23.316,54210
+2602,Battery Voltage (mv),2020-11-20 09:02:23.316,16155
+2603,Battery Rate (mW),2020-11-20 09:02:23.316,-10678
+2604,Battery Tag,2020-11-20 09:03:23.248,5
+2605,Battery Designed Capacity (mWh) ,2020-11-20 09:03:23.248,70000
+2606,Battery Full Charged Capacity (mWh),2020-11-20 09:03:23.248,69720
+2607,Battery Cycle Count,2020-11-20 09:03:23.248,12
+2608,Battery Left (%).,2020-11-20 09:03:23.316,78
+2609,Battery Flag,2020-11-20 09:03:23.316,1
+2610,Battery Life Time (Seconds).,2020-11-20 09:03:23.316,18641
+2611,Battery Charging.,2020-11-20 09:03:23.316,0
+2612,Battery Discharging.,2020-11-20 09:03:23.316,1
+2613,Battery MaxCapacity (mWh).,2020-11-20 09:03:23.316,69720
+2614,Battery estimatedTime (Seconds).,2020-11-20 09:03:23.316,18641
+2615,Battery Current Capacity (mWh),2020-11-20 09:03:23.316,54040
+2616,Battery Voltage (mv),2020-11-20 09:03:23.316,16174
+2617,Battery Rate (mW),2020-11-20 09:03:23.316,-10157
+2618,Battery Tag,2020-11-20 09:03:53.247,5
+2619,Battery Designed Capacity (mWh) ,2020-11-20 09:03:53.247,70000
+2620,Battery Full Charged Capacity (mWh),2020-11-20 09:03:53.247,69720
+2621,Battery Cycle Count,2020-11-20 09:03:53.247,12
+2622,Battery Left (%).,2020-11-20 09:03:53.315,77
+2623,Battery Flag,2020-11-20 09:03:53.315,1
+2624,Battery Life Time (Seconds).,2020-11-20 09:03:53.315,19553
+2625,Battery Charging.,2020-11-20 09:03:53.315,0
+2626,Battery Discharging.,2020-11-20 09:03:53.315,1
+2627,Battery MaxCapacity (mWh).,2020-11-20 09:03:53.315,69720
+2628,Battery estimatedTime (Seconds).,2020-11-20 09:03:53.315,19553
+2629,Battery Current Capacity (mWh),2020-11-20 09:03:53.315,53970
+2630,Battery Voltage (mv),2020-11-20 09:03:53.315,16165
+2631,Battery Rate (mW),2020-11-20 09:03:53.315,-9779
+2632,Battery Tag,2020-11-20 09:04:53.246,5
+2633,Battery Designed Capacity (mWh) ,2020-11-20 09:04:53.246,70000
+2634,Battery Full Charged Capacity (mWh),2020-11-20 09:04:53.246,69720
+2635,Battery Cycle Count,2020-11-20 09:04:53.246,12
+2636,Battery Left (%).,2020-11-20 09:04:53.314,77
+2637,Battery Flag,2020-11-20 09:04:53.314,1
+2638,Battery Life Time (Seconds).,2020-11-20 09:04:53.314,19553
+2639,Battery Charging.,2020-11-20 09:04:53.314,0
+2640,Battery Discharging.,2020-11-20 09:04:53.314,1
+2641,Battery MaxCapacity (mWh).,2020-11-20 09:04:53.314,69720
+2642,Battery estimatedTime (Seconds).,2020-11-20 09:04:53.314,19553
+2643,Battery Current Capacity (mWh),2020-11-20 09:04:53.314,53800
+2644,Battery Voltage (mv),2020-11-20 09:04:53.314,16155
+2645,Battery Rate (mW),2020-11-20 09:04:53.314,-9208
+2646,Battery Tag,2020-11-20 09:05:23.245,5
+2647,Battery Designed Capacity (mWh) ,2020-11-20 09:05:23.245,70000
+2648,Battery Full Charged Capacity (mWh),2020-11-20 09:05:23.245,69720
+2649,Battery Cycle Count,2020-11-20 09:05:23.245,12
+2650,Battery Left (%).,2020-11-20 09:05:23.319,77
+2651,Battery Flag,2020-11-20 09:05:23.319,1
+2652,Battery Life Time (Seconds).,2020-11-20 09:05:23.319,19553
+2653,Battery Charging.,2020-11-20 09:05:23.319,0
+2654,Battery Discharging.,2020-11-20 09:05:23.319,1
+2655,Battery MaxCapacity (mWh).,2020-11-20 09:05:23.319,69720
+2656,Battery estimatedTime (Seconds).,2020-11-20 09:05:23.319,19553
+2657,Battery Current Capacity (mWh),2020-11-20 09:05:23.319,53720
+2658,Battery Voltage (mv),2020-11-20 09:05:23.319,16142
+2659,Battery Rate (mW),2020-11-20 09:05:23.319,-9184
+2660,Battery Tag,2020-11-20 09:05:53.245,5
+2661,Battery Designed Capacity (mWh) ,2020-11-20 09:05:53.245,70000
+2662,Battery Full Charged Capacity (mWh),2020-11-20 09:05:53.245,69720
+2663,Battery Cycle Count,2020-11-20 09:05:53.245,12
+2664,Battery Left (%).,2020-11-20 09:05:53.312,77
+2665,Battery Flag,2020-11-20 09:05:53.312,1
+2666,Battery Life Time (Seconds).,2020-11-20 09:05:53.312,19553
+2667,Battery Charging.,2020-11-20 09:05:53.312,0
+2668,Battery Discharging.,2020-11-20 09:05:53.312,1
+2669,Battery MaxCapacity (mWh).,2020-11-20 09:05:53.312,69720
+2670,Battery estimatedTime (Seconds).,2020-11-20 09:05:53.312,19553
+2671,Battery Current Capacity (mWh),2020-11-20 09:05:53.312,53650
+2672,Battery Voltage (mv),2020-11-20 09:05:53.312,16165
+2673,Battery Rate (mW),2020-11-20 09:05:53.312,-8890
+2674,Battery Tag,2020-11-20 09:06:23.244,5
+2675,Battery Designed Capacity (mWh) ,2020-11-20 09:06:23.244,70000
+2676,Battery Full Charged Capacity (mWh),2020-11-20 09:06:23.244,69720
+2677,Battery Cycle Count,2020-11-20 09:06:23.244,12
+2678,Battery Left (%).,2020-11-20 09:06:23.312,77
+2679,Battery Flag,2020-11-20 09:06:23.312,1
+2680,Battery Life Time (Seconds).,2020-11-20 09:06:23.312,19553
+2681,Battery Charging.,2020-11-20 09:06:23.312,0
+2682,Battery Discharging.,2020-11-20 09:06:23.312,1
+2683,Battery MaxCapacity (mWh).,2020-11-20 09:06:23.312,69720
+2684,Battery estimatedTime (Seconds).,2020-11-20 09:06:23.312,19553
+2685,Battery Current Capacity (mWh),2020-11-20 09:06:23.312,53570
+2686,Battery Voltage (mv),2020-11-20 09:06:23.312,16124
+2687,Battery Rate (mW),2020-11-20 09:06:23.312,-10029
+2688,Battery Tag,2020-11-20 09:06:53.244,5
+2689,Battery Designed Capacity (mWh) ,2020-11-20 09:06:53.244,70000
+2690,Battery Full Charged Capacity (mWh),2020-11-20 09:06:53.244,69720
+2691,Battery Cycle Count,2020-11-20 09:06:53.244,12
+2692,Battery Left (%).,2020-11-20 09:06:53.319,77
+2693,Battery Flag,2020-11-20 09:06:53.319,1
+2694,Battery Life Time (Seconds).,2020-11-20 09:06:53.319,19553
+2695,Battery Charging.,2020-11-20 09:06:53.319,0
+2696,Battery Discharging.,2020-11-20 09:06:53.319,1
+2697,Battery MaxCapacity (mWh).,2020-11-20 09:06:53.319,69720
+2698,Battery estimatedTime (Seconds).,2020-11-20 09:06:53.319,19553
+2699,Battery Current Capacity (mWh),2020-11-20 09:06:53.319,53470
+2700,Battery Voltage (mv),2020-11-20 09:06:53.319,16098
+2701,Battery Rate (mW),2020-11-20 09:06:53.319,-11638
+2702,Battery Tag,2020-11-20 09:07:23.244,5
+2703,Battery Designed Capacity (mWh) ,2020-11-20 09:07:23.244,70000
+2704,Battery Full Charged Capacity (mWh),2020-11-20 09:07:23.244,69720
+2705,Battery Cycle Count,2020-11-20 09:07:23.244,12
+2706,Battery Left (%).,2020-11-20 09:07:23.312,77
+2707,Battery Flag,2020-11-20 09:07:23.312,1
+2708,Battery Life Time (Seconds).,2020-11-20 09:07:23.312,19553
+2709,Battery Charging.,2020-11-20 09:07:23.312,0
+2710,Battery Discharging.,2020-11-20 09:07:23.312,1
+2711,Battery MaxCapacity (mWh).,2020-11-20 09:07:23.312,69720
+2712,Battery estimatedTime (Seconds).,2020-11-20 09:07:23.312,19553
+2713,Battery Current Capacity (mWh),2020-11-20 09:07:23.312,53370
+2714,Battery Voltage (mv),2020-11-20 09:07:23.312,16080
+2715,Battery Rate (mW),2020-11-20 09:07:23.312,-12413
+2716,Battery Tag,2020-11-20 09:07:53.244,5
+2717,Battery Designed Capacity (mWh) ,2020-11-20 09:07:53.244,70000
+2718,Battery Full Charged Capacity (mWh),2020-11-20 09:07:53.244,69720
+2719,Battery Cycle Count,2020-11-20 09:07:53.244,12
+2720,Battery Left (%).,2020-11-20 09:07:53.312,76
+2721,Battery Flag,2020-11-20 09:07:53.312,1
+2722,Battery Life Time (Seconds).,2020-11-20 09:07:53.312,17658
+2723,Battery Charging.,2020-11-20 09:07:53.312,0
+2724,Battery Discharging.,2020-11-20 09:07:53.312,1
+2725,Battery MaxCapacity (mWh).,2020-11-20 09:07:53.312,69720
+2726,Battery estimatedTime (Seconds).,2020-11-20 09:07:53.312,17658
+2727,Battery Current Capacity (mWh),2020-11-20 09:07:53.312,53280
+2728,Battery Voltage (mv),2020-11-20 09:07:53.312,16132
+2729,Battery Rate (mW),2020-11-20 09:07:53.312,-9824
+2730,Battery Tag,2020-11-20 09:08:23.243,5
+2731,Battery Designed Capacity (mWh) ,2020-11-20 09:08:23.243,70000
+2732,Battery Full Charged Capacity (mWh),2020-11-20 09:08:23.243,69720
+2733,Battery Cycle Count,2020-11-20 09:08:23.243,12
+2734,Battery Left (%).,2020-11-20 09:08:23.311,76
+2735,Battery Flag,2020-11-20 09:08:23.311,1
+2736,Battery Life Time (Seconds).,2020-11-20 09:08:23.311,17658
+2737,Battery Charging.,2020-11-20 09:08:23.311,0
+2738,Battery Discharging.,2020-11-20 09:08:23.311,1
+2739,Battery MaxCapacity (mWh).,2020-11-20 09:08:23.311,69720
+2740,Battery estimatedTime (Seconds).,2020-11-20 09:08:23.311,17658
+2741,Battery Current Capacity (mWh),2020-11-20 09:08:23.311,53200
+2742,Battery Voltage (mv),2020-11-20 09:08:23.311,16133
+2743,Battery Rate (mW),2020-11-20 09:08:23.311,-9147
+2744,Battery Tag,2020-11-20 09:08:53.242,5
+2745,Battery Designed Capacity (mWh) ,2020-11-20 09:08:53.242,70000
+2746,Battery Full Charged Capacity (mWh),2020-11-20 09:08:53.242,69720
+2747,Battery Cycle Count,2020-11-20 09:08:53.242,12
+2748,Battery Left (%).,2020-11-20 09:08:53.310,76
+2749,Battery Flag,2020-11-20 09:08:53.310,1
+2750,Battery Life Time (Seconds).,2020-11-20 09:08:53.310,17658
+2751,Battery Charging.,2020-11-20 09:08:53.310,0
+2752,Battery Discharging.,2020-11-20 09:08:53.310,1
+2753,Battery MaxCapacity (mWh).,2020-11-20 09:08:53.310,69720
+2754,Battery estimatedTime (Seconds).,2020-11-20 09:08:53.310,17658
+2755,Battery Current Capacity (mWh),2020-11-20 09:08:53.310,53110
+2756,Battery Voltage (mv),2020-11-20 09:08:53.310,16097
+2757,Battery Rate (mW),2020-11-20 09:08:53.310,-10189
+2758,Battery Tag,2020-11-20 09:09:23.241,5
+2759,Battery Designed Capacity (mWh) ,2020-11-20 09:09:23.241,70000
+2760,Battery Full Charged Capacity (mWh),2020-11-20 09:09:23.241,69720
+2761,Battery Cycle Count,2020-11-20 09:09:23.241,12
+2762,Battery Left (%).,2020-11-20 09:09:23.310,76
+2763,Battery Flag,2020-11-20 09:09:23.310,1
+2764,Battery Life Time (Seconds).,2020-11-20 09:09:23.310,17658
+2765,Battery Charging.,2020-11-20 09:09:23.310,0
+2766,Battery Discharging.,2020-11-20 09:09:23.310,1
+2767,Battery MaxCapacity (mWh).,2020-11-20 09:09:23.310,69720
+2768,Battery estimatedTime (Seconds).,2020-11-20 09:09:23.310,17658
+2769,Battery Current Capacity (mWh),2020-11-20 09:09:23.310,53020
+2770,Battery Voltage (mv),2020-11-20 09:09:23.310,16112
+2771,Battery Rate (mW),2020-11-20 09:09:23.310,-10762
+2772,Battery Tag,2020-11-20 09:10:23.241,5
+2773,Battery Designed Capacity (mWh) ,2020-11-20 09:10:23.241,70000
+2774,Battery Full Charged Capacity (mWh),2020-11-20 09:10:23.241,69720
+2775,Battery Cycle Count,2020-11-20 09:10:23.241,12
+2776,Battery Left (%).,2020-11-20 09:10:23.309,76
+2777,Battery Flag,2020-11-20 09:10:23.309,1
+2778,Battery Life Time (Seconds).,2020-11-20 09:10:23.309,17658
+2779,Battery Charging.,2020-11-20 09:10:23.309,0
+2780,Battery Discharging.,2020-11-20 09:10:23.309,1
+2781,Battery MaxCapacity (mWh).,2020-11-20 09:10:23.309,69720
+2782,Battery estimatedTime (Seconds).,2020-11-20 09:10:23.309,17658
+2783,Battery Current Capacity (mWh),2020-11-20 09:10:23.309,52840
+2784,Battery Voltage (mv),2020-11-20 09:10:23.309,16053
+2785,Battery Rate (mW),2020-11-20 09:10:23.309,-11381
+2786,Battery Tag,2020-11-20 09:10:53.241,5
+2787,Battery Designed Capacity (mWh) ,2020-11-20 09:10:53.241,70000
+2788,Battery Full Charged Capacity (mWh),2020-11-20 09:10:53.241,69720
+2789,Battery Cycle Count,2020-11-20 09:10:53.241,12
+2790,Battery Left (%).,2020-11-20 09:10:53.309,76
+2791,Battery Flag,2020-11-20 09:10:53.309,1
+2792,Battery Life Time (Seconds).,2020-11-20 09:10:53.309,17658
+2793,Battery Charging.,2020-11-20 09:10:53.309,0
+2794,Battery Discharging.,2020-11-20 09:10:53.309,1
+2795,Battery MaxCapacity (mWh).,2020-11-20 09:10:53.309,69720
+2796,Battery estimatedTime (Seconds).,2020-11-20 09:10:53.309,17658
+2797,Battery Current Capacity (mWh),2020-11-20 09:10:53.309,52750
+2798,Battery Voltage (mv),2020-11-20 09:10:53.309,16071
+2799,Battery Rate (mW),2020-11-20 09:10:53.309,-10976
+2800,Battery Tag,2020-11-20 09:11:23.240,5
+2801,Battery Designed Capacity (mWh) ,2020-11-20 09:11:23.240,70000
+2802,Battery Full Charged Capacity (mWh),2020-11-20 09:11:23.240,69720
+2803,Battery Cycle Count,2020-11-20 09:11:23.240,12
+2804,Battery Left (%).,2020-11-20 09:11:23.308,76
+2805,Battery Flag,2020-11-20 09:11:23.308,1
+2806,Battery Life Time (Seconds).,2020-11-20 09:11:23.308,17658
+2807,Battery Charging.,2020-11-20 09:11:23.308,0
+2808,Battery Discharging.,2020-11-20 09:11:23.308,1
+2809,Battery MaxCapacity (mWh).,2020-11-20 09:11:23.308,69720
+2810,Battery estimatedTime (Seconds).,2020-11-20 09:11:23.308,17658
+2811,Battery Current Capacity (mWh),2020-11-20 09:11:23.308,52650
+2812,Battery Voltage (mv),2020-11-20 09:11:23.308,15974
+2813,Battery Rate (mW),2020-11-20 09:11:23.308,-12108
+2814,Battery Tag,2020-11-20 09:11:53.240,5
+2815,Battery Designed Capacity (mWh) ,2020-11-20 09:11:53.240,70000
+2816,Battery Full Charged Capacity (mWh),2020-11-20 09:11:53.240,69720
+2817,Battery Cycle Count,2020-11-20 09:11:53.240,12
+2818,Battery Left (%).,2020-11-20 09:11:53.308,75
+2819,Battery Flag,2020-11-20 09:11:53.308,1
+2820,Battery Life Time (Seconds).,2020-11-20 09:11:53.308,16012
+2821,Battery Charging.,2020-11-20 09:11:53.308,0
+2822,Battery Discharging.,2020-11-20 09:11:53.308,1
+2823,Battery MaxCapacity (mWh).,2020-11-20 09:11:53.308,69720
+2824,Battery estimatedTime (Seconds).,2020-11-20 09:11:53.308,16012
+2825,Battery Current Capacity (mWh),2020-11-20 09:11:53.308,52550
+2826,Battery Voltage (mv),2020-11-20 09:11:53.308,16075
+2827,Battery Rate (mW),2020-11-20 09:11:53.308,-11397
+2828,Battery Tag,2020-11-20 09:12:53.239,5
+2829,Battery Designed Capacity (mWh) ,2020-11-20 09:12:53.239,70000
+2830,Battery Full Charged Capacity (mWh),2020-11-20 09:12:53.239,69720
+2831,Battery Cycle Count,2020-11-20 09:12:53.239,12
+2832,Battery Left (%).,2020-11-20 09:12:53.307,75
+2833,Battery Flag,2020-11-20 09:12:53.307,1
+2834,Battery Life Time (Seconds).,2020-11-20 09:12:53.307,16012
+2835,Battery Charging.,2020-11-20 09:12:53.307,0
+2836,Battery Discharging.,2020-11-20 09:12:53.307,1
+2837,Battery MaxCapacity (mWh).,2020-11-20 09:12:53.307,69720
+2838,Battery estimatedTime (Seconds).,2020-11-20 09:12:53.307,16012
+2839,Battery Current Capacity (mWh),2020-11-20 09:12:53.307,52380
+2840,Battery Voltage (mv),2020-11-20 09:12:53.307,16063
+2841,Battery Rate (mW),2020-11-20 09:12:53.307,-10665
+2842,Battery Tag,2020-11-20 09:13:23.238,5
+2843,Battery Designed Capacity (mWh) ,2020-11-20 09:13:23.238,70000
+2844,Battery Full Charged Capacity (mWh),2020-11-20 09:13:23.238,69720
+2845,Battery Cycle Count,2020-11-20 09:13:23.238,12
+2846,Battery Left (%).,2020-11-20 09:13:23.306,75
+2847,Battery Flag,2020-11-20 09:13:23.306,1
+2848,Battery Life Time (Seconds).,2020-11-20 09:13:23.306,16012
+2849,Battery Charging.,2020-11-20 09:13:23.306,0
+2850,Battery Discharging.,2020-11-20 09:13:23.306,1
+2851,Battery MaxCapacity (mWh).,2020-11-20 09:13:23.306,69720
+2852,Battery estimatedTime (Seconds).,2020-11-20 09:13:23.306,16012
+2853,Battery Current Capacity (mWh),2020-11-20 09:13:23.306,52270
+2854,Battery Voltage (mv),2020-11-20 09:13:23.306,16057
+2855,Battery Rate (mW),2020-11-20 09:13:23.306,-11801
+2856,Battery Tag,2020-11-20 09:14:23.237,5
+2857,Battery Designed Capacity (mWh) ,2020-11-20 09:14:23.237,70000
+2858,Battery Full Charged Capacity (mWh),2020-11-20 09:14:23.237,69720
+2859,Battery Cycle Count,2020-11-20 09:14:23.237,12
+2860,Battery Left (%).,2020-11-20 09:14:23.303,75
+2861,Battery Flag,2020-11-20 09:14:23.303,1
+2862,Battery Life Time (Seconds).,2020-11-20 09:14:23.303,16012
+2863,Battery Charging.,2020-11-20 09:14:23.303,0
+2864,Battery Discharging.,2020-11-20 09:14:23.303,1
+2865,Battery MaxCapacity (mWh).,2020-11-20 09:14:23.303,69720
+2866,Battery estimatedTime (Seconds).,2020-11-20 09:14:23.303,16012
+2867,Battery Current Capacity (mWh),2020-11-20 09:14:23.303,52090
+2868,Battery Voltage (mv),2020-11-20 09:14:23.303,16005
+2869,Battery Rate (mW),2020-11-20 09:14:23.303,-10851
+2870,Battery Tag,2020-11-20 09:14:53.237,5
+2871,Battery Designed Capacity (mWh) ,2020-11-20 09:14:53.237,70000
+2872,Battery Full Charged Capacity (mWh),2020-11-20 09:14:53.237,69720
+2873,Battery Cycle Count,2020-11-20 09:14:53.237,12
+2874,Battery Left (%).,2020-11-20 09:14:53.305,75
+2875,Battery Flag,2020-11-20 09:14:53.305,1
+2876,Battery Life Time (Seconds).,2020-11-20 09:14:53.305,16012
+2877,Battery Charging.,2020-11-20 09:14:53.305,0
+2878,Battery Discharging.,2020-11-20 09:14:53.305,1
+2879,Battery MaxCapacity (mWh).,2020-11-20 09:14:53.305,69720
+2880,Battery estimatedTime (Seconds).,2020-11-20 09:14:53.305,16012
+2881,Battery Current Capacity (mWh),2020-11-20 09:14:53.305,52000
+2882,Battery Voltage (mv),2020-11-20 09:14:53.305,16017
+2883,Battery Rate (mW),2020-11-20 09:14:53.305,-10763
+2884,Battery Tag,2020-11-20 09:15:23.236,5
+2885,Battery Designed Capacity (mWh) ,2020-11-20 09:15:23.236,70000
+2886,Battery Full Charged Capacity (mWh),2020-11-20 09:15:23.236,69720
+2887,Battery Cycle Count,2020-11-20 09:15:23.236,12
+2888,Battery Left (%).,2020-11-20 09:15:23.304,74
+2889,Battery Flag,2020-11-20 09:15:23.304,1
+2890,Battery Life Time (Seconds).,2020-11-20 09:15:23.304,17769
+2891,Battery Charging.,2020-11-20 09:15:23.304,0
+2892,Battery Discharging.,2020-11-20 09:15:23.304,1
+2893,Battery MaxCapacity (mWh).,2020-11-20 09:15:23.304,69720
+2894,Battery estimatedTime (Seconds).,2020-11-20 09:15:23.304,17769
+2895,Battery Current Capacity (mWh),2020-11-20 09:15:23.304,51910
+2896,Battery Voltage (mv),2020-11-20 09:15:23.304,16062
+2897,Battery Rate (mW),2020-11-20 09:15:23.304,-9990
+2898,Battery Tag,2020-11-20 09:16:23.236,5
+2899,Battery Designed Capacity (mWh) ,2020-11-20 09:16:23.236,70000
+2900,Battery Full Charged Capacity (mWh),2020-11-20 09:16:23.236,69720
+2901,Battery Cycle Count,2020-11-20 09:16:23.236,12
+2902,Battery Left (%).,2020-11-20 09:16:23.303,74
+2903,Battery Flag,2020-11-20 09:16:23.303,1
+2904,Battery Life Time (Seconds).,2020-11-20 09:16:23.303,17769
+2905,Battery Charging.,2020-11-20 09:16:23.303,0
+2906,Battery Discharging.,2020-11-20 09:16:23.303,1
+2907,Battery MaxCapacity (mWh).,2020-11-20 09:16:23.303,69720
+2908,Battery estimatedTime (Seconds).,2020-11-20 09:16:23.303,17769
+2909,Battery Current Capacity (mWh),2020-11-20 09:16:23.303,51720
+2910,Battery Voltage (mv),2020-11-20 09:16:23.303,16021
+2911,Battery Rate (mW),2020-11-20 09:16:23.303,-11807
+2912,Battery Tag,2020-11-20 09:16:53.236,5
+2913,Battery Designed Capacity (mWh) ,2020-11-20 09:16:53.236,70000
+2914,Battery Full Charged Capacity (mWh),2020-11-20 09:16:53.236,69720
+2915,Battery Cycle Count,2020-11-20 09:16:53.236,12
+2916,Battery Left (%).,2020-11-20 09:16:53.304,74
+2917,Battery Flag,2020-11-20 09:16:53.304,1
+2918,Battery Life Time (Seconds).,2020-11-20 09:16:53.304,17769
+2919,Battery Charging.,2020-11-20 09:16:53.304,0
+2920,Battery Discharging.,2020-11-20 09:16:53.304,1
+2921,Battery MaxCapacity (mWh).,2020-11-20 09:16:53.304,69720
+2922,Battery estimatedTime (Seconds).,2020-11-20 09:16:53.304,17769
+2923,Battery Current Capacity (mWh),2020-11-20 09:16:53.304,51630
+2924,Battery Voltage (mv),2020-11-20 09:16:53.304,16047
+2925,Battery Rate (mW),2020-11-20 09:16:53.304,-10478
+2926,Battery Tag,2020-11-20 09:17:23.236,5
+2927,Battery Designed Capacity (mWh) ,2020-11-20 09:17:23.236,70000
+2928,Battery Full Charged Capacity (mWh),2020-11-20 09:17:23.236,69720
+2929,Battery Cycle Count,2020-11-20 09:17:23.236,12
+2930,Battery Left (%).,2020-11-20 09:17:23.304,74
+2931,Battery Flag,2020-11-20 09:17:23.304,1
+2932,Battery Life Time (Seconds).,2020-11-20 09:17:23.304,17769
+2933,Battery Charging.,2020-11-20 09:17:23.304,0
+2934,Battery Discharging.,2020-11-20 09:17:23.304,1
+2935,Battery MaxCapacity (mWh).,2020-11-20 09:17:23.304,69720
+2936,Battery estimatedTime (Seconds).,2020-11-20 09:17:23.304,17769
+2937,Battery Current Capacity (mWh),2020-11-20 09:17:23.304,51540
+2938,Battery Voltage (mv),2020-11-20 09:17:23.304,16020
+2939,Battery Rate (mW),2020-11-20 09:17:23.304,-10445
+2940,Battery Tag,2020-11-20 09:17:53.236,5
+2941,Battery Designed Capacity (mWh) ,2020-11-20 09:17:53.236,70000
+2942,Battery Full Charged Capacity (mWh),2020-11-20 09:17:53.236,69720
+2943,Battery Cycle Count,2020-11-20 09:17:53.236,12
+2944,Battery Left (%).,2020-11-20 09:17:53.304,74
+2945,Battery Flag,2020-11-20 09:17:53.304,1
+2946,Battery Life Time (Seconds).,2020-11-20 09:17:53.304,17769
+2947,Battery Charging.,2020-11-20 09:17:53.304,0
+2948,Battery Discharging.,2020-11-20 09:17:53.304,1
+2949,Battery MaxCapacity (mWh).,2020-11-20 09:17:53.304,69720
+2950,Battery estimatedTime (Seconds).,2020-11-20 09:17:53.304,17769
+2951,Battery Current Capacity (mWh),2020-11-20 09:17:53.304,51470
+2952,Battery Voltage (mv),2020-11-20 09:17:53.304,16016
+2953,Battery Rate (mW),2020-11-20 09:17:53.304,-10298
+2954,Battery Tag,2020-11-20 09:18:23.235,5
+2955,Battery Designed Capacity (mWh) ,2020-11-20 09:18:23.235,70000
+2956,Battery Full Charged Capacity (mWh),2020-11-20 09:18:23.235,69720
+2957,Battery Cycle Count,2020-11-20 09:18:23.235,12
+2958,Battery Left (%).,2020-11-20 09:18:23.303,74
+2959,Battery Flag,2020-11-20 09:18:23.303,1
+2960,Battery Life Time (Seconds).,2020-11-20 09:18:23.303,17769
+2961,Battery Charging.,2020-11-20 09:18:23.303,0
+2962,Battery Discharging.,2020-11-20 09:18:23.303,1
+2963,Battery MaxCapacity (mWh).,2020-11-20 09:18:23.303,69720
+2964,Battery estimatedTime (Seconds).,2020-11-20 09:18:23.303,17769
+2965,Battery Current Capacity (mWh),2020-11-20 09:18:23.303,51360
+2966,Battery Voltage (mv),2020-11-20 09:18:23.303,16001
+2967,Battery Rate (mW),2020-11-20 09:18:23.303,-12496
+2968,Battery Tag,2020-11-20 09:18:53.235,5
+2969,Battery Designed Capacity (mWh) ,2020-11-20 09:18:53.235,70000
+2970,Battery Full Charged Capacity (mWh),2020-11-20 09:18:53.235,69720
+2971,Battery Cycle Count,2020-11-20 09:18:53.235,12
+2972,Battery Left (%).,2020-11-20 09:18:53.303,74
+2973,Battery Flag,2020-11-20 09:18:53.303,1
+2974,Battery Life Time (Seconds).,2020-11-20 09:18:53.303,17769
+2975,Battery Charging.,2020-11-20 09:18:53.303,0
+2976,Battery Discharging.,2020-11-20 09:18:53.303,1
+2977,Battery MaxCapacity (mWh).,2020-11-20 09:18:53.303,69720
+2978,Battery estimatedTime (Seconds).,2020-11-20 09:18:53.303,17769
+2979,Battery Current Capacity (mWh),2020-11-20 09:18:53.303,51270
+2980,Battery Voltage (mv),2020-11-20 09:18:53.303,16028
+2981,Battery Rate (mW),2020-11-20 09:18:53.303,-10145
+2982,Battery Tag,2020-11-20 09:19:23.235,5
+2983,Battery Designed Capacity (mWh) ,2020-11-20 09:19:23.235,70000
+2984,Battery Full Charged Capacity (mWh),2020-11-20 09:19:23.235,69720
+2985,Battery Cycle Count,2020-11-20 09:19:23.235,12
+2986,Battery Left (%).,2020-11-20 09:19:23.303,73
+2987,Battery Flag,2020-11-20 09:19:23.303,1
+2988,Battery Life Time (Seconds).,2020-11-20 09:19:23.303,18946
+2989,Battery Charging.,2020-11-20 09:19:23.303,0
+2990,Battery Discharging.,2020-11-20 09:19:23.303,1
+2991,Battery MaxCapacity (mWh).,2020-11-20 09:19:23.303,69720
+2992,Battery estimatedTime (Seconds).,2020-11-20 09:19:23.303,18946
+2993,Battery Current Capacity (mWh),2020-11-20 09:19:23.303,51190
+2994,Battery Voltage (mv),2020-11-20 09:19:23.303,16026
+2995,Battery Rate (mW),2020-11-20 09:19:23.303,-9583
+2996,Battery Tag,2020-11-20 09:19:53.235,5
+2997,Battery Designed Capacity (mWh) ,2020-11-20 09:19:53.235,70000
+2998,Battery Full Charged Capacity (mWh),2020-11-20 09:19:53.235,69720
+2999,Battery Cycle Count,2020-11-20 09:19:53.235,12
+3000,Battery Left (%).,2020-11-20 09:19:53.302,73
+3001,Battery Flag,2020-11-20 09:19:53.302,1
+3002,Battery Life Time (Seconds).,2020-11-20 09:19:53.302,18946
+3003,Battery Charging.,2020-11-20 09:19:53.302,0
+3004,Battery Discharging.,2020-11-20 09:19:53.302,1
+3005,Battery MaxCapacity (mWh).,2020-11-20 09:19:53.302,69720
+3006,Battery estimatedTime (Seconds).,2020-11-20 09:19:53.302,18946
+3007,Battery Current Capacity (mWh),2020-11-20 09:19:53.302,51100
+3008,Battery Voltage (mv),2020-11-20 09:19:53.302,16035
+3009,Battery Rate (mW),2020-11-20 09:19:53.302,-10374
+3010,Battery Tag,2020-11-20 09:20:23.234,5
+3011,Battery Designed Capacity (mWh) ,2020-11-20 09:20:23.234,70000
+3012,Battery Full Charged Capacity (mWh),2020-11-20 09:20:23.234,69720
+3013,Battery Cycle Count,2020-11-20 09:20:23.234,12
+3014,Battery Left (%).,2020-11-20 09:20:23.302,73
+3015,Battery Flag,2020-11-20 09:20:23.302,1
+3016,Battery Life Time (Seconds).,2020-11-20 09:20:23.302,18946
+3017,Battery Charging.,2020-11-20 09:20:23.302,0
+3018,Battery Discharging.,2020-11-20 09:20:23.302,1
+3019,Battery MaxCapacity (mWh).,2020-11-20 09:20:23.302,69720
+3020,Battery estimatedTime (Seconds).,2020-11-20 09:20:23.302,18946
+3021,Battery Current Capacity (mWh),2020-11-20 09:20:23.302,51020
+3022,Battery Voltage (mv),2020-11-20 09:20:23.302,16018
+3023,Battery Rate (mW),2020-11-20 09:20:23.302,-10587
