@@ -1,4 +1,4 @@
-# DSC180A-Capstone-Project
+# DSC180B-Capstone-Project
 DSC Capstpne Project: Exploring System Usage Report based on Intel SDK Collector
 and Analyzer
 
