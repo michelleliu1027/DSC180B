@@ -34,77 +34,77 @@ HW_OUTFP1 = 'sample_hw_1.csv'
 HW_INFP2 = 'hw_metric_histo.csv001.gz'
 HW_OUTFP2 = 'sample_hw_2.csv'
     
-# Helper Methods:
-def find_seperator(infp):
-    with gzip.open(infp,'rt') as f:
-        count = 0
-        for line in f:
-            if count == 0:
-                toreplace = line[7] 
-                count+=1
-            else:
-                break
-    return toreplace
+# # Helper Methods:
+# def find_seperator(infp):
+#     with gzip.open(infp,'rt') as f:
+#         count = 0
+#         for line in f:
+#             if count == 0:
+#                 toreplace = line[7] 
+#                 count+=1
+#             else:
+#                 break
+#     return toreplace
 
-def device_filtered(dates, infp, outfp):
-    seperator = find_seperator(infp)
+# def device_filtered(dates, infp, outfp):
+#     seperator = find_seperator(infp)
     
-    pd.read_csv(infp, compression='gzip'\
-            ,sep=seperator, nrows=0).to_csv(outfp, index=False) # read column names
+#     pd.read_csv(infp, compression='gzip'\
+#             ,sep=seperator, nrows=0).to_csv(outfp, index=False) # read column names
 
 
-    for counter, chunk in enumerate(pd.read_csv(infp,
-                            compression='gzip', sep=seperator,dtype=str, chunksize=1000000,error_bad_lines=False)):
-        print(counter)
-        device_use = chunk.loc[chunk.device == 'GUID_DEVICE_BATTERY']
-        device_use.dt = pd.to_datetime(device_use.dt, errors='coerce')
-        needed_time = set(dates).intersection(set(device_use.dt))
-        filtered = device_use.set_index('dt').loc[needed_time].reset_index()
-        filtered.to_csv(outfp, index=False, header=False, mode='a')
-    return 
+#     for counter, chunk in enumerate(pd.read_csv(infp,
+#                             compression='gzip', sep=seperator,dtype=str, chunksize=1000000,error_bad_lines=False)):
+#         print(counter)
+#         device_use = chunk.loc[chunk.device == 'GUID_DEVICE_BATTERY']
+#         device_use.dt = pd.to_datetime(device_use.dt, errors='coerce')
+#         needed_time = set(dates).intersection(set(device_use.dt))
+#         filtered = device_use.set_index('dt').loc[needed_time].reset_index()
+#         filtered.to_csv(outfp, index=False, header=False, mode='a')
+#     return 
 
 
-def battery_filtered(needed_guid, dates, infp, outfp):
-    seperator = find_seperator(infp)
-    pd.read_csv(infp, compression='gzip'\
-                ,sep=seperator, nrows=0).to_csv(outfp, index=False) # read column names
+# def battery_filtered(needed_guid, dates, infp, outfp):
+#     seperator = find_seperator(infp)
+#     pd.read_csv(infp, compression='gzip'\
+#                 ,sep=seperator, nrows=0).to_csv(outfp, index=False) # read column names
 
     
-    if 'process'in infp:
-        dt = 'start_dt'
-    else:
-        dt = 'dt'
+#     if 'process'in infp:
+#         dt = 'start_dt'
+#     else:
+#         dt = 'dt'
     
-    if 'hw' in infp:
-        flag = True
-    else:
-        flag = False
+#     if 'hw' in infp:
+#         flag = True
+#     else:
+#         flag = False
         
-    for counter, chunk in enumerate(pd.read_csv(infp, \
-                            compression='gzip', sep=seperator,dtype=str, \
-                                                chunksize=1000000,error_bad_lines = False)):
-        print(counter)
-        needed = set(needed_guids).intersection(set(chunk.guid))
-        chunk = chunk.set_index('guid').loc[needed].reset_index()
-        chunk[dt] = pd.to_datetime(chunk[dt],errors='coerce')
-        needed_time = set(dates).intersection(set(chunk[dt]))
-        filtered = chunk.set_index(dt).loc[needed_time].reset_index()
-        if flag:
-            cpu_percent = filtered.name == 'HW::CORE:C0:PERCENT:'
-            temperature = filtered.name == 'HW::CORE:TEMPERATURE:CENTIGRADE:'
-            filtered = filtered.loc[cpu_percent | temperature ]
+#     for counter, chunk in enumerate(pd.read_csv(infp, \
+#                             compression='gzip', sep=seperator,dtype=str, \
+#                                                 chunksize=1000000,error_bad_lines = False)):
+#         print(counter)
+#         needed = set(needed_guids).intersection(set(chunk.guid))
+#         chunk = chunk.set_index('guid').loc[needed].reset_index()
+#         chunk[dt] = pd.to_datetime(chunk[dt],errors='coerce')
+#         needed_time = set(dates).intersection(set(chunk[dt]))
+#         filtered = chunk.set_index(dt).loc[needed_time].reset_index()
+#         if flag:
+#             cpu_percent = filtered.name == 'HW::CORE:C0:PERCENT:'
+#             temperature = filtered.name == 'HW::CORE:TEMPERATURE:CENTIGRADE:'
+#             filtered = filtered.loc[cpu_percent | temperature ]
         
-        filtered.to_csv(outfp, index=True, header=False, mode='a')
-    return 
+#         filtered.to_csv(outfp, index=True, header=False, mode='a')
+#     return 
         
 
-def load_device():
+def load_device(DEVICE_OUTFP1, DEVICE_OUTFP2):
     
-    #Read first device file
-    device_filtered(dates, DEVICE_INFP1, DEVICE_OUTFP1)
+#     #Read first device file
+#     device_filtered(dates, DEVICE_INFP1, DEVICE_OUTFP1)
     
-    #read second device file
-    device_filtered(DATES, DEVICE_INFP2, DEVICE_OUTFP2)
+#     #read second device file
+#     device_filtered(DATES, DEVICE_INFP2, DEVICE_OUTFP2)
     
     df3 = pd.read_csv(DEVICE_OUTFP1)
     df4 = pd.read_csv(DEVICE_OUTFP2)
@@ -117,25 +117,25 @@ def load_device():
     
     return device_use
     
-def load_battery_event():
-    #Read first device file
-    device_filtered(dates, DEVICE_INFP1, DEVICE_OUTFP1)
+def load_battery_event(BATTERY_EVENT_OUTFP):
+#     #Read first device file
+#     device_filtered(dates, DEVICE_INFP1, DEVICE_OUTFP1)
     
-    #read second device file
-    device_filtered(DATES, DEVICE_INFP2, DEVICE_OUTFP2)
+#     #read second device file
+#     device_filtered(DATES, DEVICE_INFP2, DEVICE_OUTFP2)
     
-    df3 = pd.read_csv(DEVICE_OUTFP1)
-    df4 = pd.read_csv(DEVICE_OUTFP2)
-    device_use = df4.append(df3)
-    newcol = ['dt', 'load_ts', 'batch_id', 'audit_zip', 'audit_internal_path', 'guid',
-           'interval_start_utc', 'interval_end_utc', 'interval_local_start',
-           'interval_local_end', 'ts','device', 'hw_name', 'name',
-           'duration', 'status']
-    device_use.columns = newcol
+#     df3 = pd.read_csv(DEVICE_OUTFP1)
+#     df4 = pd.read_csv(DEVICE_OUTFP2)
+#     device_use = df4.append(df3)
+#     newcol = ['dt', 'load_ts', 'batch_id', 'audit_zip', 'audit_internal_path', 'guid',
+#            'interval_start_utc', 'interval_end_utc', 'interval_local_start',
+#            'interval_local_end', 'ts','device', 'hw_name', 'name',
+#            'duration', 'status']
+#     device_use.columns = newcol
     
-    needed_guids = set(device_use.guid)
+#     needed_guids = set(device_use.guid)
     
-    battery_filtered(needed_guids, DATES, HW_INFP2, HW_OUTFP2)
+#     battery_filtered(needed_guids, DATES, HW_INFP2, HW_OUTFP2)
     
     battery_event = pd.read_csv(BATTERY_EVENT_OUTFP)
     newcol = ['dt', 'guid','load_ts','batch_id','audit_zip','audit_internal_path',
@@ -146,25 +146,25 @@ def load_battery_event():
     
     return battery_event
 
-def load_battery_info():
-    #Read first device file
-    device_filtered(dates, DEVICE_INFP1, DEVICE_OUTFP1)
+def load_battery_info(BATTERY_INFO_OUTFP):
+#     #Read first device file
+#     device_filtered(dates, DEVICE_INFP1, DEVICE_OUTFP1)
     
-    #read second device file
-    device_filtered(DATES, DEVICE_INFP2, DEVICE_OUTFP2)
+#     #read second device file
+#     device_filtered(DATES, DEVICE_INFP2, DEVICE_OUTFP2)
     
-    df3 = pd.read_csv(DEVICE_OUTFP1)
-    df4 = pd.read_csv(DEVICE_OUTFP2)
-    device_use = df4.append(df3)
-    newcol = ['dt', 'load_ts', 'batch_id', 'audit_zip', 'audit_internal_path', 'guid',
-           'interval_start_utc', 'interval_end_utc', 'interval_local_start',
-           'interval_local_end', 'ts','device', 'hw_name', 'name',
-           'duration', 'status']
-    device_use.columns = newcol
+#     df3 = pd.read_csv(DEVICE_OUTFP1)
+#     df4 = pd.read_csv(DEVICE_OUTFP2)
+#     device_use = df4.append(df3)
+#     newcol = ['dt', 'load_ts', 'batch_id', 'audit_zip', 'audit_internal_path', 'guid',
+#            'interval_start_utc', 'interval_end_utc', 'interval_local_start',
+#            'interval_local_end', 'ts','device', 'hw_name', 'name',
+#            'duration', 'status']
+#     device_use.columns = newcol
     
-    needed_guids = set(device_use.guid)
+#     needed_guids = set(device_use.guid)
     
-    battery_filtered(needed_guids, DATES, HW_INFP2, HW_OUTFP2)
+#     battery_filtered(needed_guids, DATES, HW_INFP2, HW_OUTFP2)
     
     battery_info = pd.read_csv(BATTERY_INFO_OUTFP)
     newcol = ['dt', 'guid','load_ts','batch_id','audit_zip','audit_internal_path',
@@ -175,7 +175,7 @@ def load_battery_info():
     
     return battery_info
 
-def load_process():
+def load_process(PROCESS_OUTFP1, PROCESS_OUTFP2):
     process1 = pd.read_csv(PROCESS_OUTFP1)
     process2 = pd.read_csv(PROCESS_OUTFP2)
     process = process1.append(process2)
@@ -191,7 +191,7 @@ def load_process():
     
     return process
 
-def load_cpu():
+def load_cpu(HW_OUTFP1, HW_OUTFP2):
     cpu1 = pd.read_csv(HW_OUTFP1)
     cpu2 = pd.read_csv(HW_OUTFP2)
     cpu = cpu1.append(cpu2)
