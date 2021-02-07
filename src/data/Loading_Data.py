@@ -109,6 +109,7 @@ def load_device(DEVICE_OUTFP1, DEVICE_OUTFP2):
     df3 = pd.read_csv(DEVICE_OUTFP1)
     df4 = pd.read_csv(DEVICE_OUTFP2)
     device_use = df4.append(df3)
+    device_use = device_use[device_use.columns[1:]]
     newcol = ['dt', 'load_ts', 'batch_id', 'audit_zip', 'audit_internal_path', 'guid',
            'interval_start_utc', 'interval_end_utc', 'interval_local_start',
            'interval_local_end', 'ts','device', 'hw_name', 'name',
@@ -138,6 +139,7 @@ def load_battery_event(BATTERY_EVENT_OUTFP):
 #     battery_filtered(needed_guids, DATES, HW_INFP2, HW_OUTFP2)
     
     battery_event = pd.read_csv(BATTERY_EVENT_OUTFP)
+    battery_event = battery_event[battery_event.columns[1:]]
     newcol = ['dt', 'guid','load_ts','batch_id','audit_zip','audit_internal_path',
            'interval_start_utc', 'interval_end_utc', 'interval_local_start',
            'interval_local_end', 'ts','system_power_state', 'event_type',
@@ -167,6 +169,7 @@ def load_battery_info(BATTERY_INFO_OUTFP):
 #     battery_filtered(needed_guids, DATES, HW_INFP2, HW_OUTFP2)
     
     battery_info = pd.read_csv(BATTERY_INFO_OUTFP)
+    battery_info = battery_info[battery_info.columns[1:]]
     newcol = ['dt', 'guid','load_ts','batch_id','audit_zip','audit_internal_path',
            'interval_start_utc', 'interval_end_utc', 'interval_local_start',
            'interval_local_end', 'ts','battery_enum', 'chemistry',
@@ -179,6 +182,8 @@ def load_process(PROCESS_OUTFP1, PROCESS_OUTFP2):
     process1 = pd.read_csv(PROCESS_OUTFP1)
     process2 = pd.read_csv(PROCESS_OUTFP2)
     process = process1.append(process2)
+    process = process[process.columns[1:]]
+
     newcol = ['dt', 'guid','load_ts','batch_id','audit_zip','audit_internal_path','interval_start_utc', 
      'interval_end_utc', 'interval_local_start',
            'interval_local_end', 'ts','proc_name', 'exe_hash',
@@ -195,6 +200,8 @@ def load_cpu(HW_OUTFP1, HW_OUTFP2):
     cpu1 = pd.read_csv(HW_OUTFP1)
     cpu2 = pd.read_csv(HW_OUTFP2)
     cpu = cpu1.append(cpu2)
+    cpu = cpu[cpu.columns[1:]]
+
     newcol = ['dt', 'guid','load_ts','batch_id','audit_zip','audit_internal_path',
            'interval_start_utc', 'interval_end_utc', 'interval_local_start',
            'interval_local_end', 'name', 'instance', 'nrs', 'mean',
