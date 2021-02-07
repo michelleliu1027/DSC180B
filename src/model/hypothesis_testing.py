@@ -40,7 +40,7 @@ X_train1, X_test1, y_train1, y_test1 = train_test_split(X, y, test_size=0.3)
 def linear_reg():
     # for our baseline model, we will use linear regression for calculating mean absolute error 
     linear_train, linear_test = mae(LinearRegression(), X_train1, y_train1, X_test1, y_test1)
-    print(linear_train, linear_test)
+    print("linear training error: " + str(linear_train), "linear test error: " + str(linear_test))
     return linear_train, linear_test
    
 
@@ -49,14 +49,14 @@ def linear_reg():
 def svm():
     # to improve our baseline model, we will consider SVM for calculating mean absolute error 
     svm_train, svm_test = mae(svm.SVR(), X_train1, y_train1, X_test1, y_test1)
-    print(svm_train, svm_test)
+    print("svm training error: " + str(svm_train), "svm test error: " + str(svm_test))
     return svm_train, svm_test
 
     
 def dtr():
     # This time, we will use decision tree regressor to calculate mean absolute error 
     dt_train, dt_test = mae(DecisionTreeRegressor(), X_train1, y_train1, X_test1, y_test1)
-    print(dt_train, dt_test)
+    print("decision tree training error: " + str(dt_train), "decision tree test error: " + str(dt_test))
     return dt_train, dt_test
     
     
