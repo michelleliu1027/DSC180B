@@ -8,7 +8,7 @@ from datetime import datetime
 
 warnings.filterwarnings('ignore')
 
-
+# First guessing: battery minutes remaining is related with number of devices
 def num_dev_feature(battery_event, device_use):
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
     data1 = data1.loc[data1>0]
@@ -26,7 +26,7 @@ def num_dev_feature(battery_event, device_use):
     
     return num_dev
 
-
+# Second guessing: battery minutes remaining is related with number of process
 def num_proc_feature(battery_event, process):
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
     data1 = data1.loc[data1>0]
@@ -40,6 +40,7 @@ def num_proc_feature(battery_event, process):
     print(np.corrcoef(data1, num_proc))
     return num_proc
 
+# Third guessing: battery minutes remaining is related with Average Page Faults
 def page_faults_feature(battery_event, process):
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
     data1 = data1.loc[data1>0]
@@ -54,6 +55,7 @@ def page_faults_feature(battery_event, process):
     
     return page_faults
 
+# Fourth guessing: battery minutes remaining is related with Average Memory
 def avg_memory_feature(battery_event, process):
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
     data1 = data1.loc[data1>0]
@@ -68,6 +70,7 @@ def avg_memory_feature(battery_event, process):
     
     return avg_memory 
 
+# Fifth guessing: battery minutes remaining is related with cpu_user_sec + cpu_kernel_sec
 def cpu_sec_feature(battery_event, process):
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
     data1 = data1.loc[data1>0]
@@ -83,6 +86,7 @@ def cpu_sec_feature(battery_event, process):
     
     return cpu_sec 
 
+# Sixth guessing: battery minutes remaining is related with full_charge_capacity
 def capacity_feature(battery_event, battery_info):
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
     data1 = data1.loc[data1>0]
@@ -95,6 +99,7 @@ def capacity_feature(battery_event, battery_info):
     
     return capacity 
 
+# 7th guessing: battery minutes remaining is related with cpu_percent
 def cpu_percent_feature(cpu, battery_event):
     cpu_info = cpu.groupby(['guid','name'])['mean'].mean().reset_index(level=[0,1])
     cpu_percent = cpu_info.loc[cpu_info.name == 'HW::CORE:C0:PERCENT:']
@@ -112,6 +117,7 @@ def cpu_percent_feature(cpu, battery_event):
     
     return cpu_percent
 
+# 8th guessing: battery minutes remaining is related with cpu_temperature
 def cpu_temp_feature(cpu, battery_event):
     cpu_info = cpu.groupby(['guid','name'])['mean'].mean().reset_index(level=[0,1])
     cpu_centi_temp = cpu_info.loc[cpu_info.name == 'HW::CORE:TEMPERATURE:CENTIGRADE:']
