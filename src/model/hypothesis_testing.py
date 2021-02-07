@@ -44,14 +44,19 @@ def simulation2(model1, model2, X, y):
         
     return (np.array(errors1) - np.array(errors2))
 
-# the features are number of processes, page faults, capacity, cpu percentage, and cpu temperature 
-X = pd.concat([num_proc, page_faults, capacity, cpu_percent, cpu_temp, num_devices,avg_memory,cpu_sec], axis = 1).dropna()
-y = battery_event[['guid', 'battery_minutes_remaining']][battery_event.guid.isin(X.index)].groupby('guid')['battery_minutes_remaining'].apply(lambda x: (x!=-1).mean())
+# # the features are number of processes, page faults, capacity, cpu percentage, and cpu temperature 
+# def train_test_XY(num_proc, page_faults, capacity, cpu_percent, cpu_temp, num_devices,avg_memory,cpu_sec):
 
-X_train1, X_test1, y_train1, y_test1 = train_test_split(X, y, test_size=0.3)
+#     X = pd.concat([num_proc, page_faults, capacity, cpu_percent, cpu_temp, num_devices,avg_memory,cpu_sec], axis = 1).dropna()
+#     y = battery_event[['guid', 'battery_minutes_remaining']][battery_event.guid.isin(X.index)].groupby('guid')['battery_minutes_remaining'].apply(lambda x: (x!=-1).mean())
+
+#     X_train1, X_test1, y_train1, y_test1 = train_test_split(X, y, test_size=0.3)
+#     return X,y, X_train1, X_test1, y_train1, y_test1
+
+
 
 ##### Baseline Model #####
-def linear_reg():
+def linear_reg(X_train1, y_train1, X_test1, y_test1):
     # for our baseline model, we will use linear regression for calculating mean absolute error 
     linear_train, linear_test = mae(LinearRegression(), X_train1, y_train1, X_test1, y_test1)
     print("linear training error: " + str(linear_train), "linear test error: " + str(linear_test))
@@ -60,14 +65,14 @@ def linear_reg():
 
 
 ##### Improving Model #####
-def svm():
+def svm(X_train1, y_train1, X_test1, y_test1):
     # to improve our baseline model, we will consider SVM for calculating mean absolute error 
     svm_train, svm_test = mae(svm.SVR(), X_train1, y_train1, X_test1, y_test1)
     print("svm training error: " + str(svm_train), "svm test error: " + str(svm_test))
     return svm_train, svm_test
 
     
-def dtr():
+def dtr(X_train1, y_train1, X_test1, y_test1):
     # This time, we will use decision tree regressor to calculate mean absolute error 
     dt_train, dt_test = mae(DecisionTreeRegressor(), X_train1, y_train1, X_test1, y_test1)
     print("decision tree training error: " + str(dt_train), "decision tree test error: " + str(dt_test))
@@ -79,7 +84,7 @@ def dtr():
 # Hypothesis Testing1
 # Null Hypo: There's no difference in performance between SVM and Decision Tree Regressor
 # Alternative Hypo: SVM performs better than Decision Tree Regressor
-def hypo1():
+def hypo1(svm_test,dt_test):
     print("Null Hypo: There's no difference in performance between SVM and Decision Tree Regressor")
     print("Alternative Hypo: SVM performs better than Decision Tree Regressor")
     observed_svm_dt = svm_test - dt_test
@@ -93,7 +98,7 @@ def hypo1():
 # Hypothesis Testing2
 # Null Hypo: There's no difference in performance between SVM and Linear Regression
 # Alternative Hypo: SVM performs better than Linear Regression
-def hypo2():   
+def hypo2(svm_test,linear_test):   
     print("Null Hypo: There's no difference in performance between SVM and Linear Regression")
     print("Alternative Hypo: SVM performs better than Linear Regression")
     observed_svm_lr = svm_test - linear_test
