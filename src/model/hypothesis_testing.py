@@ -84,7 +84,7 @@ def dtr(X_train1, y_train1, X_test1, y_test1):
 # Hypothesis Testing1
 # Null Hypo: There's no difference in performance between SVM and Decision Tree Regressor
 # Alternative Hypo: SVM performs better than Decision Tree Regressor
-def hypo1(svm_test,dt_test):
+def hypo1(X,y,svm_test,dt_test):
     print("Null Hypo: There's no difference in performance between SVM and Decision Tree Regressor")
     print("Alternative Hypo: SVM performs better than Decision Tree Regressor")
     observed_svm_dt = svm_test - dt_test
@@ -98,7 +98,7 @@ def hypo1(svm_test,dt_test):
 # Hypothesis Testing2
 # Null Hypo: There's no difference in performance between SVM and Linear Regression
 # Alternative Hypo: SVM performs better than Linear Regression
-def hypo2(svm_test,linear_test):   
+def hypo2(X,y,svm_test,linear_test):   
     print("Null Hypo: There's no difference in performance between SVM and Linear Regression")
     print("Alternative Hypo: SVM performs better than Linear Regression")
     observed_svm_lr = svm_test - linear_test
