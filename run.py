@@ -153,11 +153,11 @@ def main(targets):
         process = load_process(data_cfg["PROCESS_OUTFP1"], data_cfg["PROCESS_OUTFP2"])
         cpu = load_cpu(data_cfg["HW_OUTFP1"], data_cfg["HW_OUTFP2"])
         
-        display(device_use)
-        display(battery_event)
-        display(battery_info)
-        display(process)
-        display(cpu)
+        print(device_use)
+        print(battery_event)
+        print(battery_info)
+        print(process)
+        print(cpu)
         
         num_dev = num_dev_feature(battery_event, device_use)
         num_proc = num_proc_feature(battery_event, process)
