@@ -7,6 +7,7 @@ We provided 4 targets for your usage. They are `data`, `eda`, `model`, and `test
 
 An exmple for running our project through terminal is `python run.py data`, which will show our main dataset. To run other branches, just replace `data` with `eda`, `model` or`test`.
 
+
 ## Description of Contents
 ```
 PROJECT
@@ -14,27 +15,31 @@ PROJECT
     └── data-params.json
     └── inputs.json
 ├── notebooks
-    └── cp2.ipynb
+    └── DSC180B_Presentation.ipynb
 ├── references
     └── README.md
 └── src
-    ├── analysis(empty folder for now)
+    ├── EDA
+        └──  feature_selection.py
     ├── data
-        ├── Collecting_Data
-                ├── data.py
-                └── example.bat
-                └── mouse_input.c
-                └── mouse_input.h
-                └── mouse_input.sln
-                └── mouse_input.dll
-        ├── battery_use-000025.db
-        └── Loading_Data.py
-    └── model(empty folder for now)
+        ├── Loading_Data.py
+        ├── minimini_battery_event2.csv
+        ├── minimini_battery_info2.csv
+        ├── minimini_device_use1.csv
+        ├── minimini_device_use2.csv
+        ├── minimini_hw1.csv
+        ├── minimini_hw2.csv
+        ├── minimini_process1.csv
+        └──minimini_process2.csv
+    └── model
+        └──hypothesis_testing.py
 ├── .gitignore
 ├── README.md
 └── run.py
 └── submission.json
 ```
+
+
 ### `config/`
 * `data-params.json`: It contains the SQL query for analyzing `battery_use-000025`
 * `inputs.json`: It contains the argument inputs for extracting battery and process information 
