@@ -1,5 +1,25 @@
 {
-  "battery_query": "select u.MEASUREMENT_TIME, u.Value as Estimated_Remaining_Time from inputs i inner join counters_ull_time_data u on i.id_input=u.id_input WHERE u.SESSION_ID = 1000 AND u.ID_INPUT = 6 group by measurement_time order by measurement_time;",
-  "process_query": "select u.MEASUREMENT_TIME, Count(u.Value) as Number_Of_ExEfiles from inputs i inner join COUNTERS_STRING_TIME_DATA u on i.id_input=u.id_input WHERE u.SESSION_ID = 2 AND u.ID_INPUT = 15 group by measurement_time order by measurement_time;",
-  "cp2_query" : "select INPUT_DESCRIPTION, MEASUREMENT_TIME, VALUE from inputs i  join (SELECT * FROM counters_ull_time_data UNION SELECT * FROM counters_ll_time_data) all_data WHERE i.id_input = all_data.id_input ORDER BY MEASUREMENT_TIME"
+  DEVICE_INFP1: "devuse_4known_device.csv000.gz", 
+  DEVICE_OUTFP1: "sample_device_1.csv",
+
+  DEVICE_INFP2: "devuse_4known_device.csv001.gz", 
+  DEVICE_OUTFP2: "sample_device_2.csv",
+
+  BATTERY_EVENT_INFP: "batt_acdc_events.csv000.gz",
+  BATTERY_EVENT_OUTFP: "sample_events.csv",
+
+  BATTERY_INFO_INFP: "batt_info.csv000.gz",
+  BATTERY_INFO_OUTFP: "sample_info.csv",
+
+  PROCESS_INFP1: "plist_process_resource_util_13wks.csv000.gz",
+  PROCESS_OUTFP1: "sample_process_1.csv",
+
+  PROCESS_INFP2: "plist_process_resource_util_13wks.csv001.gz",
+  PROCESS_OUTFP2: "sample_process_2.csv",
+
+  HW_INFP1: "hw_metric_histo.csv000.gz",
+  HW_OUTFP1: "sample_hw_1.csv",
+
+  HW_INFP2: "hw_metric_histo.csv001.gz",
+  HW_OUTFP2: "sample_hw_2.csv"
 }
