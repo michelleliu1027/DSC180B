@@ -35,11 +35,11 @@ def main(targets):
         process = load_process(data_cfg["PROCESS_OUTFP1"], data_cfg["PROCESS_OUTFP2"])
         cpu = load_cpu(data_cfg["HW_OUTFP1"], data_cfg["HW_OUTFP2"])
         
-        display(device_use)
-        display(battery_event)
-        display(battery_info)
-        display(process)
-        display(cpu)
+        print(device_use)
+        print(battery_event)
+        print(battery_info)
+        print(process)
+        print(cpu)
 
         
     if 'eda' in targets:
@@ -135,12 +135,17 @@ def main(targets):
         except:
             cpu_temp = cpu_temp_feature(cpu, battery_event)
             
-        linear_train, linear_test = linear_reg()
-        svm_train, svm_test = svm()
-        dt_train, dt_test = dtr()
+        X = pd.concat([num_proc, page_faults, capacity, cpu_percent, cpu_temp, num_devices,avg_memory,cpu_sec], axis = 1).dropna()
+        y = battery_event[['guid', 'battery_minutes_remaining']][battery_event.guid.isin(X.index)].groupby('guid')['battery_minutes_remaining'].apply(lambda x: (x!=-1).mean())
+
+        X_train1, X_test1, y_train1, y_test1 = train_test_split(X, y, test_size=0.3)
+
+        linear_train, linear_test = linear_reg(X_train1, X_test1, y_train1, y_test1)
+        svm_train, svm_test = svm(X_train1, X_test1, y_train1, y_test1)
+        dt_train, dt_test = dtr(X_train1, X_test1, y_train1, y_test1)
         
-        hypo1()
-        hypo2()
+        hypo1(X,y,svm_test,dt_test)
+        hypo2(X,y,svm_test,linear_test)
            
     
     if 'test' in targets:
@@ -167,13 +172,18 @@ def main(targets):
         capacity = capacity_feature(battery_event, battery_info)
         cpu_percent = cpu_percent_feature(cpu, battery_event)
         cpu_temp = cpu_temp_feature(cpu, battery_event)
+
+        X = pd.concat([num_proc, page_faults, capacity, cpu_percent, cpu_temp, num_devices,avg_memory,cpu_sec], axis = 1).dropna()
+        y = battery_event[['guid', 'battery_minutes_remaining']][battery_event.guid.isin(X.index)].groupby('guid')['battery_minutes_remaining'].apply(lambda x: (x!=-1).mean())
+
+        X_train1, X_test1, y_train1, y_test1 = train_test_split(X, y, test_size=0.3)
+
+        linear_train, linear_test = linear_reg(X_train1, X_test1, y_train1, y_test1)
+        svm_train, svm_test = svm(X_train1, X_test1, y_train1, y_test1)
+        dt_train, dt_test = dtr(X_train1, X_test1, y_train1, y_test1)
         
-        linear_train, linear_test = linear_reg()
-        svm_train, svm_test = svm()
-        dt_train, dt_test = dtr()
-        
-        hypo1()
-        hypo2()
+        hypo1(X,y,svm_test,dt_test)
+        hypo2(X,y,svm_test,linear_test)
 
 
 if __name__ == '__main__':
