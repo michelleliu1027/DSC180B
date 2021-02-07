@@ -12,6 +12,11 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn.metrics import mean_absolute_error
 from sklearn.model_selection import train_test_split
 
+sys.path.insert(0, 'src/data')
+from Loading_Data import * 
+sys.path.insert(0, 'src/eda')
+from feature_selection import * 
+
 # Helper Method1
 # calculates the mean absolute error of the given model
 def mae(model, X_train, y_train, X_test, y_test):
