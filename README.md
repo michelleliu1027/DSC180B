@@ -1,12 +1,11 @@
 # DSC180B-Capstone-Project
-DSC Capstpne Project: Exploring System Usage Report based on Intel SDK Collector
-and Analyzer
-
+DSC Capstpne Project: A Prediction Model for Battery Remaining Time
 ## Usage Instructions
-Currently, I am finishing data collecting and elementary data analysis parts.
-To run my current working, use `python run.py data`. 
+We provided 4 targets for your usage. They are `data`, `eda`, `model`, and `test`.
 
-In the future, my project will be composed of `data`, `analyze` and etc. parts.
+`test` would run our project on test data, which provides a miniature of what we have done on a smaller dataset. 
+
+An exmple for running our project through terminal is `python run.py data`, which will show our main dataset. To run other branches, just replace `data` with `eda`, `model` or`test`.
 
 ## Description of Contents
 ```
