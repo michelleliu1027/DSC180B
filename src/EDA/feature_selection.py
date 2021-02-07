@@ -13,16 +13,11 @@ def num_dev_feature(battery_event, device_use):
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
     data1 = data1.loc[data1>0]
 
-    num_dev = device_use.set_index('guid').loc[set(battery_event.guid)].reset_index().groupby(['guid']).name.count().sort_index()
-    num_dev = num_dev.loc[data1.index]
+    num_dev = device_use.set_index('guid').loc[set(battery_event.guid).intersection(device_use.guid)].reset_index().groupby(['guid']).name.count().sort_index()
+    num_dev = num_dev.loc[set(data1.index).intersection(set(num_dev.index))]
+    data1 = data1.loc[set(data1.index).intersection(set(num_dev.index))]
     
-    data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
-    data1 = data1.loc[data1>0]
-
-    num_dev = device_use.set_index('guid').loc[set(battery_event.guid)].reset_index().groupby(['guid']).name.count().sort_index()
-    num_dev = num_dev.loc[data1.index]
-    
-    print(np.corrcoef(data1, num_dev))
+    print(data1, num_dev)
     
     return num_dev
 

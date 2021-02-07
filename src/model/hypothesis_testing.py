@@ -65,7 +65,7 @@ def linear_reg(X_train1, y_train1, X_test1, y_test1):
 
 
 ##### Improving Model #####
-def svm(X_train1, y_train1, X_test1, y_test1):
+def supportvm(X_train1, y_train1, X_test1, y_test1):
     # to improve our baseline model, we will consider SVM for calculating mean absolute error 
     svm_train, svm_test = mae(svm.SVR(), X_train1, y_train1, X_test1, y_test1)
     print("svm training error: " + str(svm_train), "svm test error: " + str(svm_test))

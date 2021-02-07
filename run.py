@@ -135,14 +135,14 @@ def main(targets):
         except:
             cpu_temp = cpu_temp_feature(cpu, battery_event)
             
-        X = pd.concat([num_proc, page_faults, capacity, cpu_percent, cpu_temp, num_devices,avg_memory,cpu_sec], axis = 1).dropna()
+        X = pd.concat([num_proc, page_faults, capacity, cpu_percent, cpu_temp, num_dev,avg_memory,cpu_sec], axis = 1).dropna()
         y = battery_event[['guid', 'battery_minutes_remaining']][battery_event.guid.isin(X.index)].groupby('guid')['battery_minutes_remaining'].apply(lambda x: (x!=-1).mean())
 
         X_train1, X_test1, y_train1, y_test1 = train_test_split(X, y, test_size=0.3)
 
-        linear_train, linear_test = linear_reg(X_train1, X_test1, y_train1, y_test1)
-        svm_train, svm_test = svm(X_train1, X_test1, y_train1, y_test1)
-        dt_train, dt_test = dtr(X_train1, X_test1, y_train1, y_test1)
+        linear_train, linear_test = linear_reg(X_train1, y_train1, X_test1,  y_test1)
+        svm_train, svm_test = supportvm(X_train1, y_train1,X_test1, y_test1)
+        dt_train, dt_test = dtr(X_train1, y_train1,X_test1, y_test1)
         
         hypo1(X,y,svm_test,dt_test)
         hypo2(X,y,svm_test,linear_test)
@@ -152,6 +152,7 @@ def main(targets):
         with open('config/data-params.json') as fh:
             data_cfg = json.load(fh)
         # make the data target
+
         device_use = load_device(data_cfg["DEVICE_OUTFP1"], data_cfg["DEVICE_OUTFP2"])
         battery_event = load_battery_event(data_cfg["BATTERY_EVENT_OUTFP"])
         battery_info = load_battery_info(data_cfg["BATTERY_INFO_OUTFP"])
@@ -173,14 +174,14 @@ def main(targets):
         cpu_percent = cpu_percent_feature(cpu, battery_event)
         cpu_temp = cpu_temp_feature(cpu, battery_event)
 
-        X = pd.concat([num_proc, page_faults, capacity, cpu_percent, cpu_temp, num_devices,avg_memory,cpu_sec], axis = 1).dropna()
+        X = pd.concat([num_proc, page_faults, capacity, cpu_percent, cpu_temp, num_dev,avg_memory,cpu_sec], axis = 1).dropna()
         y = battery_event[['guid', 'battery_minutes_remaining']][battery_event.guid.isin(X.index)].groupby('guid')['battery_minutes_remaining'].apply(lambda x: (x!=-1).mean())
 
         X_train1, X_test1, y_train1, y_test1 = train_test_split(X, y, test_size=0.3)
 
-        linear_train, linear_test = linear_reg(X_train1, X_test1, y_train1, y_test1)
-        svm_train, svm_test = svm(X_train1, X_test1, y_train1, y_test1)
-        dt_train, dt_test = dtr(X_train1, X_test1, y_train1, y_test1)
+        linear_train, linear_test = linear_reg(X_train1, y_train1, X_test1,  y_test1)
+        svm_train, svm_test = supportvm(X_train1, y_train1,X_test1, y_test1)
+        dt_train, dt_test = dtr(X_train1, y_train1,X_test1, y_test1)
         
         hypo1(X,y,svm_test,dt_test)
         hypo2(X,y,svm_test,linear_test)
