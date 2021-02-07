@@ -41,22 +41,20 @@ PROJECT
 
 
 ### `config/`
-* `data-params.json`: It contains the SQL query for analyzing `battery_use-000025`
-* `inputs.json`: It contains the argument inputs for extracting battery and process information 
+* `data-params.json`: It contains the file path for our dataset
+* `inputs.json`: It contains the argument inputs
 
 ### `notebooks/`
-* `cp2.ipynb`: EDA and preprocessing on collected data
+* `DSC180B_Presentation.ipynb`: EDA, Hypothesis Testing and Visual Presentation on our project
 
 ### `references/`
-* `README.md`: External sources (need to be done in the future)
+* `README.md`: External sources
 
 ### `src/`
-* `analysis/`: Later for developing data analysis code there
-* `data/Collecting_Data/data.py`: code for executing batch file (recommended to use only when you have _xlsdk downloaded and have access to it)
-* `data/Collecting_Data/example.bat`: batch script for collecting data
-* `data/Collecting_Data/mouse_input.c` /`data/Collecting_Data/mouse_input.h` / `data/Collecting_Data/mouse_input.sln` / `data/Collecting_Data/mouse_input.dll` : our input libraries for collecting data
-* `battery_use-000025.db`: Pre-collected Database
-* `Loading_Data.py`: Main code for loading and analyzing data
+* `EDA/feature_selection.py`: code for selecting desired features for our prediction model
+* `data/Loading_Data.py`: code for load our dataset
+* `data/minimini_[DIFFERENT FILE NAME]_csv`: sample dataset
+* `model/hypothesis_testing.py` : code for prediction model and hypothesis testing
 
 ### `run.py`
-* Main driver for this project. See cp2.ipynb for a basic analysis for Checkpoint2 on the battery table.
+* Main driver for this project.
