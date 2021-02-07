@@ -4,22 +4,32 @@
 
   "DEVICE_INFP2": "devuse_4known_device.csv001.gz", 
   "DEVICE_OUTFP2": "sample_device_2.csv",
+  
+  "DEVICE_TEST": "mini_device_use.csv",
 
   "BATTERY_EVENT_INFP": "batt_acdc_events.csv000.gz",
   "BATTERY_EVENT_OUTFP": "sample_events.csv",
+  
+  "BATTERY_EVENT_TEST": "mini_battery_event.csv",
 
   "BATTERY_INFO_INFP": "batt_info.csv000.gz",
   "BATTERY_INFO_OUTFP": "sample_info.csv",
+  
+  "BATTERY_INFO_TEST": "mini_battery_info.csv",
 
   "PROCESS_INFP1": "plist_process_resource_util_13wks.csv000.gz",
   "PROCESS_OUTFP1": "sample_process_1.csv",
 
   "PROCESS_INFP2": "plist_process_resource_util_13wks.csv001.gz",
   "PROCESS_OUTFP2": "sample_process_2.csv",
+  
+  "PROCESS_TEST": "mini_process.csv",
 
   "HW_INFP1": "hw_metric_histo.csv000.gz",
   "HW_OUTFP1": "sample_hw_1.csv",
 
   "HW_INFP2": "hw_metric_histo.csv001.gz",
-  "HW_OUTFP2": "sample_hw_2.csv"
+  "HW_OUTFP2": "sample_hw_2.csv",
+  
+  "HW_TEST": "mini_cpu.csv"
 }
