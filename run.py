@@ -3,10 +3,6 @@ import os
 import sys
 import json
 import pandas as pd
-from IPython.display import display
-import warnings
-warnings.filterwarnings('ignore')
-
 
 sys.path.insert(0, 'src/data')
 from Loading_Data import * 
