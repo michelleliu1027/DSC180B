@@ -28,7 +28,7 @@ def main(targets):
         device_use = load_device(data_cfg["DEVICE_OUTFP1"], data_cfg["DEVICE_OUTFP2"])
         battery_event = load_battery_event(data_cfg["BATTERY_EVENT_OUTFP"])
         battery_info = load_battery_info(data_cfg["BATTERY_INFO_OUTFP"])
-        process = load_process(data_cfg["PROCESS_OUTFP1"], data_cfg["PROCESS_OUTFP2"])
+        process = load_process(data_cfg["PROCESS_OUTFP1"])
         cpu = load_cpu(data_cfg["HW_OUTFP1"], data_cfg["HW_OUTFP2"])
         
         print(device_use)
@@ -58,7 +58,7 @@ def main(targets):
         try:
             process
         except:
-            process = load_process(data_cfg["PROCESS_OUTFP1"], data_cfg["PROCESS_OUTFP2"])
+            process = load_process(data_cfg["PROCESS_OUTFP1"])
         try:
             cpu
         except:
@@ -92,7 +92,7 @@ def main(targets):
         try:
             process
         except:
-            process = load_process(data_cfg["PROCESS_OUTFP1"], data_cfg["PROCESS_OUTFP2"])
+            process = load_process(data_cfg["PROCESS_OUTFP1"])
         try:
             cpu
         except:
@@ -139,9 +139,13 @@ def main(targets):
         linear_train, linear_test = linear_reg(X_train1, y_train1, X_test1,  y_test1)
         svm_train, svm_test = supportvm(X_train1, y_train1,X_test1, y_test1)
         dt_train, dt_test = dtr(X_train1, y_train1,X_test1, y_test1)
+        rf_train, rf_test = mae(RandomForestRegressor(), X_train1, y_train1, X_test1, y_test1)
+        ada_train, ada_test = mae(AdaBoostRegressor(), X_train1, y_train1, X_test1, y_test1)
+        gradient_train, gradient_test = mae(GradientBoostingRegressor(), X_train1, y_train1, X_test1, y_test1)
         
-        hypo1(X,y,svm_test,dt_test)
-        hypo2(X,y,svm_test,linear_test)
+        
+        hypo1(X,y,gradient_test,svm_test)
+        hypo2(X,y,gradient_test,ada_test)
            
     
     if 'test' in targets:
@@ -152,7 +156,7 @@ def main(targets):
         device_use = load_device(data_cfg["DEVICE_OUTFP1"], data_cfg["DEVICE_OUTFP2"])
         battery_event = load_battery_event(data_cfg["BATTERY_EVENT_OUTFP"])
         battery_info = load_battery_info(data_cfg["BATTERY_INFO_OUTFP"])
-        process = load_process(data_cfg["PROCESS_OUTFP1"], data_cfg["PROCESS_OUTFP2"])
+        process = load_process(data_cfg["PROCESS_OUTFP1"])
         cpu = load_cpu(data_cfg["HW_OUTFP1"], data_cfg["HW_OUTFP2"])
         
         print(device_use)
@@ -178,9 +182,13 @@ def main(targets):
         linear_train, linear_test = linear_reg(X_train1, y_train1, X_test1,  y_test1)
         svm_train, svm_test = supportvm(X_train1, y_train1,X_test1, y_test1)
         dt_train, dt_test = dtr(X_train1, y_train1,X_test1, y_test1)
+        rf_train, rf_test = mae(RandomForestRegressor(), X_train1, y_train1, X_test1, y_test1)
+        ada_train, ada_test = mae(AdaBoostRegressor(), X_train1, y_train1, X_test1, y_test1)
+        gradient_train, gradient_test = mae(GradientBoostingRegressor(), X_train1, y_train1, X_test1, y_test1)
         
-        hypo1(X,y,svm_test,dt_test)
-        hypo2(X,y,svm_test,linear_test)
+        
+        hypo1(X,y,gradient_test,svm_test)
+        hypo2(X,y,gradient_test,ada_test)
 
 
 if __name__ == '__main__':
