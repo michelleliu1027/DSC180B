@@ -45,7 +45,7 @@ PROJECT
 * `inputs.json`: It contains the argument inputs
 
 ### `notebooks/`
-* `DSC180B_Presentation.ipynb`: EDA, Hypothesis Testing and Visual Presentation on our project
+* `DSC180B_Code.ipynb`: EDA, Hypothesis Testing and Visual Presentation on our project
 
 ### `references/`
 * `README.md`: External sources
