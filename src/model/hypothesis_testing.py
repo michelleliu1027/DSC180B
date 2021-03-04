@@ -127,7 +127,7 @@ def hypo2(X,y,gradient_test,ada_test):
     print("Observed difference between gradient boosting error and adaBoosting error: " + str(observed_gradient_ada))
     
     diffb = simulation2(GradientBoostingRegressor(), AdaBoostRegressor(), X, y)
-    p_gradient_ada = (diffd<observed_gradient_ada).mean()
+    p_gradient_ada = (diffb<observed_gradient_ada).mean()
     print("p-value: " + str(p_gradient_ada))
     
     

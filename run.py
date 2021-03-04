@@ -139,12 +139,13 @@ def main(targets):
         linear_train, linear_test = linear_reg(X_train1, y_train1, X_test1,  y_test1)
         svm_train, svm_test = supportvm(X_train1, y_train1,X_test1, y_test1)
         dt_train, dt_test = dtr(X_train1, y_train1,X_test1, y_test1)
-        rf_train, rf_test = mae(RandomForestRegressor(), X_train1, y_train1, X_test1, y_test1)
-        ada_train, ada_test = mae(AdaBoostRegressor(), X_train1, y_train1, X_test1, y_test1)
-        gradient_train, gradient_test = mae(GradientBoostingRegressor(), X_train1, y_train1, X_test1, y_test1)
+        rf_train, rf_test = rf( X_train1, y_train1, X_test1, y_test1)
+        ada_train, ada_test = ada( X_train1, y_train1, X_test1, y_test1)
+        gradient_train, gradient_test = gradient( X_train1, y_train1, X_test1, y_test1)
         
-        
+        print('\n')
         hypo1(X,y,gradient_test,svm_test)
+        print('\n')
         hypo2(X,y,gradient_test,ada_test)
            
     
@@ -186,8 +187,9 @@ def main(targets):
         ada_train, ada_test = mae(AdaBoostRegressor(), X_train1, y_train1, X_test1, y_test1)
         gradient_train, gradient_test = mae(GradientBoostingRegressor(), X_train1, y_train1, X_test1, y_test1)
         
-        
+        print('\n')
         hypo1(X,y,gradient_test,svm_test)
+        print('\n')
         hypo2(X,y,gradient_test,ada_test)
 
 

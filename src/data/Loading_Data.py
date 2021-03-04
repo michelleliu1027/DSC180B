@@ -35,8 +35,8 @@ HW_OUTFP2 = 'minimini_hw2.csv'
 
 def load_device(DEVICE_OUTFP1, DEVICE_OUTFP2):
     
-    df3 = pd.read_csv(DEVICE_OUTFP1)
-    df4 = pd.read_csv(DEVICE_OUTFP2)
+    df3 = pd.read_csv(DEVICE_OUTFP1, index_col = 0)
+    df4 = pd.read_csv(DEVICE_OUTFP2, index_col = 0)
     device_use = df4.append(df3)
     newcol = ['dt', 'load_ts', 'batch_id', 'audit_zip', 'audit_internal_path', 'guid',
            'interval_start_utc', 'interval_end_utc', 'interval_local_start',
@@ -48,7 +48,7 @@ def load_device(DEVICE_OUTFP1, DEVICE_OUTFP2):
     
 def load_battery_event(BATTERY_EVENT_OUTFP):
     
-    battery_event = pd.read_csv(BATTERY_EVENT_OUTFP)
+    battery_event = pd.read_csv(BATTERY_EVENT_OUTFP, index_col = 0)
     newcol = ['dt', 'guid','load_ts','batch_id','audit_zip','audit_internal_path',
            'interval_start_utc', 'interval_end_utc', 'interval_local_start',
            'interval_local_end', 'ts','system_power_state', 'event_type',
@@ -59,7 +59,7 @@ def load_battery_event(BATTERY_EVENT_OUTFP):
 
 def load_battery_info(BATTERY_INFO_OUTFP):
     
-    battery_info = pd.read_csv(BATTERY_INFO_OUTFP)
+    battery_info = pd.read_csv(BATTERY_INFO_OUTFP, index_col = 0)
     newcol = ['dt', 'guid','load_ts','batch_id','audit_zip','audit_internal_path',
            'interval_start_utc', 'interval_end_utc', 'interval_local_start',
            'interval_local_end', 'ts','battery_enum', 'chemistry',
@@ -69,7 +69,7 @@ def load_battery_info(BATTERY_INFO_OUTFP):
     return battery_info
 
 def load_process(PROCESS_OUTFP1):
-    process = pd.read_csv(PROCESS_OUTFP1)
+    process = pd.read_csv(PROCESS_OUTFP1, index_col = 0)
     newcol = ['dt', 'guid','load_ts','batch_id','audit_zip','audit_internal_path','interval_start_utc', 
      'interval_end_utc', 'interval_local_start',
            'interval_local_end', 'ts','proc_name', 'exe_hash',
@@ -83,8 +83,8 @@ def load_process(PROCESS_OUTFP1):
     return process
 
 def load_cpu(HW_OUTFP1, HW_OUTFP2):
-    cpu1 = pd.read_csv(HW_OUTFP1)
-    cpu2 = pd.read_csv(HW_OUTFP2)
+    cpu1 = pd.read_csv(HW_OUTFP1, index_col = 0)
+    cpu2 = pd.read_csv(HW_OUTFP2, index_col = 0)
     cpu = cpu1.append(cpu2)
     newcol = ['dt', 'guid','load_ts','batch_id','audit_zip','audit_internal_path',
            'interval_start_utc', 'interval_end_utc', 'interval_local_start',
