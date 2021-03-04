@@ -11,41 +11,26 @@ warnings.filterwarnings('ignore')
 DATES = pd.date_range('2020-09', '2020-10', freq='D', closed='left')
 
 DEVICE_INFP1 = 'devuse_4known_device.csv000.gz'
-DEVICE_OUTFP1 = 'sample2_device_1.csv'
+DEVICE_OUTFP1 = 'minimini_device_use1.csv'
 
 DEVICE_INFP2 = 'devuse_4known_device.csv001.gz'
-DEVICE_OUTFP2 = 'sample2_device_2.csv'
+DEVICE_OUTFP2 = 'minimini_device_use2.csv'
 
 BATTERY_EVENT_INFP = 'batt_acdc_events.csv000.gz'
-BATTERY_EVENT_OUTFP = 'sample2_events.csv'
+BATTERY_EVENT_OUTFP = 'minimini_battery_event2.csv'
 
 BATTERY_INFO_INFP = 'batt_info.csv000.gz'
-BATTERY_INFO_OUTFP = 'sample2_info.csv'
+BATTERY_INFO_OUTFP = 'minimini_battery_info2.csv'
 
 PROCESS_INFP1 = 'plist_process_resource_util_13wks.csv000.gz'
-PROCESS_OUTFP1 = 'sample2_process_1.csv'
-
-PROCESS_INFP2 = 'plist_process_resource_util_13wks.csv001.gz'
-PROCESS_OUTFP2 = 'sample2_process_2.csv'
-
-
-
-PROCESS_INFP3 = 'plist_process_resource_util_hist.csv001.gz'
-PROCESS_OUTFP3 = 'sample2_process_3.csv'
-
-PROCESS_INFP4 = 'plist_process_resource_util_hist.csv002.gz'
-PROCESS_OUTFP4 = 'sample2_process_4.csv'
-
-PROCESS_INFP5 = 'plist_process_resource_util_hist.csv003.gz'
-PROCESS_OUTFP5 = 'sample2_process_5.csv'
-
+PROCESS_OUTFP1 = 'minimini_process1.csv'
 
 
 HW_INFP1 = 'hw_metric_histo.csv000.gz'
-HW_OUTFP1 = 'sample2_hw_1.csv'
+HW_OUTFP1 = 'minimini_hw1.csv'
 
 HW_INFP2 = 'hw_metric_histo.csv001.gz'
-HW_OUTFP2 = 'sample2_hw_2.csv'
+HW_OUTFP2 = 'minimini_hw2.csv'
     
 
 def load_device(DEVICE_OUTFP1, DEVICE_OUTFP2):
