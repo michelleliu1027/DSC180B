@@ -11,34 +11,30 @@ warnings.filterwarnings('ignore')
 # First guessing: battery minutes remaining is related with number of devices
 def num_dev_feature(battery_event, device_use):
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
-    data1 = data1.loc[data1>0]
 
-    num_dev = device_use.set_index('guid').loc[set(battery_event.guid).intersection(device_use.guid)].reset_index().groupby(['guid']).name.count().sort_index()
-    num_dev = num_dev.loc[set(data1.index).intersection(set(num_dev.index))]
-    data1 = data1.loc[set(data1.index).intersection(set(num_dev.index))]
-    
-    print(data1, num_dev)
+    data2 = device_use.set_index('guid').loc[set(battery_event.guid)].reset_index().groupby(['guid']).name.count().sort_index()
+    num_dev = data2.loc[data1.index]
+
+    print(np.corrcoef(data1, num_dev))
     
     return num_dev
 
 # Second guessing: battery minutes remaining is related with number of process
 def num_proc_feature(battery_event, process):
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
-    data1 = data1.loc[data1>0]
 
     needed = set(battery_event.guid).intersection(set(process.guid))
     num_proc = process.set_index('guid').loc[needed].reset_index().groupby(['guid']).proc_name.count().sort_index()
 
     data1 = data1.loc[set(num_proc.index).intersection(data1.index)]
     num_proc = num_proc.loc[data1.index]
-    
+
     print(np.corrcoef(data1, num_proc))
     return num_proc
 
 # Third guessing: battery minutes remaining is related with Average Page Faults
 def page_faults_feature(battery_event, process):
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
-    data1 = data1.loc[data1>0]
 
     needed = set(battery_event.guid).intersection(set(process.guid))
     page_faults = process.set_index('guid').loc[needed].reset_index().groupby(['guid']).page_faults.mean().sort_index()
@@ -53,13 +49,12 @@ def page_faults_feature(battery_event, process):
 # Fourth guessing: battery minutes remaining is related with Average Memory
 def avg_memory_feature(battery_event, process):
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
-    data1 = data1.loc[data1>0]
 
     needed = set(battery_event.guid).intersection(set(process.guid))
-    avg_memory = process.set_index('guid').loc[needed].reset_index().groupby(['guid']).avg_memory.mean().sort_index()
+    data2 = process.set_index('guid').loc[needed].reset_index().groupby(['guid']).avg_memory.mean().sort_index()
 
-    data1 = data1.loc[set(avg_memory.index).intersection(data1.index)]
-    avg_memory = avg_memory.loc[data1.index]
+    data1 = data1.loc[set(data2.index).intersection(data1.index)]
+    avg_memory = data2.loc[data1.index]
     
     print(np.corrcoef(data1, avg_memory))
     
@@ -68,14 +63,13 @@ def avg_memory_feature(battery_event, process):
 # Fifth guessing: battery minutes remaining is related with cpu_user_sec + cpu_kernel_sec
 def cpu_sec_feature(battery_event, process):
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
-    data1 = data1.loc[data1>0]
 
     needed = set(battery_event.guid).intersection(set(process.guid))
     process['cpu_sec']= process['cpu_user_sec']+process['cpu_kernel_sec']
-    cpu_sec = process.set_index('guid').loc[needed].reset_index().groupby(['guid']).cpu_sec.mean().sort_index()
+    data2 = process.set_index('guid').loc[needed].reset_index().groupby(['guid']).cpu_sec.mean().sort_index()
 
-    data1 = data1.loc[set(cpu_sec.index).intersection(data1.index)]
-    cpu_sec = cpu_sec.loc[data1.index]
+    data1 = data1.loc[set(data2.index).intersection(data1.index)]
+    cpu_sec = data2.loc[data1.index]
     
     print(np.corrcoef(data1, cpu_sec))
     
@@ -84,11 +78,11 @@ def cpu_sec_feature(battery_event, process):
 # Sixth guessing: battery minutes remaining is related with full_charge_capacity
 def capacity_feature(battery_event, battery_info):
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
-    data1 = data1.loc[data1>0]
+    
     needed = set(battery_event.guid).intersection(set(battery_info.guid))
-    capacity = battery_info.set_index('guid').loc[needed].reset_index().groupby(['guid']).full_charge_capacity.mean().sort_index()
-    data1 = data1.loc[set(capacity.index).intersection(data1.index)]
-    capacity = capacity.loc[data1.index]
+    data2 = battery_info.set_index('guid').loc[needed].reset_index().groupby(['guid']).full_charge_capacity.mean().sort_index()
+    data1 = data1.loc[set(data2.index).intersection(data1.index)]
+    capacity = data2.loc[data1.index]
     
     print(np.corrcoef(data1, capacity))
     
@@ -100,7 +94,6 @@ def cpu_percent_feature(cpu, battery_event):
     cpu_percent = cpu_info.loc[cpu_info.name == 'HW::CORE:C0:PERCENT:']
     
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
-    data1 = data1.loc[data1>0]
 
     needed = set(data1.index).intersection(set(cpu_percent.guid))
     cpu_percent = cpu_percent.set_index('guid').loc[needed]['mean']
@@ -118,7 +111,6 @@ def cpu_temp_feature(cpu, battery_event):
     cpu_centi_temp = cpu_info.loc[cpu_info.name == 'HW::CORE:TEMPERATURE:CENTIGRADE:']
     
     data1 = battery_event.groupby(['guid']).battery_minutes_remaining.mean()
-    data1 = data1.loc[data1>0]
 
     needed = set(data1.index).intersection(set(cpu_centi_temp.guid))
     cpu_temp = cpu_centi_temp.set_index('guid').loc[needed]['mean']
