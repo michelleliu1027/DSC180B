@@ -6,10 +6,12 @@ import warnings
 import sys
 from datetime import datetime
 
-
 from sklearn.linear_model import LinearRegression
 from sklearn import svm
 from sklearn.tree import DecisionTreeRegressor
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.ensemble import AdaBoostRegressor
+from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.metrics import mean_absolute_error
 from sklearn.model_selection import train_test_split
 
@@ -60,6 +62,7 @@ def linear_reg(X_train1, y_train1, X_test1, y_test1):
     # for our baseline model, we will use linear regression for calculating mean absolute error 
     linear_train, linear_test = mae(LinearRegression(), X_train1, y_train1, X_test1, y_test1)
     print("linear training error: " + str(linear_train), "linear test error: " + str(linear_test))
+    
     return linear_train, linear_test
    
 
@@ -69,6 +72,7 @@ def supportvm(X_train1, y_train1, X_test1, y_test1):
     # to improve our baseline model, we will consider SVM for calculating mean absolute error 
     svm_train, svm_test = mae(svm.SVR(), X_train1, y_train1, X_test1, y_test1)
     print("svm training error: " + str(svm_train), "svm test error: " + str(svm_test))
+    
     return svm_train, svm_test
 
     
@@ -76,37 +80,55 @@ def dtr(X_train1, y_train1, X_test1, y_test1):
     # This time, we will use decision tree regressor to calculate mean absolute error 
     dt_train, dt_test = mae(DecisionTreeRegressor(), X_train1, y_train1, X_test1, y_test1)
     print("decision tree training error: " + str(dt_train), "decision tree test error: " + str(dt_test))
-    return dt_train, dt_test
     
+    return dt_train, dt_test
+
+def rf(X_train1, y_train1, X_test1, y_test1):
+    rf_train, rf_test = mae(RandomForestRegressor(), X_train1, y_train1, X_test1, y_test1)
+    print("random forest error: " + str(rf_train), "random forest test error: " + str(rf_test))
+    
+    return rf_train,rf_test
+
+def ada(X_train1, y_train1, X_test1, y_test1):
+    ada_train, ada_test = mae(AdaBoostRegressor(), X_train1, y_train1, X_test1, y_test1)
+    print("adaBoosting error: " + str(ada_train), "adaBoosting test error: " + str(ada_test))
+    
+    return ada_train, ada_test
+
+def gradient(X_train1, y_train1, X_test1, y_test1):
+    gradient_train, gradient_test = mae(GradientBoostingRegressor(), X_train1, y_train1, X_test1, y_test1)
+    print("gradient boosting error: " + str(gradient_train), "gradient boosting test error: " + str(gradient_test))
+
+    return gradient_train, gradient_test
     
 ##### Hypothesis Testing #####
 
 # Hypothesis Testing1
-# Null Hypo: There's no difference in performance between SVM and Decision Tree Regressor
-# Alternative Hypo: SVM performs better than Decision Tree Regressor
-def hypo1(X,y,svm_test,dt_test):
-    print("Null Hypo: There's no difference in performance between SVM and Decision Tree Regressor")
-    print("Alternative Hypo: SVM performs better than Decision Tree Regressor")
-    observed_svm_dt = svm_test - dt_test
-    print("Observed difference between svm error and decision tree error: " + str(observed_svm_dt))
+# Null Hypo: There's no difference in performance between Gradient Boosting Regressor and SVM
+# Alternative Hypo: Gradient Boosting Regressor performs better than SVM
+def hypo1(X,y,gradient_test,svm_test):
+    print("Null Hypo: There's no difference in performance between Gradient Boosting Regressor and SVM")
+    print("Alternative Hypo: Gradient Boosting Regressor performs better than SVM")
+    observed_gradient_svm = gradient_test - svm_test
+    print("Observed difference between gradient boosting error and svm error: " + str(observed_gradient_svm))
     
-    diffa = simulation2(svm.SVR(), DecisionTreeRegressor(), X, y)
-    p_dt_svm = 1-(diffa>observed_svm_dt).mean()
-    print("p-value: " + str(p_dt_svm))
+    diffa = simulation2(GradientBoostingRegressor(), svm.SVR(), X, y)
+    p_gradient_svm = (diffa<observed_gradient_svm).mean()
+    print("p-value: " + str(p_gradient_svm))
     
     
 # Hypothesis Testing2
-# Null Hypo: There's no difference in performance between SVM and Linear Regression
-# Alternative Hypo: SVM performs better than Linear Regression
-def hypo2(X,y,svm_test,linear_test):   
-    print("Null Hypo: There's no difference in performance between SVM and Linear Regression")
-    print("Alternative Hypo: SVM performs better than Linear Regression")
-    observed_svm_lr = svm_test - linear_test
-    print("Observed difference between svm error and linear error: " + str(observed_svm_lr))
+# Null Hypo: There's no difference in performance between Gradient Boosting Regressor and AdaBoosting Regressor
+# Alternative Hypo: Gradient Boosting Regressor performs better than AdaBoosting Regressor
+def hypo2(X,y,gradient_test,ada_test):   
+    print("Null Hypo: There's no difference in performance between Gradient Boosting Regressor and AdaBoosting Regressor")
+    print("Alternative Hypo: Gradient Boosting Regressor performs better than AdaBoosting Regressor")
+    observed_gradient_ada = gradient_test - ada_test
+    print("Observed difference between gradient boosting error and adaBoosting error: " + str(observed_gradient_ada))
     
-    diff = simulation2(svm.SVR(), LinearRegression(), X, y)
-    p_dt_lr = 1-(diff>observed_svm_lr).mean()
-    print("p-value: " + str(p_dt_lr))
+    diffb = simulation2(GradientBoostingRegressor(), AdaBoostRegressor(), X, y)
+    p_gradient_ada = (diffd<observed_gradient_ada).mean()
+    print("p-value: " + str(p_gradient_ada))
     
     
 
